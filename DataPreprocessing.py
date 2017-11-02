@@ -1,6 +1,3 @@
-
-# coding: utf-8
-
 # # Sentiment Intensity Affects on Twitter Data
 #     Step 1: Data Preprocessing
 #             a) Removal of Stem words
@@ -9,46 +6,21 @@
 #             d) Removal of Emoticons
 #     Step 2: <--To be done-->
 
-# In[1]:
-
-
 import numpy as np
 import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-from nltk.corpus import stopwords
-from collections import Counter
 import nltk
 from nltk.stem.snowball import SnowballStemmer
 import string
 from pathlib import Path
 import re
 
-
-# In[2]:
-
-
-get_ipython().magic('matplotlib inline')
-
-
-# In[3]:
-
-
 features = ['id','sentence','emotion','intensity']
 stemmer = SnowballStemmer("english")
-
-
 # # Data Preprocessing:
 #     Step 1: Stemmer Removal
 #     Step 2: Emotion Removal
 #     Step 3: Puntuation Removal
-
-# In[4]:
-
-
 def stemEmotionRemoval(datapre):
-    tokens = []
-    #U+1F35E   U+1F9C0 U+2B50
     emoji_pattern = re.compile("["
         u"\U0001F600-\U0001F97F"      # 64F  # emoticons
         u"\U0001F300-\U0001F9FF"  # symbols & pictographs
@@ -64,12 +36,7 @@ def stemEmotionRemoval(datapre):
         datapre['sentence'][i] = nltk.word_tokenize(no_puntuation_in)
         datapre['intensity'][i] = str(datapre['intensity'][i]).split(':')[0]
         i = i + 1
-    #datapre['intensity'] = str(datapre[intensity]).split(':')[0]
     return datapre[['id','sentence','intensity']]
-
-
-# In[5]:
-
 
 def dataframecreator(filename,createname):
     datapre = pd.DataFrame({'A' : []})
@@ -89,39 +56,15 @@ def dataframecreator(filename,createname):
         textfile.close()
         return datapre
 
-
 # # Create dataframes for Anger, Fear, Joy, Sadness datasets
-
-# In[ ]:
-
-
 #Anger dataframe creation
-angerdataframe = dataframecreator('./EI-oc-En-train/EI-oc-En-anger-train.txt','angertrainset.txt')
-
-
-# In[ ]:
-
-
+angerdataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt','./processeddata/angertrainset.txt')
 #Fear dataframe creation
-feardataframe = dataframecreator('./EI-oc-En-train/EI-oc-En-fear-train.txt','feartrainset.txt')
-
-
-# In[ ]:
-
-
+feardataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-train.txt','./processeddata/feartrainset.txt')
 #Joy dataframe creation
-joydataframe = dataframecreator('./EI-oc-En-train/EI-oc-En-joy-train.txt','joytrainset.txt')
-
-
-# In[ ]:
-
-
+joydataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
 #Sadness dataframe creation
-sadnessdataframe = dataframecreator('./EI-oc-En-train/EI-oc-En-sadness-train.txt','sadnesstrainset.txt')
-
-
-# In[ ]:
-
-
+sadnessdataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
 print(angerdataframe)
-
+#valence dataframe creation",
+valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
