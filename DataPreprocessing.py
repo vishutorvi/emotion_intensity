@@ -15,6 +15,7 @@ import string
 from pathlib import Path
 import re
 
+emotion = 0 #0=anger, 1=fear, 2=joy, 3=sadness
 features = ['id','sentence','emotion','intensity']
 stemmer = SnowballStemmer("english")
 emotion = 0 
