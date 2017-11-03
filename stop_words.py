@@ -33,6 +33,27 @@ def get_tokens(datapre):
     #datapre['intensity'] = str(datapre[intensity]).split(':')[0]
     return datapre[['id','sentence','intensity']]
 
+def get_score(wordtable,emotion,wordstring):
+    #if not isinstance(wordtable, pd.DataFrame): #check if file exists
+     #   return 0
+    wordtable=wordtable.loc[wordtable['emotion']==emotion] #subset only the matching emotion, may want to do this before to reduce complexity for every word search
+    return wordtable.loc[wordtable['word']==wordstring,'score'] #return only the float score value, empty if not found
+
+def check_emotion(emotiontable,emotion,wordstring):
+    #if not isinstance(emotiontable, pd.DataFrame): #check if file exists
+     #   return 0
+    try:
+        return emotiontable.loc[wordstring,emotion]
+    except:
+        return 0
+
+
+wordtable=pd.read_table('NRC-Sentiment-Emotion-Lexicons/Lexicons/NRC-Hashtag-Emotion-Lexicon-v0.2/NRC-Hashtag-Emotion-Lexicon-v0.2.txtget',header=None)
+wordtable.columns = ['emotion','word','score']
+
+emotiontable=pd.read_table('NRC-Emotion-Lexicon-Wordlevel-v0.92.txt',header=None)
+emotiontable.columns = ['word','emotion','score']
+emotiontable=pd.pivot_table(emotiontable,index=['word'],columns=['emotion'],values=['score'])['score']
 
 
 
