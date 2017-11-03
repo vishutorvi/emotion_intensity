@@ -82,11 +82,16 @@ else:
 #valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
 
 stop_words = np.loadtxt('./stop_words.txt', dtype=str)
+new_stop_words = []
+for x in range(len(stop_words)):
+    new_stop_words +=[stop_words[x].translate(str.maketrans('','',string.punctuation.replace("#","")))]
+
+new_stop_words = np.array(new_stop_words)
 i=0
 for text in data['sentence']:
     new_text = []
     for word in text:
-        if(np.any(stop_words[:] == np.str_(word))):
+        if(np.any(new_stop_words[:] == word)):
             continue
         else:
             new_text += [word]
