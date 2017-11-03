@@ -4,7 +4,8 @@
 #             b) Removal of Stop words
 #             c) Removal of Puntuations
 #             d) Removal of Emoticons
-#     Step 2: <--To be done-->
+#     Step 2: Feature Extraction
+#             a) Extracting using NRC-Hashtag emotion lexicon
 
 import numpy as np
 import pandas as pd
@@ -31,9 +32,9 @@ def stemEmotionRemoval(datapre):
     i = 0
     for text in datapre['sentence']:
         lowers = text.lower()
-        no_punctuation = lowers.translate(str.maketrans('','',string.punctuation))
+        no_punctuation = lowers.translate(str.maketrans('','',string.punctuation.replace("#","")))
         no_puntuation_in = emoji_pattern.sub(r'', no_punctuation)
-        datapre['sentence'][i] = nltk.word_tokenize(no_puntuation_in)
+        datapre['sentence'][i] = [x for x in str(no_puntuation_in).split(" ")]
         datapre['intensity'][i] = str(datapre['intensity'][i]).split(':')[0]
         i = i + 1
     return datapre[['id','sentence','intensity']]
@@ -52,9 +53,9 @@ def dataframecreator(filename,createname):
         for index, row in datapre.iterrows():
             textfile.write(str(row['id'])+'\t')
             textfile.write(str(row['sentence'])+'\t')
-            textfile.write('\t'+str(row['intensity'])+'\n')
+            textfile.write(str(row['intensity'])+'\n')
         textfile.close()
-        return datapre
+    return datapre[['id','sentence','intensity']]
 
 # # Create dataframes for Anger, Fear, Joy, Sadness datasets
 #Anger dataframe creation
@@ -65,6 +66,5 @@ feardataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-tr
 joydataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
 #Sadness dataframe creation
 sadnessdataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
-print(angerdataframe)
 #valence dataframe creation",
 valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
