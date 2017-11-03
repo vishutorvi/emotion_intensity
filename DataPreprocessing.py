@@ -4,7 +4,8 @@
 #             b) Removal of Stop words
 #             c) Removal of Puntuations
 #             d) Removal of Emoticons
-#     Step 2: <--To be done-->
+#     Step 2: Feature Extraction
+#             a) Extracting using NRC-Hashtag emotion lexicon
 
 import numpy as np
 import pandas as pd
@@ -14,8 +15,16 @@ import string
 from pathlib import Path
 import re
 
+emotion = 0 #0=anger, 1=fear, 2=joy, 3=sadness
 features = ['id','sentence','emotion','intensity']
 stemmer = SnowballStemmer("english")
+emotion = 0 
+
+def wordtokenize(text):
+    sentence = []
+    for x in text.split(" "):
+        sentence += [x]
+    return sentence
 # # Data Preprocessing:
 #     Step 1: Stemmer Removal
 #     Step 2: Emotion Removal
@@ -31,9 +40,9 @@ def stemEmotionRemoval(datapre):
     i = 0
     for text in datapre['sentence']:
         lowers = text.lower()
-        no_punctuation = lowers.translate(str.maketrans('','',string.punctuation))
+        no_punctuation = lowers.translate(str.maketrans('','',string.punctuation.replace("#","")))
         no_puntuation_in = emoji_pattern.sub(r'', no_punctuation)
-        datapre['sentence'][i] = nltk.word_tokenize(no_puntuation_in)
+        datapre['sentence'][i] = wordtokenize(no_puntuation_in)
         datapre['intensity'][i] = str(datapre['intensity'][i]).split(':')[0]
         i = i + 1
     return datapre[['id','sentence','intensity']]
@@ -52,19 +61,39 @@ def dataframecreator(filename,createname):
         for index, row in datapre.iterrows():
             textfile.write(str(row['id'])+'\t')
             textfile.write(str(row['sentence'])+'\t')
-            textfile.write('\t'+str(row['intensity'])+'\n')
+            textfile.write(str(row['intensity'])+'\n')
         textfile.close()
-        return datapre
+    return datapre[['id','sentence','intensity']]
 
 # # Create dataframes for Anger, Fear, Joy, Sadness datasets
+if emotion == 0:    
 #Anger dataframe creation
-angerdataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt','./processeddata/angertrainset.txt')
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt','./processeddata/angertrainset.txt')
+elif emotion == 1:    
 #Fear dataframe creation
-feardataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-train.txt','./processeddata/feartrainset.txt')
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-train.txt','./processeddata/feartrainset.txt')
+elif emotion == 2:    
 #Joy dataframe creation
-joydataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
+else:    
 #Sadness dataframe creation
-sadnessdataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
-print(angerdataframe)
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
 #valence dataframe creation",
-valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
+#valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
+
+stop_words = np.loadtxt('./stop_words.txt', dtype=str)
+new_stop_words = []
+for x in range(len(stop_words)):
+    new_stop_words +=[stop_words[x].translate(str.maketrans('','',string.punctuation.replace("#","")))]
+
+new_stop_words = np.array(new_stop_words)
+i=0
+for text in data['sentence']:
+    new_text = []
+    for word in text:
+        if(np.any(new_stop_words[:] == word)):
+            continue
+        else:
+            new_text += [word]
+    data['sentence'][i] = new_text
+    i = i + 1
