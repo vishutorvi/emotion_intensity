@@ -36,20 +36,24 @@ def get_tokens(datapre):
 
 
 
-data = pd.read_table('../datasets/EI-oc-En-train/EI-oc-En-anger-train.txt')
+data = pd.read_table('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt', header=None)
 data.columns = ['id', 'sentence','emotion','intensity']
 #tokenize the msg
 data_tokenized = get_tokens(data)
 #data_copy = data_tokenized
 
 #stop_words = pd.read_table('../datasets/stop_words.txt', header=None)
-stop_words = np.loadtxt('../datasets/stop_words.txt', dtype=str)
+stop_words = np.loadtxt('./stop_words.txt', dtype=str)
+
 i=0
 for text in data['sentence']:
+    new_text=[]
     for word in text:
         if(np.any(stop_words[:] == np.str_(word))):
-            text.remove(word)
-    data['sentence'][i] = text
+            continue
+        else:
+            new_text += [word]
+    data['sentence'][i] = new_text
     i = i + 1
         
         

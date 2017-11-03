@@ -14,6 +14,7 @@ import string
 from pathlib import Path
 import re
 
+emotion = 0 #0=anger, 1=fear, 2=joy, 3=sadness
 features = ['id','sentence','emotion','intensity']
 stemmer = SnowballStemmer("english")
 # # Data Preprocessing:
@@ -54,17 +55,38 @@ def dataframecreator(filename,createname):
             textfile.write(str(row['sentence'])+'\t')
             textfile.write('\t'+str(row['intensity'])+'\n')
         textfile.close()
-        return datapre
+    return datapre
 
 # # Create dataframes for Anger, Fear, Joy, Sadness datasets
+if emotion == 0:    
 #Anger dataframe creation
-angerdataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt','./processeddata/angertrainset.txt')
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt','./processeddata/angertrainset.txt')
+elif emotion == 1:    
 #Fear dataframe creation
-feardataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-train.txt','./processeddata/feartrainset.txt')
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-train.txt','./processeddata/feartrainset.txt')
+elif emotion == 2:    
 #Joy dataframe creation
-joydataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
+else:    
 #Sadness dataframe creation
-sadnessdataframe = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
-print(angerdataframe)
+    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
+print(data)
 #valence dataframe creation",
-valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
+#valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
+
+
+#data = pd.read_table('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt')
+#data.columns = ['id', 'sentence','emotion','intensity']
+#tokenize the msg
+data_tokenized = stemEmotionRemoval(data)
+#data_copy = data_tokenized
+
+#stop_words = pd.read_table('../datasets/stop_words.txt', header=None)
+stop_words = np.loadtxt('./stop_words.txt')
+i=0
+for text in data['sentence']:
+    for word in text:
+        if(np.any(stop_words[:] == np.str_(word))):
+            text.remove(word)
+    data['sentence'][i] = text
+    i = i + 1
