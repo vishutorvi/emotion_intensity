@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-emotion = 4
+emotion = 1
 def get_score(wordtable,emotion,wordstring):
     wordtable1=wordtable[wordtable['emotion']==emotion] #subset only the matching emotion, may want to do this before to reduce complexity for every word search
     wordemotion = np.array(wordtable1[['word','score']],dtype=str)
@@ -59,4 +59,4 @@ for row in processeddataset['sentence']:
     angerFeatureFrame = angerFeatureFrame.append(h,ignore_index = True)
     i = i + 1
 
-angerFeatureFrame.to_csv('./scoreddata/valenceemotionscores.txt',header=['id','score','intensity'], index = False, sep='\t')
+angerFeatureFrame.to_csv('./scoreddata/fearemotionscores.txt',header=['id','score','intensity'], index = False, sep='\t')
