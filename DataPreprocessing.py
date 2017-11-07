@@ -15,7 +15,7 @@ import string
 from pathlib import Path
 import re
 
-emotion = 4 #0=anger, 1=fear, 2=joy, 3=sadness
+emotion = 0 #0=anger, 1=fear, 2=joy, 3=sadness
 features = ['id','sentence','emotion','intensity']
 stemmer = SnowballStemmer("english")
 
@@ -23,7 +23,7 @@ stemmer = SnowballStemmer("english")
 def wordtokenize(text):
     sentence = []
     for x in text.split(" "):
-        sentence += [stemmer.stem(x)]
+        sentence += [x]
     return sentence
 
 def stopWordRemoval(data):
