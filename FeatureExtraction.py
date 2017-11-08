@@ -10,7 +10,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
 
-emotion = 1
+emotion = 3
 def get_score(wordtable,emotion,wordstring):
     wordtable1=wordtable[wordtable['emotion']==emotion] #subset only the matching emotion, may want to do this before to reduce complexity for every word search
     wordemotion = np.array(wordtable1[['word','score']],dtype=str)
@@ -34,14 +34,25 @@ emotiontable=pd.read_table('./NRC-Sentiment-Emotion-Lexicons/Lexicons/NRC-Emotio
 emotiontable.columns = ['word','emotion','score']
 emotiontable=pd.pivot_table(emotiontable,index=['word'],columns=['emotion'],values=['score'])['score']
 
+emotiontext = ''
+emotionscores = './scoreddata/'
+
 if emotion == 0:
     processeddataset = pd.read_csv('./processeddata/angertrainset.txt',names = features, sep='\t')
+    emotiontext = 'anger'
+    emotionscores += emotiontext+'emotionscores.txt'
 elif emotion == 1:
     processeddataset = pd.read_csv('./processeddata/feartrainset.txt',names = features, sep='\t')
+    emotiontext = 'fear'
+    emotionscores += emotiontext+'emotionscores.txt'
 elif emotion == 2:
     processeddataset = pd.read_csv('./processeddata/joytrainset.txt',names = features, sep='\t')
+    emotiontext = 'joy'
+    emotionscores += emotiontext+'emotionscores.txt'
 elif emotion == 3:
     processeddataset = pd.read_csv('./processeddata/sadnesstrainset.txt',names = features, sep='\t')
+    emotiontext = 'sadness'
+    emotionscores += emotiontext+'emotionscores.txt'
 else:
     processeddataset = pd.read_csv('./processeddata/valencetrainset.txt',names = features, sep='\t')
 
@@ -54,9 +65,9 @@ for row in processeddataset['sentence']:
     row = row.replace(' ','')
     score = 0.0
     for text in row.split(','):
-        score = score + get_score(wordtable, 'anger', text)
+        score = score + get_score(wordtable, emotiontext, text)
     h = pd.Series([str(processeddataset['id'][i]),str(score),str(processeddataset['intensity'][i])])
     angerFeatureFrame = angerFeatureFrame.append(h,ignore_index = True)
     i = i + 1
 
-angerFeatureFrame.to_csv('./scoreddata/fearemotionscores.txt',header=['id','score','intensity'], index = False, sep='\t')
+angerFeatureFrame.to_csv(emotionscores,header=['id','score','intensity'], index = False, sep='\t')
