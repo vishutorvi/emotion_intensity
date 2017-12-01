@@ -1,0 +1,200 @@
+2018-en-anger-dev-1	['offended', 'lol']	0
+2018-en-anger-dev-2	['jacksepticeye', 'grass', 'growing', 'simulator', 'offended']	1
+2018-en-anger-dev-3	['itskaiouji', 'noooo', 'sunbaenim', 'tease', 'like', '']	1
+2018-en-anger-dev-4	['supposed', 'arduous', 'interact', 'people', 'people', 'seem', 'struggle', '']	0
+2018-en-anger-dev-5	['remember', 'identity', 'christ', 'give', 'sting', 'rejection', 'christ', 'he’s', 'he’s', 'done', 'scars', 'prove']	0
+2018-en-anger-dev-6	['teach', 'people', 'effectively', '#questions', '#answer', '#help', '#twitter', '#nice', '#sad', '#begging', '#angry', '#teacher', '#what']	0
+2018-en-anger-dev-7	['displeasure', 'pieced', '#shakespeare']	0
+2018-en-anger-dev-8	['jaassiieeeee', 'will', 'fall', 'dark', 'side']	0
+2018-en-anger-dev-9	['worst', 'dreams', '']	1
+2018-en-anger-dev-10	['coffee', 'floor', 'soul', 'grew', 'furious', 'stillness', 'broken', 'little']	0
+2018-en-anger-dev-11	['wish',parts[-1] 'everyone', 'see', '#msnbc', '#cnn', 'talked', 'trumps', 'speech', '', 'ashamed', 'along', 'sheep', 'followers', '']	1
+2018-en-anger-dev-12	['justherrick', 'iphonenews', 'piece', '#crap']	2
+2018-en-anger-dev-13	['fucking', 'fuming', 'understatement']	2
+2018-en-anger-dev-14	['holding', 'anger', 'like', 'drinking', 'poison', 'expecting', 'person', 'dien#kissableslovesmshopmagnalloutdenimfor', 'kissmarc']	0
+2018-en-anger-dev-15	['#americasgottalent', 'live', 'shows', 'many', 'technical', 'faults', '#disheartening']	1
+2018-en-anger-dev-16	['achubbypanda', 'growl', 'softly', 'licks', 'lips', 'need', 'prove', 'think', 'might', 'need', 'go', 'somewhere', 'private']	0
+2018-en-anger-dev-17	['awardsdaily', 'looks', 'way', '', 'want', 'see', 'q', 'going', 'handle', 'tate', 'murder', '', '#shudder']	1
+2018-en-anger-dev-18	['dannie', 'terrible', 'influence', 'piercing', 'time']	0
+2018-en-anger-dev-19	['now', 'ravi', 'shastri', 'finally', 'appointed', 'head', 'coach', 'itll', 'interesting', 'see', 'whether', 'kohli', 'finally', 'stops', 'throwing', 'tantrums']	0
+2018-en-anger-dev-20	['musnt', 'allow', 'bitterness', 'anger', 'make', 'hearts', 'infertile', 'god’s', 'gifts']	0
+2018-en-anger-dev-21	['outside', 'basically', 'become', 'horror', 'movie', 'gypsy', 'moths', 'take', 'world', 'flitting', 'aggressively', 'aboutnn#creaturedoublefeature']	2
+2018-en-anger-dev-22	['maybe', 'joey', 'ignored', 'tinder', 'posted', 'social', 'media', 'trip', 'hawaii', '️', '#bitter']	2
+2018-en-anger-dev-23	['mafiaworldmario', 'stg', 'everybody', 'say', '', 'tell', 'got', 'huff', 'mad', 'shit']	2
+2018-en-anger-dev-24	['lythero', 'hugs', 'hoping', 'doom', 'shows', 'insult', 'everyone']	0
+2018-en-anger-dev-25	['kid', 'camp', 'said', 'inner', 'thigh', 'looked', 'like', 'slinky', 'buddy', 'stretch', 'marks', '', '#summercamp', '#offended']	1
+2018-en-anger-dev-26	['#loiuselinton', 'become', 'female', '#martinshkreli', 'hated', 'woman', 'america', 'takes', 'skill', '#entitlement', '', '#notcute']	2
+2018-en-anger-dev-27	['greatso', 'got', '5am', 'discover', 'amazon', 'prime', 'day', 'deal', '30', 'regular', 'price', '']	3
+2018-en-anger-dev-28	['united', 'airline', 'newark', 'needs', 'kiosks', 'people', 'miss', 'cut', 'time', '', 'hire', 'ppl', '', '#horrible']	2
+2018-en-anger-dev-29	['spotted', 'fed', 'got', '#ejaculating', 'live', 'bees', 'bees', '#angry']	3
+2018-en-anger-dev-30	['jesus', 'drank', 'cup', 'wrath', 'deserve', 'dry', 'might', 'drink', 'deeply', 'cup', 'salvation', 'eternally', 'satisfies', 'hab', '215']	0
+2018-en-anger-dev-31	['also', '80s', 'megamix', 'aint', 'mega', 'tonight', '']	0
+2018-en-anger-dev-32	['paypaluk', 'amp', 'truly', 'done', 'day', 'go', 'holiday', '#fuming']	2
+2018-en-anger-dev-33	['lost', 'weight', 'appear', 'smaller', 'pissed', '']	3
+2018-en-anger-dev-34	['alaina', '90', 'days', 'snap', 'streak']	0
+2018-en-anger-dev-35	['students', 'really', 'raging', 'tuition', 'collection', '#freeeducationnow']	1
+2018-en-anger-dev-36	['re', 'thread', 'brit', 'freaking', 'minor', 'cultural', 'differences', '', 'indignation', 'cuter', 'without', 'imperialist', 'undertones']	1
+2018-en-anger-dev-37	['kamaalrkhan', '#chutiya', '#producer', '#invested', '#crap', '#deshdrohi', '']	1
+2018-en-anger-dev-38	['coulda', 'sworn', 'interview', 'vampire', 'hmmmmandela', 'effect', 'anyone', 'n#interviewwithavampire', '#annerice', '#books', '#horror', '#ilovevamps']	0
+2018-en-anger-dev-39	['#revenge', 'marathon', 'begun', '']	1
+2018-en-anger-dev-40	['nothing', 'interesting', 'besides', 'retweet', 'follow', '#annoyed', '']	3
+2018-en-anger-dev-41	['parkermolloy', 'kfile', 'misleading', 'heading', 'mention', 'agenda', 'driven', 'article', '']	2
+2018-en-anger-dev-42	['wake', 'somewhere', 'elseyou', 'will', 'know', '#arsehole', 'pressed', 'button', '']	2
+2018-en-anger-dev-43	['friends', 'get', 'bitter', 'seems', 'life', 'moving', 'better']	2
+2018-en-anger-dev-44	['theieansquad', 'satanheavenly', 'rap', 'unbearable', 'horrific']	2
+2018-en-anger-dev-45	['high', 'bond', 'unrelated', 'offense', '', 'cops', 'fbi', 'digging', 'property', 'fears', 'end', 'families']	0
+2018-en-anger-dev-46	['literally', 'kicking', 'catching', 'got', 'now', 'see', 'spoilers', '#pissed']	3
+2018-en-anger-dev-47	['live', '30', 'miles', 'away', 'work', 'amp', 'arrived', 'realise', 'laptop', 'still', 'bed', '']	2
+2018-en-anger-dev-48	['\ufeff2206when', 'said', 'fear', 'allah', 'led', 'arrogance', 'crime', 'enough']	2
+2018-en-anger-dev-49	['duane', 'allman', 'died', 'learned', 'appreciate', 'stevie', 'ray', 'vaughan', 'true', 'story', '', '#blues', '#legends']	0
+2018-en-anger-dev-50	['kids', 'street', 'msn', 'something', 'play', 'instead', 'enjoying', 'outside', '#bitter', '#shush']	2
+2018-en-anger-dev-51	['james', 'clapper', 'scary', 'disturbing', '', '#25thamendmentnow', '#impeachtrump', '', '#terrified', '#nuclearcodes', '', '#godhelpus']	2
+2018-en-anger-dev-52	['it’s', 'lack', '#faith', 'makes', '#people', '#afraid', '#meeting', '#challenges', '…nn#muhammadali']	0
+2018-en-anger-dev-53	['really', 'pissed', 'fuck', 'good', 'job', 'keeping', 'kid', 'like', 'see', 'sick', 'sad']	3
+2018-en-anger-dev-54	['#walkingsidebyside', 'great', 'marriages', 'built', '#forgiveness', 'amptruthfulness', 'bad', 'marriages', '#resentment', 'bitterness', '#deceit', 'ampunfaithfulness']	0
+2018-en-anger-dev-55	['today', 'feel', 'like', 'exposed', 'wire', 'dangerously', 'close', 'another', 'exposed', 'wire', 'provocation', 'will', 'fry']	2
+2018-en-anger-dev-56	['byunsolo', 'ask', 'either', 'just', 'happened', '']	2
+2018-en-anger-dev-57	['mint', 'owls', 'often', 'indignant']	0
+2018-en-anger-dev-58	['sound', 'rain', 'pretty', 'peaceful', 'annoyed', 'mood', '']	0
+2018-en-anger-dev-59	['pamelageller', 'disgusting', 'facebook', 'just', 'may', 'end', 'like', '#snap', '#traitor']	2
+2018-en-anger-dev-60	['roflcritic', 'nbtdilli', 'sudamanbt', 'bjp', 'mcd', 'busy', 'collection', 'suvidha', 'sulk', 'unauthorised', 'colonies']	0
+2018-en-anger-dev-61	['sruhle', 'msnbc', 'sebestian', 'gorka', 'arrogant', 'ahole', 'business', 'speaking', '']	3
+2018-en-anger-dev-62	['sick', 'shit', '#mad', '#angry', 'rowan', 'atkinson', 'dead', 'just', 'bloody', 'online', 'hoax']	3
+2018-en-anger-dev-63	['girlposts', 'matdtaylor', 'actually', 'annoyed', 'get', '']	2
+2018-en-anger-dev-64	['argosonline', 'customer', 'service', 'dreadful', 'phone', 'bill', 'huge', 'get', 'passed', 'person', '2', 'person', 'keep', 'taking', 'money', 'card', '#idiots']	3
+2018-en-anger-dev-65	['baby', 'dancing', 'dark']	0
+2018-en-anger-dev-66	['can', 'replace', '#loss', '#hope', '#hate', '#love', '#pain', '#gain', 'close', 'window', '#bitterness', 'open', 'doors', '#faith', '#tryit']	0
+2018-en-anger-dev-67	['strange', 'juxtaposition', 'emotions', 'sense', 'euphoria', 'sense', 'despair']	1
+2018-en-anger-dev-68	['brennanpb', 'backs', 'always', 'thought', '', 'yer', 'mad', '']	0
+2018-en-anger-dev-69	['nro', 'acosta', 'cnn', 'realdonaldtrump', 'remember', 'nro', 'gave', 'cnn', 'grief', 'relentless', 'hc', 'email', 'crusade', 'either']	1
+2018-en-anger-dev-70	['preetbhararas', 'twitter', 'barbs', 'insightful', 'delightful', 'read', 'hath', 'fury', 'like', 'crusading', 'prosecutor', 'scorned']	0
+2018-en-anger-dev-71	['swear', 'god', 'husband', 'gonna', 'get', 'us', 'murdered', 'someone', 'road', 'rage', 'drives', 'like', 'indy', '500']	3
+2018-en-anger-dev-72	['badpostyoongi', 'know', 'fact', 'either', 'ignore', 'fact', 'tiff', 'change', 'cindys', 'background']	0
+2018-en-anger-dev-73	['amyjosmyth', '#ooc', 'thing', 'holds', 'grudge', 'like', 'mad']	2
+2018-en-anger-dev-74	['rachelkennedy84', 'callummay', 'neddonovan', 'jeyylowe', 'jimwaterson', 'dats', 'can', 'bell', 'ringing', 'incense', 'consecration']	0
+2018-en-anger-dev-75	['guess', 'stayed', '2am', 'just', 'incase', 'someone', 'called', 'never', 'like', 'knew', 'already', '', 'mistakes', 'made']	0
+2018-en-anger-dev-76	['lot', 'universities', 'actively', 'discourage', 'even', 'just', 'one', 'parttime', 'job', 'negative', 'impact', 'studies']	0
+2018-en-anger-dev-77	['izzyaline', 'burning', 'damn']	2
+2018-en-anger-dev-78	['despair', 'mouth', 'foaming', 'hostility', 'amp', 'dishonesty', 'leave', 'camp', 'amp', 'expose']	2
+2018-en-anger-dev-79	['pessimist', 'complains', 'wind', 'optimist', 'expects', 'change', 'realist', 'adjusts', 'sails']	0
+2018-en-anger-dev-80	['gunghoindallas', 'proverbs', '813nthe', '#fear', '#lord', 'hate', '#evil', 'pride', '#arrogance', '#evil', '#way', 'perverse', '#mouth', '12']	0
+2018-en-anger-dev-81	['ashleyemrick', 'whatever', 'floats', 'incense', 'boat']	0
+2018-en-anger-dev-82	['sarah', 'complete', 'lunatic', 'chad', 'still', 'giving', 'time', 'beyond', '#cbb', '#mad', '#crazy']	3
+2018-en-anger-dev-83	['people', 'like', 'saleem', 'sheikh', 'humanity', 'wins', 'terrorism', 'n', 'hatred', '#amarnathyatraattacked']	1
+2018-en-anger-dev-84	['praddy06', 'sir', 'will', 'need', 'umbrella', 'today', 'evening', 'sun', 'seems', 'stronger', 'pave', 'way', 'clouds', '']	0
+2018-en-anger-dev-85	['calling', 'ugly', 'even', 'insult', 'bc', 'know', 'already']	1
+2018-en-anger-dev-86	['actually', 'watch', 'drugs', 'destroy', 'entire', 'family', 'mothers', 'skid', 'row', 'oldest', 'daughter', 'lost', 'child', 'father', 'estranged', '#horrific']	2
+2018-en-anger-dev-87	['think', 'booking', 'holiday', '2', 'sat', 'next', 'bloody', 'plane', '#fuming', 'thomsonholidays']	3
+2018-en-anger-dev-88	['bravotv', 'way', 'watch', 'nyc', 'million', 'dollar', 'listing', 'amp', 'filter', 'fredrikeklundny', 'episodes', '#primadonna', '#duckface', '#tantrum']	0
+2018-en-anger-dev-89	['vinsquat67', 'indeed', 'raging', 'verdict', 'imagine', 'poor', 'lassies', 'family', 'felt']	2
+2018-en-anger-dev-90	['literally', 'hanging', 'thread', 'need', 'taylor', 'ray', 'tonight', 'loving', 'bad', 'dog', 'sucks', '#taylorrayholbrook', '#hurting', 'taylorraystweet']	2
+2018-en-anger-dev-91	['worse', 'feeling', 'discouraged', 'finding', 'emoji', 'feeling', 'discouraged']	1
+2018-en-anger-dev-92	['always', 'bounce', 'back', 'life', 'goes', 'mani', 'refuse', 'sulk', 'negativity', 'yesterdays', 'problems', 'just', 'always', 'new', 'day', '']	0
+2018-en-anger-dev-93	['fill', 'campaign', 'bank', 'account', 'tens', 'millions', 'dollarstrump', '2020', 'campaign', 'start', 'now', '#sad', '', '#bad']	1
+2018-en-anger-dev-94	['will', 'eat', 'end', 'term', 'chocolates', 'bought', '#fuming', '#doesntdeservethem', '#mightbedead']	1
+2018-en-anger-dev-95	['desi', 'feminists', 'must', 'hardest', 'imagine', 'controlling', 'rage', 'due', 'dance', 'wedding', 'mai', 'baarish', 'kar', 'du', 'paise', 'ki']	1
+2018-en-anger-dev-96	['sorry', 'annoy', 'just', 'real', 'passionate', 'ruby', 'always', 'want', 'give', 'love', 'deserves', '']	0
+2018-en-anger-dev-97	['uksportszone', 'words', 'like', 'result', 'poll', 'packing', 'polls', 'amp', 'taking', 'home', 'pout', '', '#bbn']	1
+2018-en-anger-dev-98	['marker', 'teacheri', 'looked', 'n', 'just', 'burst', 'laughing', 'swear', 'kids', 'will', 'never', 'take', 'seriously', '\u200d️']	0
+2018-en-anger-dev-99	['1ncamera', 'weehugs', 'davidyoungpa', 'pa', 'stupidity', 'part', 'proud', 'cultural', 'identity', '']	3
+2018-en-anger-dev-100	['ehteshamtoi', 'ravishastriofc', 'unfortunate', 'decision', 'players', 'superstars', 'cricketers', 'bcci', 'scared', 'tantrums']	1
+2018-en-anger-dev-101	['chyna', 'respond', 'rob', 'cus', 'knew', 'damn', 'plottin', 'knew', 'hurt', 'deeply', 'revenge', 'porn']	0
+2018-en-anger-dev-102	['literally', 'love', 'paul', 'much', '#bb19', '#pissed', '']	0
+2018-en-anger-dev-103	['watching', 'espn', 'anymore', 'took', 'robert', 'lee', 'name', 'pc', 'police', 'insanity', '#hatred', '#bigots', '#leftwingnutjob']	3
+2018-en-anger-dev-104	['blah', 'blah', 'blah', 'kyrie', 'etc', 'cjc9boss', 'leaving', 'boston', 'real', 'news', '#devastated', '#celtics', '#fave', '', '#someonegetmeajerseyteeasap']	2
+2018-en-anger-dev-105	['delta', '', 'kidding', '', 'delayed', '730pm', '1100', '', 'cancel', 'pilot', 'overtime', '']	3
+2018-en-anger-dev-106	['iaindale', 'lbc', 'word', 'worse', 'moist', 'opinion', 'scrape', '#ugh', '#shudder']	2
+2018-en-anger-dev-107	['irritated', '']	3
+2018-en-anger-dev-108	['leviticus', '1914nyou', 'shall', 'curse', '#deaf', 'put', 'stumbling', '#block', '#blind', 'shall', '#fear', '#god', '12']	0
+2018-en-anger-dev-109	['#teamchristine', 'bc', 'tana', 'done', 'provoke', 'tweeting', 'shady', 'shit', 'trying', 'hard', 'bitch', 'begging', 'fight']	2
+2018-en-anger-dev-110	['#emmerdale', 'rob', '#robron', 'first', 'child', 'together', 'vile', 'womancheating', 'sl', 'smh', '#bitter']	2
+2018-en-anger-dev-111	['wizkidayo', 'bro', 'u', 'just', 'dey', 'burst', 'brain', 'bro', 'need', 'u', '2', 'pls', 'end', 'everything', 'rift', 'btw', 'u', 'nd', 'hommie', 'davido', 'pls', 'bro', '4', 'd', 'sake', 'luv']	0
+2018-en-anger-dev-112	['happy', 'home', 'ibiza', 'place', 'thing', 'else', 'mad', 'gaff', '', 'need', 'find', 'bird', 'now', 'wanna', 'start', 'romantic', 'things', 'now', '']	0
+2018-en-anger-dev-113	['michaelsloan87', 'skyfootball', 'disappointment', 'actually', 'new', 'club', 'sponsor', '']	0
+2018-en-anger-dev-114	['annoy', 'name', 'annoys', 'everything', 'annoys', '']	3
+2018-en-anger-dev-115	['torridfashion', 'love', 'online', 'order', 'drama', 'horrible', 'hold', 'music', 'bit', 'shopping', 'induced', 'headache', '#annoyed']	3
+2018-en-anger-dev-116	['junkersquawker', 'oh', 'lords', 'blood', 'boiling']	2
+2018-en-anger-dev-117	['hey', 'nhsengland', 'imagine', 'blue', 'lighted', 'hospital', 'unable', 'breathe', 'dumped', 'cubicle', 'seen', '4', 'hours', '#horrendous']	3
+2018-en-anger-dev-118	['kylegriffin1', '#outrage', 'policentelling', 'woman', 'looks', 'nice', 'age', 'apparently', 'sexistnyou', '#fakenews', 'people', '#crazy']	2
+2018-en-anger-dev-119	['wow', 'today', 'totally', 'seeing', 'alot', '#mean', '#people', '#world', 'turn', 'around', '#start', 'cultivating', '#kindness', '#successtrain', '#warrior']	0
+2018-en-anger-dev-120	['buddh', 'rohitmhpl', 'indujalali', 'rajnathsingh', 'also', 'wating', 'terrorism', 'willb', 'history', 'one', 'thing', 'kashmir', 'indias']	0
+2018-en-anger-dev-121	['stevebakerhw', 'comes', 'credible', 'scare', 'stories', 'george', 'osbourne', 'crap', 'still', 'see']	2
+2018-en-anger-dev-122	['mickyrivera29', 'interesting', 'transfer', 'costly', 'can', 'irritate', 'others', 'get', 'top', 'talent', 'low', 'avg', 'fee']	2
+2018-en-anger-dev-123	['duthie', 'carabaocup', 'mention', '#qprvbre', '']	0
+2018-en-anger-dev-124	['rizikxo', 'estherolo', 'corinnetuc17', 'ing', 'reasonings', 'behind', '', '']	0
+2018-en-anger-dev-125	['keenanruggeri', 'raging', 'probably', 'put', 'place', 'instead', 'extra', 'crisp']	2
+2018-en-anger-dev-126	['wow', '#snap', '⬇#cnnmoney']	0
+2018-en-anger-dev-127	['cnn', 'thanks', 'hollywood', 'depp', 'climate', 'change', 'fanatics', 'using', 'private', 'jets', 'gas', 'guzzling', 'cars', 'blame', '#outrage']	2
+2018-en-anger-dev-128	['since', 'last', 'episode', 'fight', 'way', 'airing', 'tonight', 'amp', 'taekook', 'will', 'probably', 'watch', 'together', 'yall', 'think', 'jk', 'might', 'take', 'revenge']	0
+2018-en-anger-dev-129	['good', 'morning', 'tuesday', 'crap', 'today', 'please', '', '#tantrums', '#toddler', '#cuddly', '#struggles', '#3', '#10', '#pma']	0
+2018-en-anger-dev-130	['mother', 'nature', 'dropping', 'mad', 'beats', 'morning', 'just', 'wish', 'shake', 'shower', 'stall', 'standing', 'naked']	0
+2018-en-anger-dev-131	['eeeeekkkknproduct', 'launch', 'nim', 'literally', 'b•u•z•z•i•n•gnsingle', 'sachets', 'n', 'nmessage', '#loveyourlifestyle', '#shakes']	0
+2018-en-anger-dev-132	['elliegillxx', '0liviarobertson', 'poor', 'lyn', '', 'livv', 'hope', 'forgets', 'year', 'revenge']	0
+2018-en-anger-dev-133	['people', 'shady', 'af', '']	1
+2018-en-anger-dev-134	['think', 'eternally', 'irritated', 'lit', 'teacher', '']	1
+2018-en-anger-dev-135	['comradeislaboy', 'hahahahaha', 'hornets', 'nest', 'let', 'sting']	0
+2018-en-anger-dev-136	['something', '#awestruck', 'today', 'laughing', 'non', 'subtitle', 'korean', 'variety', 'show']	0
+2018-en-anger-dev-137	['work', 'going', 'kill', '5', 'oclock', 'nowhere', 'near', '']	2
+2018-en-anger-dev-138	['time', 'last', 'year', 'pissed', 'top', 'eiffel', 'tower', 'today', 'manhole', 'rain', 'happy', 'anniversary', 'jordannea11', '️']	0
+2018-en-anger-dev-139	['shanedawson', 'jeffreestar', 'jessbuttafuoco', 'offense', 'jeffee', 'looks', 'like', 'pink', 'demon']	0
+2018-en-anger-dev-140	['silverstein', '13th', 'time', 'seeing', 'guys', 'today', 'cancel', 'meet', 'greet', 'storm', 'soaked', '', '#dissapointed']	3
+2018-en-anger-dev-141	['girls', 'bad', 'letting', 'shit', 'go', 'prolly', 'moody', 'built', 'grudges', 'anger', 'regret', '']	2
+2018-en-anger-dev-142	['mind', 'denied', 'emotional', 'sting', 'losing', 'never', 'figures', 'win', 'jonah', 'lehrer']	0
+2018-en-anger-dev-143	['aglyndwr', 'teapainusa', 'know', 'sentence', 'will', 'start', 'look', 'like', 'high', 'school', 'punk', 'start', 'threat']	0
+2018-en-anger-dev-144	['alright', 'alex', 'party', 'boy', 'neighbors', 'blast', 'music', '']	0
+2018-en-anger-dev-145	['perks', 'shit', 'lost', 'friend', 'somewhere', 'along', 'bitterness']	3
+2018-en-anger-dev-146	['letting', 'go', 'anger', 'key', 'happiness', 'please', 'help', 'let', 'go', 'angry', 'feelings', '#happiness', '#anger']	0
+2018-en-anger-dev-147	['let', 'hatred', 'grow', 'otherwise', 'everything', 'life', 'will', 'affected', 'will', 'distract', 'amp', 'anger', 'will', 'often', 'end', 'regret']	0
+2018-en-anger-dev-148	['just', 'paid', 'arsehole', 'couple', 'new', 'found', 'glory', 'tickets', 'gonna', 'great', 'start', 'birthday', 'weekend', '']	0
+2018-en-anger-dev-149	['protesters', 'brazil', 'burning', 'effigies', 'president', 'cabinet', 'investigation', 'corruption', '#sabcnews']	0
+2018-en-anger-dev-150	['1if', 'church', 'attacked', 'fury', 'inside', 'means', 'church', 'exactly', 'need', 'belong']	0
+2018-en-anger-dev-151	['benripley42', 'know', 'seem', 'annoyed', '']	1
+2018-en-anger-dev-152	['afridi', '', '100', '42', '', '#mad']	2
+2018-en-anger-dev-153	['whitejennyb', 'emreuslu', 'jenny', 'white', '', 'u', 'r', 'dumbest', '', 'r', 'u', 'trying', '', 'get', 'lost']	3
+2018-en-anger-dev-154	['#cnn', 'really', 'needs', 'get', '#propaganda', 'business', '30', 'seconds', 'usn', 'fallen', 'soldiers', 'tragedy', 'right', 'back', 'spewing', '#hatred', '#potus']	2
+2018-en-anger-dev-155	['leahremini', '', 'religion', 'pushes', 'people', 'suicide', 'punishes', 'right', 'thing', '#heartbreaking']	2
+2018-en-anger-dev-156	['markrduckett', 'saw', 'tweet', 'crack', 'u', 'greens', 'tweet', 'holds', 'grudge', 'dude', 'pathetic']	2
+2018-en-anger-dev-157	['ranaayyub', 'rajnathsingh', 'oh', 'hidden', 'revenge', 'angeri', 'rememberthe', 'timeshe', 'rebutted']	2
+2018-en-anger-dev-158	['letting', 'anyone', 'anger', 'change']	0
+2018-en-anger-dev-159	['goal', 'scare', 'little', 'excite', 'lot', '', 'joe', 'vitale', '#quote']	0
+2018-en-anger-dev-160	['c', 'disarmed', 'equipment', 'suspicion', 'potential', 'accomplice', 'annie', 'leonhart']	1
+2018-en-anger-dev-161	['shit', 'getting', 'irritated', '']	3
+2018-en-anger-dev-162	['time', '#impeachtrump', '', '#crazy', '#mentally', '#sick', 'spews', '#hatred', '', '#america', 'trouble', '#access', '#nuclearcodes', '']	3
+2018-en-anger-dev-163	['gilmonk1', 'maybe', 'stand', 'field', 'scare', 'away', 'crows']	0
+2018-en-anger-dev-164	['feel', 'exhausted', 'ni', 'tried', 'good', 'job', 'apparently', 'god', 'see', 'right', 'weary', 'exist', 'n#exist', '#weary', '#misonorotta']	2
+2018-en-anger-dev-165	['0510keisuke', 'devour', 'unbornnhuman', 'rejectionnfrom', 'wrath', 'ruins']	2
+2018-en-anger-dev-166	['#phoenixrally', '#deplorables', 'insult', 'denigrate', '#johnmccain', 'struggles', 'treatment', '#glioblastoma', '#impeach45', 'incites', '']	2
+2018-en-anger-dev-167	['paul', 'ehrlich', 'said', 'humanity', 'threat', 'life', 'great', 'news', 'start', 'day', 'blush']	0
+2018-en-anger-dev-168	['ask', '#snapchat', '#pussy', '#cock', '#horny', '#cum', '#wet', '#tits', '#follow', '']	0
+2018-en-anger-dev-169	['chelstondsouza', 'conte', 'furious', 'board', 'wants', 'quits']	1
+2018-en-anger-dev-170	['jarrius', 'send', 'fr', 'jaygerrr', 'smoke', 'madden', 'comes', '']	0
+2018-en-anger-dev-171	['made', 'mind', 'nmake', 'new', 'start']	0
+2018-en-anger-dev-172	['#resentment', 'best', 'beyoncé', 'song', '#dontdebateme']	0
+2018-en-anger-dev-173	['yes', 'itv2', 'loveisland', 'putting', 'angel', 'mikethalassitis', 'back', 'villa', 'best', 'move', '#revenge', '#returnofthemike', '#loveisland', '#hot']	0
+2018-en-anger-dev-174	['realize', 'may', 'worry', 'gone', 'long', 'fear', 'made', 'new', 'life', 'sewers']	0
+2018-en-anger-dev-175	['chawndi', 'youtube', 'can', 'ask', 'trying', 'pout', 'code', 'csgo', 'roll', 'pout', 'code', 'red', 'color', 'help', 'pls']	1
+2018-en-anger-dev-176	['chelseanews4you', 'best', 'luck', 'blues', 'army', 'make', 'us', 'feeling', 'goofy', 'season', '', 'blues', 'till', 'eternity']	0
+2018-en-anger-dev-177	['#revenge', '#change', '', '#chooseaside', 'country', '#india']	0
+2018-en-anger-dev-178	['least', 'boiling', 'temperature', 'last', 'night']	0
+2018-en-anger-dev-179	['narendramodi', 'amitshahoffice', 'officeofrg', 'arunjaitley', 'politicl', 'prties', 'lv', 'n', 'care', 'fr', 'ppl', 'whn', 'opstn', '', '#amarnathterrorattack']	0
+2018-en-anger-dev-180	['rosieblossoms', 'miserable', 'piece', 'shit', '']	3
+2018-en-anger-dev-181	['', '#dearly', '#beloved', 'avenge', 'rather', 'give', 'place', 'unto', '#wrath', '#written', '#vengeance', '#mine', '…', '#romans12v19']	0
+2018-en-anger-dev-182	['amjadhussain73', 'mehreenfaruqi', 'waste', 'time', 'muslim', 'crap', 'ups', 'arab', '', '', '', 'greatings', 'fro', 'pauline', 'hanson', '', '', '']	0
+2018-en-anger-dev-183	['get', 'fuck', 'capable', 'wanna', 'sit', 'sulk', 'bullshit', 'fear', 'failure', 'honestly', 'fuck']	3
+2018-en-anger-dev-184	['everyone', 'know', 'died', 'treaty', 'involvement', 'drawing', 'get', 'enormous', 'amount', 'fury']	2
+2018-en-anger-dev-185	['theellenshow', 'follow', 'bc', 'tv', 'show', 'keeps', 'laughing', '', '#startle', 'guest', 'sitting', 'couchbooo']	0
+2018-en-anger-dev-186	['lucybeecoconut', 'make', 'remover', 'insect', 'sting', 'relief']	0
+2018-en-anger-dev-187	['great', 'havin', 'samgowland123', 'back', 'screens', '', 'fingers', 'crossed', 'mikethalassitis', 'goes', 'georgia', '', '#revenge', '#loveisland']	0
+2018-en-anger-dev-188	['freemanstanzan2', 'cowan', 'means', 'slimebag', 'trust', 'far', 'throw', '#arsehole', 'stuartharker1']	3
+2018-en-anger-dev-189	['therocks', 'presidential', 'run', 'bad', 'appearance', '#baywatch', 'neither', 'party', 'need', 'fear', 'run', '8', 'never', 'get', 'back', '#crap']	2
+2018-en-anger-dev-190	['still', 'sadness', 'hatred', 'pero', 'feel', 'better', 'yesterday']	2
+2018-en-anger-dev-191	['', 'get', 'tell', 'will', 'offend']	0
+2018-en-anger-dev-192	['seriously', 'smack', 'someone', 'face', '', '#arsehole']	3
+2018-en-anger-dev-193	['work', 'even', '4', 'hours', 'thrown', 'boiling', 'tea', 'everywhere', 'smashed', 'mug', 'smashed', 'milk', 'jug', 'sliced', 'finger', 'open']	3
+2018-en-anger-dev-194	['click', 'download', 'pc', 'message', 'says', 'thank', 'downloading', '#itunes', 'nso', 'download', '#frustrated', '']	3
+2018-en-anger-dev-195	['danceonfox', 'get', 'rudely', 'interrupted', 'worst', 'thing', 'ever', 'imaginable', 'ugggg', '#irritated']	3
+2018-en-anger-dev-196	['hear', 'one', 'time', 'intimidate', 'men', 'going', 'explode', 'guys', 'days', 'pussified']	3
+2018-en-anger-dev-197	['1', '13', 'classes', 'today', 'already', '']	0
+2018-en-anger-dev-198	['quick', 'note', 'insta', 'stories', 'f', 'expect', 'read', 'paragraph', 'caption', '1', 'second', '', '']	1
+2018-en-anger-dev-199	['alicet120', 'shaneywaney1', 'shaneywaney1', 'u', 'horrible', 'non', 'gender', 'binary', 'boy', 'go', 'fangirl', 'mediocre', 'singers', 'even', 'support']	3
+2018-en-anger-dev-200	['#twitter', 'days', 'just', 'massive', 'critical', 'debate', 'people', 'like', '#annoying', '#depressing', '#dull', '']	2

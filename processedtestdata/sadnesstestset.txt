@@ -1,0 +1,200 @@
+2018-en-sadness-dev-1	['620wtmj', 'seriously', '620wtmj', '', 'news', '#sad', 'nnwhy', 'focus', 'important', 'issues']	2
+2018-en-sadness-dev-2	['happy', 'played', 'tgt', 'team', 'thought', 'another', 'chance', 'sadly', 'rest', 'peace', 'dear', 'friend', '']	3
+2018-en-sadness-dev-3	['selling', 'nudes', 'pics', 'vids', 'kik', 'buy', 'dirtybecca69nn#kik', '#kikme', '#kikusernames', '#snap', '#snapchat', '#findom', '#nudes', '#slut', '#kiktrade', '#horny']	0
+2018-en-sadness-dev-4	['#world', 'know', 'difference', '#drunk', '#sober', 'one', 'word', '#coherence']	1
+2018-en-sadness-dev-5	['come', 'quiet', 'behaved', 'cats', 'dogs', 'ride', 'plane', 'tiny', 'bag', 'screaming', 'small', 'humans', 'roam', 'free', '#outrage', '#teampet']	0
+2018-en-sadness-dev-6	['dirty', 'chai', 'tea', 'rumchata', 'hits', 'spot', 'gloomy', 'tuesday', 'morning', '']	0
+2018-en-sadness-dev-7	['excited', 'watch', '#stateoforigin', 'tonight', 'come', 'nsw', '#origin', '#blues', '#nsw', '#qld', '#nrl']	0
+2018-en-sadness-dev-8	['opportunity', 'move', 'away', 'gloomy', 'nihilism', 'characterizes', 'reign', 'deeply', 'patriarchal', 'dominator', 'culture']	0
+2018-en-sadness-dev-9	['got', 'woken', 'road', 'sweeper', 'trying', 'sleep', '']	1
+2018-en-sadness-dev-10	['lights', 'shut', 'turn', 'settle', 'main', 'concern']	0
+2018-en-sadness-dev-11	['virtualalien', '#frightening', 'things', 'lifenn#beyondthesphereofreasonabledoubt']	1
+2018-en-sadness-dev-12	['3lectric5heep', 'must', 'sting', 'cnn', '']	0
+2018-en-sadness-dev-13	['opebbles', 'one', 'sadly', '']	2
+2018-en-sadness-dev-14	['whocaresnvm', 'destroying', 'memory', 'goal', 'ect', 'might', 'work', 'zapper', 'thingy', 'like', 'men', 'black', 'dumbledores', 'pensive']	0
+2018-en-sadness-dev-15	['believe', 'zain', 'starting', 'secondary', 'year', '']	1
+2018-en-sadness-dev-16	['listen', '', 'golden', 'brown', 'giving', 'life', '', 'feet', 'get', 'dark', '']	2
+2018-en-sadness-dev-17	['god', 'match', 'dull', '#wimbledon']	0
+2018-en-sadness-dev-18	['imaorangepeeler', 'imagine', 'walking', 'sober', '']	0
+2018-en-sadness-dev-19	['chanlfc10', 'paulrule', 'nuttall1878', 'deadlinedaylive', 'everton', 'fuming', 'hijacked', '£8m', 'move', 'relegated', 'full', 'back', '']	1
+2018-en-sadness-dev-20	['sit', 'back', 'watch', 'amp', 'listen', 'every', 'thedemocrats', 'amp', 'dnc', 'member', 'quickly', 'learn', '#victimhood', '#racism', 'amp', '#hatred', '#woke']	2
+2018-en-sadness-dev-21	['depression', 'sucks']	3
+2018-en-sadness-dev-22	['ffigurefbust', 'thinking', 'getting', 'done', 'now', 'given', 'frighten']	2
+2018-en-sadness-dev-23	['o', 'melancholy', 'catacombs', 'quickly', 'wandered', 'rue', 'morgue', 'madman']	0
+2018-en-sadness-dev-24	['soulcrushing', 'despair', 'also', 'might', 'just', 'marshmallows', 'breakfast']	1
+2018-en-sadness-dev-25	['donaldjtrumpjr', 'thinks', 'oliver', 'north', 'defense', 'insulates', 'potus', 'make', 'realdonaldtrump', 'look', 'inept', '#nytimes', '']	0
+2018-en-sadness-dev-26	['', 'even', 'tell', 'u', 'lie', 'felt', 'like', 'u', 'special', 'till', 'realized', 'wassup', 'left', 'got', 'u', 'feeling', 'dreadful', '']	2
+2018-en-sadness-dev-27	['lighter', 'notengg', 'nkaissery', 'amp', 'total', 'man', 'rate', 'jubilee', 'losing', 'votes', '']	0
+2018-en-sadness-dev-28	['imagine', 'suffering', 'chronic', 'depression', '', 'told', 'unattractive', 'chip', 'shoulder', '#dwp', '#wrag', '#wwwgovuk', '#mentalhealth']	3
+2018-en-sadness-dev-29	['got', 'builders', 'office', 'game', 'make', 'perhaps', 'start', 'sketching', 'next', 'game', '#gamedev', '#indiedev', '']	0
+2018-en-sadness-dev-30	['maidinaustralia', 'd', 'horrid', 'hugs']	2
+2018-en-sadness-dev-31	['brownjayson', 'mylesgorham85', 'subscribe', 'philosophy', 'drafted', 'michael', 'floyd', 'anyways', '#bad']	1
+2018-en-sadness-dev-32	['head', 'hurting', '']	1
+2018-en-sadness-dev-33	['skyuk', 'impressed', 'customer', 'support', 'forcing', 'customers', 'use', 'fb', 'chat', 'sms', 'slow', 'issue', 'getting', 'sorted', '']	2
+2018-en-sadness-dev-34	['#worry', 'never', 'robs', 'tomorrow', '#sorrow', 'saps', 'today', '#strength', '', 'j', 'crown', '#faith', '#positive', '#motivation']	0
+2018-en-sadness-dev-35	['shame', 'cashback', 'mbna', 'amexuk', 'credit', 'card', 'comes', 'end', 'used', 'look', 'forward', 'end', 'year', 'bonus', 'sad', 'really', '#cashback', '']	3
+2018-en-sadness-dev-36	['please', 'ruin', 'party', 'nswrl', '#origin', '#blues']	1
+2018-en-sadness-dev-37	['posted', 'snap', 'dad', 'someone', 'thought', 'grandmother', '#crying']	0
+2018-en-sadness-dev-38	['africa', 'unique', 'tremendous', 'problems', 'war', 'overpopulation', 'starvation', 'tribalism', 'makes', 'moving', 'africa', 'forward', 'hard']	1
+2018-en-sadness-dev-39	['girls', 'masturbate', 'tooboys', 'cry', 'toon#girls', '#', 'boys', '#cry', '#masturbate']	0
+2018-en-sadness-dev-40	['makeup', 'going', 'salenbut', 'aint', 'got', 'funds', '#heartbreaking']	2
+2018-en-sadness-dev-41	['every', 'day', 'always', 'get', 'bit', 'sad', 'finished', 'lunch']	3
+2018-en-sadness-dev-42	['way', 'always', 'twitter', 'work', 'little', 'alarming', '\u200d️']	0
+2018-en-sadness-dev-43	['#ifonlypeoplewould', 'exist', '#humanity', '#life', '#ignorance', '#nature', '#mothernature', '#sad', '#disappointment', '#smh', '#personal', '#opinion', '#views', '#animals']	2
+2018-en-sadness-dev-44	['smolchika', 'ya', 'kind', 'depressing', 'think', 'itn']	1
+2018-en-sadness-dev-45	['markwontusethis', 'pine', 'love', 'one', 'day', 'crabbe']	0
+2018-en-sadness-dev-46	['emmajckson', 'awe', 'thank', '']	0
+2018-en-sadness-dev-47	['nextofficial', 'placed', 'order', 'nearly', 'grand', 'six', 'weeks', 'ago', 'called', 'yesterday', 'order', 'missing', 'call', 'back', 'today', '#shocking']	0
+2018-en-sadness-dev-48	['nah', 'governor', 'call', 'someone', 'bum', 'amp', 'love', 'calls', 'communist', 'montclair', '', '', '#crying']	0
+2018-en-sadness-dev-49	['rained', 'every', 'day', 'since', 'june', '30', '13', '#dreary', '#soggy', 'days', 'row', '#auckland']	0
+2018-en-sadness-dev-50	['skyuk', 'just', 'put', 'hold', '20', 'minutes', 'till', 'hung', '#not', 'happy', '#terribleservice', '#unhappy', 'virginmedia', 'stayed']	3
+2018-en-sadness-dev-51	['chrisyour', 'sad', 'ultimately', 'apparently', 'supported', 'completely', 'mostly', 'working', '']	0
+2018-en-sadness-dev-52	['chelsea', 'united', 'must', 'furious']	0
+2018-en-sadness-dev-53	['3', 'half', 'hour', '', '#exo']	0
+2018-en-sadness-dev-54	['smiling', 'close', 'tears']	3
+2018-en-sadness-dev-55	['everybody', 'seem', 'sp', 'serious']	0
+2018-en-sadness-dev-56	['past', 'test', 'exam', '', 'cdl', 'achieved', '']	0
+2018-en-sadness-dev-57	['jamie93lee', 'upset', '']	2
+2018-en-sadness-dev-58	['going', 'nurse', 'learn', 'nice', 'patient', 'person', 'jesus', '', '']	0
+2018-en-sadness-dev-59	['tonyposnanski', 'putin', 'told', '#pout', '#heylookatthedistraction']	1
+2018-en-sadness-dev-60	['frustration', 'dream', 'left', 'utterly', 'fking', 'furious', 'plus', 'side', 'angry', 'sleep', 'wrote', '1500', 'words', 'minus', 'side', 'still', 'raging']	1
+2018-en-sadness-dev-61	['apinknumjoo', 'hello', 'namjoo', 'unnie', 'welcome', 'paradox', 'deeply', 'sorry', 'late', 'greeting', '', 'chaey', 'wishing', 'pleasant', '']	0
+2018-en-sadness-dev-62	['nomore', 'drinking', '', '#serious']	0
+2018-en-sadness-dev-63	['believe', 'lost', 'phone', 'get', 'home']	2
+2018-en-sadness-dev-64	['garfieldlineker', 'timcroberts', 'back', 'apologies', 'retweeting', 'tweet', 'grammatical', 'error', '#mybad', '']	1
+2018-en-sadness-dev-65	['heart', 'trembling', 'just', 'thought', 'itni', 'really', 'don’t', 'know', 'love']	2
+2018-en-sadness-dev-66	['really', 'want', 'mom', 'go', 'back', 'home', '', '', '', '', '', '', '', '', '#gutted', '#crying', '#miserable', '#why']	3
+2018-en-sadness-dev-67	['mtailor', '“20', 'better', 'tailor”', 'least', 'tailor', 'know', '#navy', 'vs', '#blue', '500', '4', 'weeks', '#innacurate', 'suit', '']	0
+2018-en-sadness-dev-68	['fuck', 'just', 'saw', 'game', 'thrones', 'spoiler', 'snapchat', 'us', 'saw', 'yet', '', '#arsehole']	1
+2018-en-sadness-dev-69	['disappointed', 'e', 'portrayal', 'kylie', 'jenner', 'makes', 'look', 'fake', 'amp', 'filthy', 'rich', '', 'every', 'turn', '#disappointment', 'enews', '#lifeofkylie', '']	2
+2018-en-sadness-dev-70	['weareelektron', 'sadly', '#digitakt', 'seems', 'stock', 'europe', 'know', '', 'european', 'online', 'store']	0
+2018-en-sadness-dev-71	['okay', 'seriously', 'know', 'whole', 'twitter', 'thing', 'works', '#lost']	0
+2018-en-sadness-dev-72	['get', 'feeling', 'eurosportuk', 'itvcycling', 'might', 'reviewing', 'showing', 'stages', 'full', 'poor', 'robhatchtv', 'nedboulting', '', '', '#dull']	0
+2018-en-sadness-dev-73	['soooo', 'annoyed', 'wait', 'start', 'morning']	2
+2018-en-sadness-dev-74	['must', 'goblin', 'rains', 'every', 'time', 'effin', 'sad', 'lol']	2
+2018-en-sadness-dev-75	['moms', 'work', 'discounted', 'riot', 'fest', 'tickets', '1473', 'days', '#saddened']	2
+2018-en-sadness-dev-76	['sure', 'tequila', 'shots', 'family', 'birthday', 'meal', 'best', 'ideas', 'ever', '#grim']	1
+2018-en-sadness-dev-77	['bennymcnugget', 'sad', 'upset', 'idk', '']	3
+2018-en-sadness-dev-78	['realskipbayless', 'opinions', 'sports', 'dreadful']	1
+2018-en-sadness-dev-79	['think', 'yondu', 'amp', 'crew', 'rocket', 'amp', 'groot', '700', 'jumps', 'ego', 'planet', 'start', 'laughing']	0
+2018-en-sadness-dev-80	['know', '#speed', '#light', 'speed', '#dark']	0
+2018-en-sadness-dev-81	['rgupdate', 'tried', 'english', 'hospital', 'food', '', '#yak', '#gross', '']	0
+2018-en-sadness-dev-82	['mikeandmike', 'busterespn', 'get', 'time', 'orioles', 'buyers', 'sellers', 'going', '#panic']	1
+2018-en-sadness-dev-83	['lost', 'appetite', 'past', '5', 'days', 'swear', 'already', 'lost', '3', 'pounds', '#depressing', '#at', '#least', '#i', '#will', '#be', '#skinny', '#for', '#pride', '#weekend']	3
+2018-en-sadness-dev-84	['b4', 'get', 'bed', 'look', 'mirror', 'thankful4all', 'support', 'recieved', 'imwakinguphappynot', 'dreading', 'theday', '']	0
+2018-en-sadness-dev-85	['need', 'little', 'learning', 'live', 'happily', '', 'michel', 'de', 'montaigne', '#quote', '#philosophy', '#wisdom', '#wisewords', '#mentalhealth', '#psychology', '#anxiety']	0
+2018-en-sadness-dev-86	['come', 'conclusion', 'online', 'world', 'seriously', 'fucked', 'absolutely', 'words', 'describe', '#bleak', '', '#grim']	1
+2018-en-sadness-dev-87	['like', 'itos', 'manga', 'end', 'bleak', 'hopeless', 'endings', 'way', 'make', 'look', 'like', 'protagonist', 'lost']	1
+2018-en-sadness-dev-88	['loveisland', '#loveisand', 'next', 'time', 'dumping', 'get', '#olivia', '#dreadful', 'good', 'chris']	2
+2018-en-sadness-dev-89	['cex', 'waste', 'time', 'nothing', 'gets', 'done', 'using', '#awful']	3
+2018-en-sadness-dev-90	['beware', 'wrath', 'angry', 'frustrated', '#agile', 'grandma', 'network', '', 'just', 'sayin', '#objectlesson']	1
+2018-en-sadness-dev-91	['peplamb', 'stevenfurtick', '#comfort', '#mourn', 'console', '#mourn', '#zion', 'give', '#beauty', '#ashes', '#oil', '#joy', 'for…']	0
+2018-en-sadness-dev-92	['love', 'dark', 'gurl', 'wit', 'da', 'juicy', 'booty']	0
+2018-en-sadness-dev-93	['rainbow6game', 'felt', 'guilt', 'playing', 'game', '#horrible', '#rainbowsixsiege']	3
+2018-en-sadness-dev-94	['excuse', 'making', 'mistakes', 'twice', 'live', 'amp', 'learn', 'deal', 'consequences', 'unhappy', '#truthbomb']	2
+2018-en-sadness-dev-95	['feel', 'snapchat', 'new', 'feature', '#snapmap', '', '#twitterpoll', '#polls', '#vote', '#poll', '#snapchat', '', '#twitter', '#tech', '#technology']	0
+2018-en-sadness-dev-96	['excepted', 'eclipse', 'make', 'believe', 'omniscience', 'force', '#dissapointed']	1
+2018-en-sadness-dev-97	['julia', 'finally', 'going', 'able', 'meet', 'ptx', '#crying']	1
+2018-en-sadness-dev-98	['462', 'appearances', 'pl', '200', 'goals', '231', 'games', 'per', 'goal', 'nearly', 'goal', 'every', '2', 'games', '#crap', '', '', '#rooney']	0
+2018-en-sadness-dev-99	['sophieathertonn', 'lillynewtonx', 'actually', 'awful', 'treat', 'get', 'home', 'tho']	0
+2018-en-sadness-dev-100	['yall', 'understand', 'womans', 'wrath', 'real', '']	0
+2018-en-sadness-dev-101	['“#woe', 'unto', '#you', '#full', 'ye', 'shall', '#hunger', '#woe', 'unto', '#laugh', 'now', 'ye', 'shall', '#mourn', '#weep”nluke', '625']	0
+2018-en-sadness-dev-102	['jeong', 'su', 'easy', 'get', 'along', 'everybody', 'likes', 'intimidated', 'like', 'reminds', 'seunghoon']	0
+2018-en-sadness-dev-103	['scottadamssays', 'broke', '#snap', 'great', 'analysis', '#cnbc']	0
+2018-en-sadness-dev-104	['aleesha—kitchen', 'sink', 'twenty', 'one', 'pilots', '']	0
+2018-en-sadness-dev-105	['tgowdysc', 'wonder', 'mess', '#noloyalty', '#youcaved', '']	1
+2018-en-sadness-dev-106	['elebelfiore', 'always', 'control', 'mistrust']	0
+2018-en-sadness-dev-107	['prison', 'awfully', 'gloomy', 'mind', 'put', 'ribbons', 'bars']	2
+2018-en-sadness-dev-108	['#wyoming', 'beautiful', 'state', 'road', 'signs', 'lack', 'thereof', 'terrible', '#lost']	1
+2018-en-sadness-dev-109	['really', 'pissed', 'fuck', 'good', 'job', 'keeping', 'kid', 'like', 'see', 'sick', 'sad']	3
+2018-en-sadness-dev-110	['lovemyffajacket', 'facetime', '', 'can', 'still', 'annoy', '']	0
+2018-en-sadness-dev-111	['power', 'goes', 'shorts', 'xbox', 'since', 'day', '1', 'launch', 'course', 'breaks', 'birtday', '#birthday', '#xbox', '#sadness']	3
+2018-en-sadness-dev-112	['angrydwarf9', 'carolinesandall', 'ruins', 'frigging', 'night', 'night', '9pm', 'mrs', 'loves', 'early', 'bed', 'month', '#dreadful']	3
+2018-en-sadness-dev-113	['worst', 'dreams', '']	3
+2018-en-sadness-dev-114	['juliahb1', 'talkradio', 'culture', 'amp', 'language', 'already', 'protectedn£', 'promoting', 'welsh', 'better', 'spent', 'tourism', 'dreadful', 'schools', 'ed', 'record']	0
+2018-en-sadness-dev-115	['obviously', 'moved', 'music', 'robertcrayband', 'tonight', 'wanted', 'share', 'love', '#blues', '#concert']	0
+2018-en-sadness-dev-116	['britmerc69', 'stop', 'discourage', 'people', '']	1
+2018-en-sadness-dev-117	['disappointed', 'spending', '£50', 'outfit', 'meeting', 'boy', '#noselfcontrol', '#nervous']	2
+2018-en-sadness-dev-118	['allyiahsface', 'page', 'full', 'make', 'valid', 'question', 'probably', 'prefer', 'smashed', 'dashed']	1
+2018-en-sadness-dev-119	['hiya', 'everyone', 'want', 'please', '#retweet', 'pin', '#rt', '#help', '#romance', '#wattpad', '', '', '', '#hurt', '#tweet', '#twitter', '#thanks']	0
+2018-en-sadness-dev-120	['keithrothfus', 'silencecomplicity', 'obviously', 'problem', 'russian', 'interference', '#sad', '#russianhacking', '#treason']	2
+2018-en-sadness-dev-121	['now', 'buy', 'whole', 'new', 'computer', '']	0
+2018-en-sadness-dev-122	['damn', 'lost', 'keys', 'forgot', 'get', 'garage', 'opener']	1
+2018-en-sadness-dev-123	['sorry', 'alsofuck', '#currentfeels', '#anger', '#bpd', '#eupd', '#borderliner', '#mentalhealth', '#anxiety', '#depression', '#confused']	3
+2018-en-sadness-dev-124	['bxchpls03', 'u', 'lucky', 'ahu', '']	0
+2018-en-sadness-dev-125	['lost', 'without', 'mom', '', 'plus', 'tired', 'sick', 'full', 'cold', 'just', 'another', 'day', 'paradise', '#upset', '#unwell', '#missyoumommybear', '']	3
+2018-en-sadness-dev-126	['boy', 'play', 'n0', 'play', 'dull', 'mᴬkes']	0
+2018-en-sadness-dev-127	['kind', 'tired', 'everything', '#summer', '#heat', '#bicycle', '', '', '#videogames', '#bookwriting', '#nothavingacomputer']	2
+2018-en-sadness-dev-128	['borisjohnson', 'unhappy', 'cost', 'leaving', 'eu', '', 'published', 'letter', 'outlining', 'reasons', 'stay', 'instead', 'idiot']	2
+2018-en-sadness-dev-129	['still', '#devastated', '#sad', '#tariqs', '#tariqlive', 'channel', '#professorblacktruth', '#youtubefail', '#epicfail', '#tariqnasheed', '']	3
+2018-en-sadness-dev-130	['fuck', 'small', 'talk', 'tell', 'age', 'start', 'disappointing', 'parents']	2
+2018-en-sadness-dev-131	['newsbykatherine', 'jonkarl', 'abc', 'guys', 'sound', 'astounded', 'anyone', 'working', 'w', 'trump', 'wh', 'ethicalmoral', 'values', '']	0
+2018-en-sadness-dev-132	['shit', 'depressing', 'weather', 'wish', 'can', 'travel', 'world', 'living']	3
+2018-en-sadness-dev-133	['making', 'dark', 'darker', 'shining', 'light', 'jesus', 'darkn', '#jesus', '', '#light', '#shine']	0
+2018-en-sadness-dev-134	['mysarazaman', 'ya', 'makes', 'selfish', 'disheartened']	2
+2018-en-sadness-dev-135	['uzalu', 'veehro', 'joyless', 'cunt']	1
+2018-en-sadness-dev-136	['kylegriffin1', 'disgusting', '#sick', '']	2
+2018-en-sadness-dev-137	['uber', 'disappointing', 'support', 'responded', 'email', '#bad', '#uber', '#service']	3
+2018-en-sadness-dev-138	['just', 'know', 'go', 'next', 'life', '#lost']	2
+2018-en-sadness-dev-139	['next', 'time', 'go', 'lagos', 'will', 'gate', 'crash', 'somebodys', 'owambe', 'dressed', 'lace', 'gele', 'eat', 'amala', 'shake', 'waist']	0
+2018-en-sadness-dev-140	['goal', 'scare', 'little', 'excite', 'lot', '', 'joe', 'vitale', '#quote']	0
+2018-en-sadness-dev-141	['shouldve', 'cut', 'moment', 'started', 'hurting', 'o']	3
+2018-en-sadness-dev-142	['puddlespityp', 'made', 'happy', 'woman', 'thx', 'p', 'casey', 'sigh', '#worththewait', '#cry', '#beyootifulll']	0
+2018-en-sadness-dev-143	['freakin', 'ai', 'deleted', 'half', 'episode', 'bip', 'accident', '', '#bachelorinparadise']	0
+2018-en-sadness-dev-144	['just', 'enough', 'marmite', 'jar', 'work', '14', 'slice', 'toast', '', '#unhappy']	3
+2018-en-sadness-dev-145	['hdfcergogic', 'yr', 'customer', 'care', 'exec', 'r', 'unable', 'pull', 'information', 'lampt', 'insurance', '#horrible', '#service', '#beware', '#renewal']	2
+2018-en-sadness-dev-146	['everytime', 'think', 'life', 'getting', 'better', 'never', 'comes', '#sadly']	3
+2018-en-sadness-dev-147	['']	2
+2018-en-sadness-dev-148	['become', 'place', 'people', 'even', 'timid', 'us', 'baying', 'blood', 'around', 'every', 'corner']	0
+2018-en-sadness-dev-149	['activehours', 'need', 'someone', 'reply', 'back', 'immediately', 'happy', 'getting', 'timely', 'responses', 'app', '#help', '']	3
+2018-en-sadness-dev-150	['thelucbomber', 'etikawnetwork', 'etika', 'polneraffs', 'long', 'lost', 'brother', 'confirmed']	1
+2018-en-sadness-dev-151	['1720maryknoll', '#fuming', 'kenny']	1
+2018-en-sadness-dev-152	['totally', 'regret', 'signing', 'sprintcare', 'sprint', '']	2
+2018-en-sadness-dev-153	['#hopkinsville', '#ky', '#total', '#eclipse', '#capital', '#world', '#august', '2017', '#dancing', 'n', '#moon', '#dark', '#eclipse2017', '#eclipseacrossamerica', '#edgar', '#cayce']	0
+2018-en-sadness-dev-154	['never', 'thought', 'say', 'really', 'miss', 'todd', '']	3
+2018-en-sadness-dev-155	['hey', 'everything', 'gonna', 'okay', 'may', 'god', 'kiss', 'weary', 'face', 'everything', 'gonna', 'alright', 'let', 'peace', 'tonight']	0
+2018-en-sadness-dev-156	['love', 'seeing', 'yeahlizzy', 'reminds', 'one', 'miserable', 'work', '']	1
+2018-en-sadness-dev-157	['remember', 'everything', '#lost', 'gained', 'something', 'else', 'without', '#dark', 'never', 'see', '#stars']	0
+2018-en-sadness-dev-158	['baby', 'dancing', 'dark']	0
+2018-en-sadness-dev-159	['1ncamera', 'weehugs', 'davidyoungpa', 'pa', 'stupidity', 'part', 'proud', 'cultural', 'identity', '']	0
+2018-en-sadness-dev-160	['eben4u', '#stayed', 'youmakes', 'appreciate', 'love', 'worshipingall', 'want', 'worship']	0
+2018-en-sadness-dev-161	['hit', 'sudden', 'wave', 'sadness']	3
+2018-en-sadness-dev-162	['livedarts', 'rip', 'friend', 'get', 'head', 'round', '', '', '', '#devastated', '', '', '', 'x']	3
+2018-en-sadness-dev-163	['chopper', 'ltltdammit', 'just', 'sink', 'alreadygtgt']	0
+2018-en-sadness-dev-164	['unesco', 'remember', 'spread', '#hatred', '#fakenews', 'internet', 'abuse', '#hashtag10', 'spreading', '#arabnationalism']	1
+2018-en-sadness-dev-165	['bih', 'lock', 'shit', '#depressing']	3
+2018-en-sadness-dev-166	['f1', 'announcing', 'late', 'will', 'hard', 'make', 'manchester', 'organising', 'day', '#sad']	3
+2018-en-sadness-dev-167	['theview', 'joy', 'comedian', 'bully', 'fat', 'shaming', 'governor', 'great', 'example', 'setting', 'grandson']	1
+2018-en-sadness-dev-168	['want', 'digital', 'art', 'bad', 'dad', 'let', 'use', 'ipad', 'till', 'exams', '']	1
+2018-en-sadness-dev-169	['programmer’s', 'wisdom', 'understanding', 'difference', 'getting', 'program', 'run', 'runnable', 'program', '', '#puppy']	0
+2018-en-sadness-dev-170	['probably', 'watching', 'sad', 'bts', 'video', 'bc', 'sad', '', 'iwannacryy', 'n', 'halppp']	3
+2018-en-sadness-dev-171	['best', 'friends', 'driving', 'first', 'time', 'car', '#terrifying']	1
+2018-en-sadness-dev-172	['fabianiswailea', '']	0
+2018-en-sadness-dev-173	['timmyldn', 'looks', 'dreadful', '']	1
+2018-en-sadness-dev-174	['ryanhedderick', 'happy', 'birthday', 'big', 'fella', 'good', 'one', 'blues', 'x']	0
+2018-en-sadness-dev-175	['vivaonline', 'oh', 'schade', '']	1
+2018-en-sadness-dev-176	['can', 'certain', '#arrogance', 'think', 'fine', 'never', 'lose', '#respect', 'others']	0
+2018-en-sadness-dev-177	['kitchenaidusa', '', 'spent', '500', 'mixer', 'yet', 'dough', 'hook', 'chips', 'dough', '', 'buy', 'new', 'one', 'thing', 'happens', '#unhappy']	3
+2018-en-sadness-dev-178	['huge', 'fan', 'ryanair', 'last', 'flights', 'horrific', '#rude', '#poorservice', '#nostock', 'etc', 'etc', 'etc', '#dissapointed']	3
+2018-en-sadness-dev-179	['coffee', 'floor', 'soul', 'grew', 'furious', 'stillness', 'broken', 'little']	1
+2018-en-sadness-dev-180	['lala', 'loving', 'book', 'power', 'playit', 'serious', 'game', 'changer', 'nothing', 'else', 'dreaming', 'big', 'will', 'land', 'amongst', 'stars', '']	0
+2018-en-sadness-dev-181	['wizkidayo', 'bro', 'u', 'just', 'dey', 'burst', 'brain', 'bro', 'need', 'u', '2', 'pls', 'end', 'everything', 'rift', 'btw', 'u', 'nd', 'hommie', 'davido', 'pls', 'bro', '4', 'd', 'sake', 'luv']	0
+2018-en-sadness-dev-182	['gemmaannestyles', 'fabicelolly', 'america', 'think', '#upset', '#hurt']	2
+2018-en-sadness-dev-183	['', '#work', '#sober', '\u200d️', 'can']	1
+2018-en-sadness-dev-184	['#dmme', '#kikme', '', '#sext', '#horny', '', '#ass', '#bbw', '', '#naughty', '', '#pussy', '#kik', '', '', '#nudes', '', '', 'girls', '', '', 'horny', '', '#snap', '', '', '', 'jacobgigs']	0
+2018-en-sadness-dev-185	['hundred', 'million', 'followers', 'still', 'genuine', 'person', 'understands', 'wants', '#cantshakethis', '#sadness']	3
+2018-en-sadness-dev-186	['i’m', 'glad', 'i’m', 'like', 'sad', 'people', 'online', 'gossip', 'bully', 'others', 'entertainment', 'life']	1
+2018-en-sadness-dev-187	['sending', 'love', 'amp', 'prayers', 'families', 'usmc', 'marines', 'lost', 'c130', 'crash', 'mississippi', 'may', 'lord', 'help', 'abate', 'grief', 'sorrow']	2
+2018-en-sadness-dev-188	['counting', 'queensland', '#stateoforigin', '#broncos', '#maroons', '#blues', '#nswblues', '#qld']	0
+2018-en-sadness-dev-189	['please', 'stop', 'ruining', 'depressing', 'memes', 'positivity', 'optimism']	1
+2018-en-sadness-dev-190	['statedept', '#that', 'certainly', 'bode', '#afghan', 'woman', 'girls', '#bad', 'option']	1
+2018-en-sadness-dev-191	['presume', 'richness', 'poorness', 'will', 'bring', 'happiness', '', 'santosh', 'kalwar', '#quote', '#mentalhealth', '#psychology', '#depression', '#anxiety']	1
+2018-en-sadness-dev-192	['jeffbezos', 'amazon', 'can', 'talk', 'terminated', 'answer', 'paid', 'hours', 'worked', 'erc', 'answers', '']	1
+2018-en-sadness-dev-193	['okay', 'btstwt', 'fun', 'can', 'change', 'layout', 'back', 'something', 'goofy', 'domestic', 'usual', 'pls', 'intimidated', 'rn']	0
+2018-en-sadness-dev-194	['fangornforest1', 'brexit', 'whose', 'customers', 'love', 'imagine', 'hack', 'days', 'sing', 'tune', 'paymaster', 'calls', '#dismal']	2
+2018-en-sadness-dev-195	['thealexpeace', 'bad', 'think', 'may', 'come', 'back', 'haunt', 'yous']	0
+2018-en-sadness-dev-196	['just', 'wanna', 'sober', 'u']	0
+2018-en-sadness-dev-197	['thomasewoods', 'like', 'hear', 'podcast', 'going', 'refuting', 'entire', 'article', 'extra', 'indignation', 'please']	0
+2018-en-sadness-dev-198	['aaron0424', 'marquezmark06', 'serious', 'paranormal', 'stuff', 'going']	1
+2018-en-sadness-dev-199	['wayin', 'case', 'knowjoshuas', 'goin', 'tonightto', 'take', 'trash', 'play', 'blues', 'ever', 'us', '675']	0
+2018-en-sadness-dev-200	['4', 'hours', 'n4189', 'wordsn1', 'storyn#amwriting', '#horror', '#publishorperish']	1

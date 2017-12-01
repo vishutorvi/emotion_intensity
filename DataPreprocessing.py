@@ -9,15 +9,9 @@
 
 import numpy as np
 import pandas as pd
-import nltk
-from nltk.stem.snowball import SnowballStemmer
 import string
 from pathlib import Path
 import re
-
-emotion = 4 #0=anger, 1=fear, 2=joy, 3=sadness
-features = ['id','sentence','emotion','intensity']
-stemmer = SnowballStemmer("english")
 
 #Stop word removal Function
 def wordtokenize(text):
@@ -30,7 +24,7 @@ def stopWordRemoval(data):
     stop_words = np.loadtxt('./stop_words.txt', dtype=str)
     new_stop_words = []
     for x in range(len(stop_words)):
-        new_stop_words +=[stop_words[x].translate(str.maketrans('','',string.punctuation.replace("#","")))]
+        new_stop_words +=[stop_words[x].translate(str.maketrans('','',string.punctuation.replace("#","").replace('!','')))]
     
     new_stop_words = np.array(new_stop_words)
     i=0
@@ -63,7 +57,7 @@ def stemEmotionRemoval(datapre):
         no_punctuation = lowers.translate(str.maketrans('','',string.punctuation.replace("#","")))
         no_puntuation_in = emoji_pattern.sub(r'', no_punctuation)
         datapre['sentence'][i] = wordtokenize(no_puntuation_in)
-        datapre['intensity'][i] = str(datapre['intensity'][i]).split(':')[0]
+        datapre['intensity'][i] = int(str(datapre['intensity'][i]).split(':')[0])
         i = i + 1
     return datapre[['id','sentence','intensity']]
 
@@ -86,19 +80,23 @@ def dataframecreator(filename,createname):
         textfile.close()
     return datapre[['id','sentence','intensity']]
 
-# # Create dataframes for Anger, Fear, Joy, Sadness datasets
-if emotion == 0:    
-    #Anger dataframe creation
-    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt','./processeddata/angertrainset.txt')
-elif emotion == 1:    
-    #Fear dataframe creation
-    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-train.txt','./processeddata/feartrainset.txt')
-elif emotion == 2:    
-    #Joy dataframe creation
-    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
-elif emotion == 3:    
-    #Sadness dataframe creation
-    data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
-else:
-    #valence dataframe creation",
-    valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')
+#Preprocessing data for training dataset
+def preprocessingData(emotion):
+    #0=anger, 1=fear, 2=joy, 3=sadness
+    #features = ['id','sentence','emotion','intensity']
+    # # Create dataframes for Anger, Fear, Joy, Sadness datasets
+    if emotion == 0:    
+        #Anger dataframe creation
+        data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-anger-train.txt','./processeddata/angertrainset.txt')
+    elif emotion == 1:    
+        #Fear dataframe creation
+        data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-fear-train.txt','./processeddata/feartrainset.txt')
+    elif emotion == 2:    
+        #Joy dataframe creation
+        data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-joy-train.txt','./processeddata/joytrainset.txt')
+    elif emotion == 3:    
+        #Sadness dataframe creation
+        data = dataframecreator('./trainingdata/EI-oc-En-train/EI-oc-En-sadness-train.txt','./processeddata/sadnesstrainset.txt')
+    else:
+        #valence dataframe creation",
+        valencedataframe = dataframecreator('./trainingdata/2018-Valence-oc-En-train/2018-Valence-oc-En-train.txt','./processeddata/valencetrainset.txt')

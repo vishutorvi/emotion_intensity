@@ -1,0 +1,200 @@
+2018-en-valence-dev-1	['cnn', 'newday', 'if', '#trump', '#whitehouse', 'arent', 'held', 'accountable', 'for', 'their', 'actionswhat', 'precedent', 'is', 'being', 'set', 'for', 'future', 'presidencies', '#nightmare']	-2
+2018-en-valence-dev-2	['#wimbeldon', 'wouldnt', 'it', 'be', 'great', 'if', 'an', 'immigrant', 'won', 'the', 'title', 'for', 'britain', '#ironic', '#brexit']	0
+2018-en-valence-dev-3	['im', 'glad', 'my', 'kids', 'dont', 'fuck', 'with', 'blac', 'youngsta', 'that', 'nigga', 'terrible', 'for', 'our', 'community']	0
+2018-en-valence-dev-4	['people', 'were', 'always', 'afraid', 'that', 'stodgy', 'squares', 'would', 'kill', 'rock', 'and', 'roll', 'but', 'the', 'only', 'legitimate', 'threat', 'was', 'ever', 'child', 'choruses']	0
+2018-en-valence-dev-5	['at', 'this', 'point', 'i', 'cant', 'tell', 'if', 'i', 'just', 'follow', 'more', 'people', 'in', 'politics', 'on', 'twitter', 'now', 'or', 'if', 'i', 'need', 'new', 'friends', '#wheresthefunny', '#depressing']	-3
+2018-en-valence-dev-6	['i', 'think', 'sleep', 'is', 'my', 'favorite', 'from', 'how', 'did', 'we', 'get', 'so', 'dark', 'maybe', 'because', 'im', 'insomniac']	-2
+2018-en-valence-dev-7	['are', 'u', 'sad', 'or', 'upset']	-1
+2018-en-valence-dev-8	['zineetar', 'rusembusa', 'mfarussia', 'the', 'hatred', 'and', 'fear', 'many', 'russians', 'have', 'for', 'anything', 'nonrussian', 'is', 'just', 'sad']	-3
+2018-en-valence-dev-9	['#anxious', 'dont', 'know', 'why', '', '#worry', '', 'slowly', 'going', '#mad', 'hahahahahahahahaha']	0
+2018-en-valence-dev-10	['please', 'stop', 'ruining', 'my', 'depressing', 'memes', 'with', 'your', 'positivity', 'and', 'optimism']	0
+2018-en-valence-dev-11	['i', 'was', 'glad', 'at', 'that', 'posing', 'that', 'i', 'waited', 'to', 'run', 'when', 'the', 'sun', 'came', 'out', 'cause', 'i', 'usually', 'run', 'when', 'its', 'dark', 'in', 'the', 'morning']	0
+2018-en-valence-dev-12	['time', 'for', 'bed', 'in', 'a', 'real', 'bed', 'after', 'four', 'nights', 'camping', '#bliss']	1
+2018-en-valence-dev-13	['at', 'a', 'groovy', 'restaurant', 'got', 'a', 'cheeseburger', 'and', 'fries', 'i', 'dont', 'discriminate', 'rating', '57', '#yummy', '#delicious', '#politicallycorrect']	2
+2018-en-valence-dev-14	['i', 'wont', 'rt', 'things', 'that', 'might', 'offend', 'your', 'faves', 'bcs', 'im', 'better', 'than', 'that']	0
+2018-en-valence-dev-15	['#redvelvet', '#wendy', '#seulgi', '#irene', '#yeri', '#joy', 'n1', 'which', 'member', 'that', 'can', 'not', 'drink', 'sparkling', 'water', '']	0
+2018-en-valence-dev-16	['someones', 'nicked', 'my', 'lunch', 'out', 'the', 'fridge', 'at', 'work', 'roast', 'dinner', 'as', 'well', '#fuming']	-3
+2018-en-valence-dev-17	['cubewatermelon', 'jonkimbel', 'its', 'hilarious', 'but', 'there', 'are', 'legit', 'milkshake', 'duck', 'apologizers', 'yes', 'just', 'the', 'hypothetic', 'milkshake', 'duck']	0
+2018-en-valence-dev-18	['professorf', 'mediaite', 'lawnewz', 'childish', 'temper', '#tantrums', 'are', 'all', 'the', 'left', 'has', 'left', '']	-2
+2018-en-valence-dev-19	['totally', 'scare', 'for', 'this', 'upcoming', 'results', '']	-1
+2018-en-valence-dev-20	['what', 'is', 'this', 'miserable', 'ass', 'weather', 'all', 'about', '', 'dark', 'and', 'gloomy', '#depressing', '#weekoff', '#wheresthesun']	-3
+2018-en-valence-dev-21	['media', 'is', 'so', 'focused', 'on', 'bad', 'news', 'that', 'we', 'forget', 'how', 'much', 'more', 'greatgood', 'things', 'happen', 'daily', '#thinkpositive', '#goodnews', '#optimism', '#goodmorning']	1
+2018-en-valence-dev-22	['iamjpk', 'nameisnani', 'what', 'the', 'phd', '', 'eesav', 'gattiga', '']	2
+2018-en-valence-dev-23	['wvgmltd', 'dalefootcompost', 'thomasetty', 'would', 'you', 'like', 'to', 'clean', 'my', 'cooker', 'top', 'please', '', '#sparkling', '#nomess', '#sunglassesneeded']	1
+2018-en-valence-dev-24	['tikitakaconnor', 'eduardo', 'without', 'injury', 'was', 'honestly', 'amazing', 'like', 'so', 'sad', 'hes', 'not', 'looked', 'at', 'in', 'the', 'right', 'light', 'because', 'of', 'his', 'injuries']	-1
+2018-en-valence-dev-25	['his', 'interlocutor', 'burst', 'out', 'laughing', 'several', 'times', 'at', 'his', 'answers', 'and', 'more', 'than', 'ever', 'when', 'to', 'the', 'question', '‘', 'whether', 'he', 'had', 'been', 'cured�']	0
+2018-en-valence-dev-26	['adsxe', 'actually', 'currently', 'listen', 'to', 'that', 'song', 'as', 'you', 'tweeted', 'me', '#ironic']	1
+2018-en-valence-dev-27	['happy', 'to', 'share', 'my', 'new', 'video', 'preview', 'with', 'some', 'of', 'my', 'local', 'favsn#compose', '#excitement', 'cbcmusic', 'musicyyc', '', 'cjsw', 'breakoutwest', 'hificlub']	3
+2018-en-valence-dev-28	['marcdeacon', 'happy', 'birthday', 'marc', 'have', 'a', 'good', 'one', 'xx']	2
+2018-en-valence-dev-29	['dreamed', 'that', 'you', 'are', 'laughing', 'and', 'woke', 'up', 'from', 'my', 'sleep', 'for', 'the', 'first', 'time', 'without', 'a', 'sad', 'face', '', 'fair', 'enough', 'to', 'see', 'you', 'in', 'my', 'dream', '']	3
+2018-en-valence-dev-30	['argosonline', 'customer', 'service', 'is', 'dreadful', 'phone', 'is', 'huge', 'and', 'get', 'passed', 'from', 'person', '2', 'person', 'and', 'keep', 'taking', 'money', 'off', 'my', 'card', '#idiots']	-3
+2018-en-valence-dev-31	['i’m', 'so', 'glad', 'i’m', 'not', 'like', 'some', 'of', 'the', 'sad', 'people', 'online', 'who', 'gossip', 'and', 'bully', 'others', 'for', 'their', 'entertainment', 'because', 'they', 'have', 'no', 'life']	-2
+2018-en-valence-dev-32	['good', 'times', 'never', 'fade', 'away', '#smile']	1
+2018-en-valence-dev-33	['whiskurmew', 'happy', 'birthday', 'beautiful', 'i', 'hope', 'today', 'is', 'as', 'lovely', 'wonderful', 'and', 'astounding', 'as', 'you', 'are', 'you', 'deserve', 'no', 'less', 'than', 'that', '']	3
+2018-en-valence-dev-34	['nobody', 'liked', 'this', 'really', '#sarcasm', '#nevergowiththeincrowd', '#theincrowdhasalwaysbeensuspect', '#resisttheincrowd']	-2
+2018-en-valence-dev-35	['hey', 'when', 'i', 'die', 'will', 'someone', 'please', 'do', 'a', '#facebook', 'live', 'thing', 'of', 'me', 'in', 'the', 'casket', 'at', 'my', 'wake', 'i', 'like', 'to', 'be', '#ironic', 'sometimes']	0
+2018-en-valence-dev-36	['realdonaldtrump', 'way', 'to', 'unite', 'the', 'country', '', 'such', 'a', 'presidental', 'tweet', '#sarcasm']	0
+2018-en-valence-dev-37	['#90swerethebestbecause', 'assimilation', 'didnt', 'mean', 'loss', 'of', 'individuality', 'labels', 'and', 'categories', 'were', 'becoming', 'obsolete', '#thanksobama', '#sarcasm']	0
+2018-en-valence-dev-38	['nearly', '60', 'of', 'gop', 'members', 'think', 'higher', 'education', 'is', 'ruining', 'this', 'country', 'that', 'includes', 'gop', 'members', 'with', 'higher', 'education', 'degrees', '#irony']	-1
+2018-en-valence-dev-39	['#thingsivelearned', 'the', 'wise', '#shepherd', 'never', 'trusts', 'his', 'flock', 'to', 'a', '#smiling', 'wolf', '#teamfollowback', '#fact', '#wisewords']	0
+2018-en-valence-dev-40	['mrjamesob', 'lbc', '', 'snowflake', 'random', 'such', 'a', 'funny', 'man', 'never', 'a', 'dull', 'moment', 'brilliant']	3
+2018-en-valence-dev-41	['and', 'the', '#wonderful', 'boy', 'in', 'the', 'garden', 'grew', 'in', 'wisdom', 'and', 'stature', 'and', 'in', 'favour', 'with', 'god', 'and', 'men', 'which', 'literally', 'were', 'his', 'parentsn#vss365']	0
+2018-en-valence-dev-42	['were', 'really', 'not', 'afraid', 'of', 'you', 'all', 'we', 'find', 'you', 'rather', '#annoying', 'amp', '#amusing', '']	1
+2018-en-valence-dev-43	['smilejamtvj', 'clarkecooper', 'dahliaharris', 'looking', 'fab', 'today', 'pleasing', 'to', 'the', 'artistic', 'eye', '#girlpowertuesday']	1
+2018-en-valence-dev-44	['nothing', 'is', 'more', '#beautiful', 'than', 'a', '#smile', 'that', 'has', 'struggled', 'through', 'tears']	2
+2018-en-valence-dev-45	['the', 'gop', 'wants', 'to', 'exclude', 'preexisting', 'conditions', '#irony']	-1
+2018-en-valence-dev-46	['happy', 'birthday', 'to', 'ma', 'brother', 'from', 'another', 'mother', 'official1cedi', 'dis', 'year', 'more', 'blessing', '#break', 'itz']	3
+2018-en-valence-dev-47	['novak', 'is', 'seeing', 'those', 'balls', 'as', 'melons', 'perfect', 'conditions', 'for', 'him', '', '#wimbledon']	0
+2018-en-valence-dev-48	['joysparklebs', 'being', 'able', 'to', 'sit', 'with', 'so', 'much', 'solid', 'info', 'while', 'others', 'came', 'at', 'her', 'ready', 'to', 'kill', 'is', 'a', 'true', 'sign', 'of', 'strength', '#inspiring']	1
+2018-en-valence-dev-49	['jihnwi', 'u', 'literally', 'name', 'us', 'a', 'word', 'close', 'to', 'prostitutes', 'ok', 'oomf', '']	-3
+2018-en-valence-dev-50	['fall', 'season', 'starts', 'today', '']	1
+2018-en-valence-dev-51	['i', 'just', 'love', '#humid', 'nyc', '#summer', '', '#sarcasm']	1
+2018-en-valence-dev-52	['prageru', 'in', 'a', 'state', 'where', 'assisted', 'suicide', 'is', 'legal', 'talk', 'about', 'intellectual', 'dishonesty', 'how', 'stupid', 'does', 'the', 'left', 'think', 'people', 'are', '#irony']	-3
+2018-en-valence-dev-53	['wow', 'o', 'this', 'was', 'included', 'in', 'the', 'playlist', '#awesome']	3
+2018-en-valence-dev-54	['senronjohnson', 'neomirao', '#25thamendmentnow', 'do', 'you', 'mean', 'regulations', 'like', 'clean', 'air', 'and', 'water', 'because', 'who', 'needs', 'that', 'right', '#sarcasm']	-2
+2018-en-valence-dev-55	['cant', 'wait', 'to', 'take', 'family', 'pictures', '', 'just', 'so', 'excited', 'to', 'start', 'doing', 'fun', 'things', 'with', 'my', 'babies', '\u200d\u200d']	2
+2018-en-valence-dev-56	['she', 'mad', 'sus', 'hung', 'up', 'on', 'me', '']	1
+2018-en-valence-dev-57	['f1', 'why', 'announcing', 'so', 'late', 'it', 'will', 'be', 'hard', 'to', 'make', 'it', 'from', 'manchester', 'and', 'organising', 'a', 'day', 'off', '#sad']	-3
+2018-en-valence-dev-58	['i', 'dont', 'understand', 'ppl', 'who', 'save', 'wasps', '', 'next', 'chance', 'that', 'lil', 'dude', 'gets', 'he', 'gnna', 'sting', 'ur', 'grandma']	-2
+2018-en-valence-dev-59	['sold', 'out', 'next', 'batch', 'in', '3', 'days', '', '', '']	1
+2018-en-valence-dev-60	['that', 'alcohol', 'clouds', 'everyones', 'judgement', 'it', 'dawns', 'on', 'me', 'that', 'some', 'young', 'men', 'really', 'dont', 'understand', 'what', 'vulnerable', 'means', '#ironic']	-1
+2018-en-valence-dev-61	['will', 'i', 'get', 'in', 'trouble', 'if', 'codynolove', 'or', 'gordonramsay', 'show', 'up', 'at', '#ufc215', 'and', 'i', 'try', 'to', 'find', 'them', 'at', 'rogers', '', 'under', '3', 'weeks', '#excitement']	3
+2018-en-valence-dev-62	['i', 'could', 'not', 'be', 'happier', 'with', 'my', 'life', 'right', 'now', '']	3
+2018-en-valence-dev-63	['this', 'one', 'na', 'odd', 'looking', 'isnt', 'he', 'pointy', 'the', 'alien', 'asked', 'nperhaps', 'but', 'hell', 'be', '#wonderful', 'hes', 'from', 'the', 'steve', 'pile', '#vss365']	1
+2018-en-valence-dev-64	['because', 'of', 'your', 'smile', 'you', 'make', 'the', '#life', 'more', '#beautiful']	3
+2018-en-valence-dev-65	['whitejennyb', 'emreuslu', 'jenny', 'white', '', 'u', 'r', 'the', 'dumbest', 'here', '', 'what', 'r', 'u', 'trying', '', 'get', 'lost']	-3
+2018-en-valence-dev-66	['newsbykatherine', 'jonkarl', 'abc', 'you', 'guys', 'sound', 'astounded', 'does', 'anyone', 'working', 'w', 'trump', 'wh', 'have', 'an', 'any', 'ethicalmoral', 'values', '']	-2
+2018-en-valence-dev-67	['shojopower', 'yes', 'or', 'those', 'animated', 'comic', 'book', 'movies']	0
+2018-en-valence-dev-68	['cant', 'stand', 'it', 'when', 'lads', 'put', 'their', 'middle', 'finger', 'up', 'in', 'pics', '']	-2
+2018-en-valence-dev-69	['kicchasudeep', 'no', 'words', 'sir', 'thank', 'you', 'for', 'the', 'concern']	0
+2018-en-valence-dev-70	['theme', 'of', 'week', 'ask', 'the', 'lord', 'for', 'strength', 'amp', 'perspective', 'to', 'persevere', 'in', '#integrity', 'and', 'effort', 'despite', 'being', '#disheartened', 'amp', 'disappointed']	-2
+2018-en-valence-dev-71	['im', 'clapping', 'and', 'cheering', 'for', 'both', 'teams', '']	3
+2018-en-valence-dev-72	['#wtf', 'what', 'a', '#wonderful', 'idea', 'nyouve', 'all', 'your', 'tweets', 'and', 'likes', 'thats', 'pretty', 'pointless', 'for', 'me', '#bye', '#bye', '#twat']	0
+2018-en-valence-dev-73	['whatever', 'you', 'decide', 'to', 'do', 'make', 'sure', 'it', 'makes', 'you', '#happy']	1
+2018-en-valence-dev-74	['the', 'same', 'part', 'of', 'roof', 'bar', 'drivers', 'side', 'are', 'stolen', 'from', 'grand', 'vitara', 'cars', 'let', 'it', 'be', 'known', 'this', 'is', 'really', '#disheartening', '#brunei']	-2
+2018-en-valence-dev-75	['devlinjim', 'sophielong01', 'what', 'about', 'daniel', '79', '', 'his', 'throne\xa0was', 'like\xa0the', 'fiery', 'flame\xa0and\xa0his', 'wheels\xa0as\xa0burning', 'fire']	-1
+2018-en-valence-dev-76	['my', 'partners', 'new', 'headphones', 'works', '2', 'well', 'its', 'bad', 'he', 'couldnt', 'hear', 'me', 'yelling', '', 'him', 'when', 'i', 'was', 'about', '5ft', 'in', 'front', 'him', '#ironic', '#technology']	-2
+2018-en-valence-dev-77	['it', 'was', 'a', 'bright', 'cold', 'day', 'in', 'april', 'and', 'the', 'clocks', 'were', 'striking', 'thirteen', '', 'george', 'orwell', '1984']	1
+2018-en-valence-dev-78	['finally', 'finished', 'this', 'terms', 'class', 'book', 'sky', 'hawk', 'by', 'gilllewis', 'kids', 'in', 'tears', 'and', 'actually', 'cheering', 'at', 'the', 'end', '#good', 'read']	2
+2018-en-valence-dev-79	['angrydwarf9', 'carolinesandall', 'it', 'ruins', 'my', 'frigging', 'night', 'each', 'night', 'at', '9pm', 'mrs', 'loves', 'it', 'ive', 'been', 'early', 'to', 'bed', 'for', 'a', 'month', '#dreadful']	-3
+2018-en-valence-dev-80	['cnn', 'talking', 'about', 'meetings', 'on', 'collecting', 'damaging', 'information', 'on', 'a', 'political', 'figure', 'and', 'when', 'best', 'to', 'release', 'by', 'donaldjtrumpjr', '#ironic']	-2
+2018-en-valence-dev-81	['my', 'dog', 'wouldnt', 'stop', 'barking', 'so', 'now', 'im', 'up', 'at', 'eight', 'am', 'with', 'a', 'raging', 'headache']	-3
+2018-en-valence-dev-82	['piersatpenn', 'thank', 'you', 'dear', 'emily', 'this', 'is', 'a', 'wonderful', 'share', 'i', 'love', 'it', 'emily', 'have', 'very', 'happy', 'moment', 'over', 'there', 'my', 'beautiful', 'friend']	3
+2018-en-valence-dev-83	['look', 'upon', 'mine', '#affliction', 'amp', 'my', '\u200b\u200b\u200b#pain\u200b', 'amp', 'forgive', 'all', 'my', 'sins', 'ps', '2518']	0
+2018-en-valence-dev-84	['listening', 'to', 'these', 'refugee', 'children', 'barely', 'a', 'decade', 'old', 'describe', 'the', 'horrific', 'acts', 'they', 'were', 'forced', 'to', 'commit', 'is', 'terrifying', '#datelinesbs']	-2
+2018-en-valence-dev-85	['shooting', 'more', 'than', 'ever', 'making', 'more', 'mistakes', 'than', 'ever', 'but', 'i', 'jumped', 'in', 'the', 'pool', 'of', 'sharks', 'a', 'long', 'time', 'ago', '', '#relentless', '#resilient']	0
+2018-en-valence-dev-86	['vesciodiana', 'you', 'forgot', '#laughter', 'as', 'well', '️️️']	1
+2018-en-valence-dev-87	['happy', 'birthday', 'to', '#olympic', '#great', 'and', '#champ', 'jordynwieber', '', '', '']	3
+2018-en-valence-dev-88	['caleb', 'had', 'a', 'nightmare', 'about', 'zombies', 'i', 'had', 'a', 'dream', 'about', 'freedom']	-1
+2018-en-valence-dev-89	['i', 'finally', 'decided', 'to', 'create', 'a', 'twitter', 'account', 'dont', 'we', 'all', 'need', 'more', 'social', 'media', 'in', 'our', 'lives', '#sarcasm', '']	1
+2018-en-valence-dev-90	['desmond', 'was', 'asleep', 'when', 'i', 'called', 'after', 'i', 'got', 'out', 'of', 'my', 'meeting', 'he', 'still', 'answered', 'and', 'let', 'me', 'vent', 'to', 'him', 'the', 'whole', 'way', 'home', '', '#sweetness']	1
+2018-en-valence-dev-91	['its', 'not', 'always', 'about', 'the', 'getting', 'but', 'its', 'about', 'the', 'receiving', 'of', 'what', 'has', 'already', 'been', 'given', 'receive', 'the', 'joy', 'made', 'available', '#jesus', '']	0
+2018-en-valence-dev-92	['#louiselinton', '', 'haters', 'gonna', 'hate', 'keep', 'on', 'being', 'your#fabulous', 'self', 'theyll', 'keep', 'on', 'being', '', '#miserable']	-2
+2018-en-valence-dev-93	['#worry', 'never', 'robs', 'tomorrow', 'of', 'its', '#sorrow', 'it', 'only', 'saps', 'today', 'of', 'its', '#strength', '', 'a', 'j', 'crown', '#faith', '#positive', '#motivation']	0
+2018-en-valence-dev-94	['we', 'can', 'throw', 'stones', 'complain', 'about', 'them', 'stumble', 'on', 'them', 'climb', 'over', 'them', 'or', 'build', 'with', 'them', '—', 'william', 'arthur', 'ward', '#inspiring']	0
+2018-en-valence-dev-95	['3lectric5heep', 'well', 'that', 'must', 'sting', 'doesnt', 'it', 'cnn', '']	0
+2018-en-valence-dev-96	['joycemeyer', 'mrsglessman', '#day', 'of', '#vengeance', 'of', 'our', '#god', 'to', '#comfort', 'all', 'who', '#mourn', 'to', 'console', 'those', 'who', '#mourn', 'in', '#zion', 'to', 'give', '47']	-2
+2018-en-valence-dev-97	['just', 'saw', 'a', 'guy', 'litter', 'out', 'of', 'his', 'prius', '#ironic']	0
+2018-en-valence-dev-98	['had', 'frustration', 'dream', 'that', 'left', 'me', 'utterly', 'fking', 'furious', 'plus', 'side', 'so', 'angry', 'couldnt', 'sleep', 'wrote', '1500', 'words', 'minus', 'side', 'still', 'raging']	-3
+2018-en-valence-dev-99	['ha', 'ha', 'love', 'flats', 'description', 'of', 'marlie', 'packer', 'default', 'setting', 'combat', 'mode', '', '', '#brilliant', 'ndavidflatman', 'marliepacker', '#wrwc2017']	3
+2018-en-valence-dev-100	['#hope', '#youngins', '#mentalhealth', 'balance', 'crucial', 'to', 'our', 'existence', 'sustenance', 'of', 'lifenot', 'too', 'much', 'sad', 'albeit', 'we', 'wish', '#happy', 'perpetualits', 'not']	0
+2018-en-valence-dev-101	['i', 'feel', 'like', 'i', 'should', 'be', 'watching', '#glee', 'but', '#glee', 'will', 'just', 'make', 'me', 'cry', 'and', 'im', 'trying', 'to', 'remember', 'happy', 'times']	0
+2018-en-valence-dev-102	['like', 'i', 'mightve', 'set', 'it', 'down', 'on', 'top', 'of', 'my', 'car', 'amp', 'if', 'so', 'that', 'shit', 'is', 'long', 'gone', '', '']	-2
+2018-en-valence-dev-103	['so', 'happy', 'to', 'be', 'home', 'from', 'ibiza', 'the', 'place', 'is', 'some', 'thing', 'else', 'mad', 'gaff', 'that', '', 'need', 'find', 'a', 'bird', 'now', 'i', 'wanna', 'start', 'doing', 'romantic', 'things', 'now', '']	3
+2018-en-valence-dev-104	['happy', 'amazon', 'prime', 'day', 'to', 'all', 'my', 'primers', '']	1
+2018-en-valence-dev-105	['saikalyjihad', 'rimanjeim', 'best', 'birthy', 'day', 'sexy', 'rima', 'lwish', 'to', 'you', 'a', 'happy', 'life']	3
+2018-en-valence-dev-106	['someone', 'needs', 'to', 'start', 'listening', 'to', 'ossokxly', 'about', '#allstargame2017', 'ideas', '#brilliant', '700espn']	0
+2018-en-valence-dev-107	['lauramuiruns', 'diamondleague', 'loved', 'cheering', 'you', 'on', 'with', 'my', 'kids', 'x']	3
+2018-en-valence-dev-108	['hey', 'nhsengland', 'imagine', 'being', 'blue', 'lighted', 'to', 'hospital', 'unable', 'to', 'breathe', 'only', 'to', 'be', 'dumped', 'in', 'a', 'cubicle', 'and', 'not', 'seen', 'for', '4', 'hours', '#horrendous']	-3
+2018-en-valence-dev-109	['whenever', 'i', 'see', 'you', 'my', 'day', 'gets', 'better', 'and', 'better', '', '#sarcastic']	1
+2018-en-valence-dev-110	['that', 'moment', 'when', 'the', 'worry', 'is', 'lifted', '#grateful']	2
+2018-en-valence-dev-111	['ffigurefbust', 'how', 'so', 'ive', 'been', 'thinking', 'of', 'getting', 'it', 'done', 'and', 'now', 'youve', 'given', 'me', 'a', 'frighten']	-2
+2018-en-valence-dev-112	['everything', 'i', 'order', 'online', 'just', 'comes', 'looking', 'like', 'a', 'piece', 'of', 'shit', '']	-3
+2018-en-valence-dev-113	['skh4808', 'theveteran425fa', 'tomilahren', 'then', 'whyd', 'they', 'wait', 'until', 'now', 'to', 'start', 'getting', 'pissy', '']	-1
+2018-en-valence-dev-114	['azizansari', 'just', 'finished', 'season', '2', 'of', '#masterofnone', 'you', 'are', 'a', 'gifted', 'storyteller', '#charming', '#cinematography', '#hilarious']	3
+2018-en-valence-dev-115	['never', 'regret', 'anything', 'that', 'once', 'made', 'you', 'smile', '', 'n', '#positive', '']	3
+2018-en-valence-dev-116	['beautifuibaek', 'wow', 'i', 'hope', 'i', 'win', '', 'thanks', 'for', 'this', '']	1
+2018-en-valence-dev-117	['doranadal', 'janeforrafffa', '#bigsmile', '#great', 'post', '#greatrafa', '#loverafa']	3
+2018-en-valence-dev-118	['with', 'the', 'couple', 'so', 'you', 'decide', 'to', 'ignore', 'everything', 'and', 'finish', 'yours', 'while', 'dealing', 'with', 'the', 'laughter', 'and', 'everything', 'in', 'the', 'background']	0
+2018-en-valence-dev-119	['i', 'click', 'on', 'download', 'on', 'my', 'pc', 'message', 'says', 'thank', 'you', 'for', 'downloading', '#itunes', 'nso', 'wheres', 'the', 'download', '#frustrated', '']	-3
+2018-en-valence-dev-120	['my', 'boyfriend', 'is', 'my', 'whole', 'world', '']	0
+2018-en-valence-dev-121	['oxandcartuk', 'jamieoliver', 'i', 'made', 'it', 'too', '', '#quickandeasyfood']	1
+2018-en-valence-dev-122	['thanks', 'for', 'such', 'a', 'thrilling', '#allstargame', 'mlb', '#sarcasm']	0
+2018-en-valence-dev-123	['denisebatters', 'but', 'for', '20k', 'theyll', 'get', 'to', 'bike', 'ride', 'down', 'the', 'canal', 'with', 'the', 'minister', 'herself', '#sarcasm', '#ornot']	0
+2018-en-valence-dev-124	['washingtonpost', 'silvajanes', 'how', 'awful']	-3
+2018-en-valence-dev-125	['need', 'your', 'help', 'guys', '', 'survey', 'for', 'a', 'friend']	1
+2018-en-valence-dev-126	['delkrushnic', 'i', 'knw', 'you', 'have', 'a', 'temper', 'paaa', 'lol', 'just', 'chill', 'dear', 'dont', 'be', 'pissed', 'waii', 'or', 'i', 'will', 'else', 'worry', 'u', 'saaa', 'but', 'im', 'sorry', '']	-2
+2018-en-valence-dev-127	['best', 'horror', 'comedy', 'movie', 'of', '2017', '#anandobrahma', 'taapsee', '#srinivasreddy', '', 'in', '2nd', 'half', 'i', 'got', 'throat', 'pain', '#toomuch', '#laughs']	2
+2018-en-valence-dev-128	['am', 'ugly', 'guy', 'whos', 'pleasant', 'geuine', '', 'and', 'happy', 'gt', 'an', 'evil', 'attractive', 'guy', 'whos', 'bitter', 'and', 'coniving', 'and', 'superficial']	-1
+2018-en-valence-dev-129	['oh', 'bentleysystems', 'what', 'hast', 'thou', 'done', 'to', 'thy', 'configurations', '#despair']	-3
+2018-en-valence-dev-130	['i', 'just', 'watched', 'the', 'video', 'that', 'i', 'took', 'at', 'troyes', 'concert', 'last', 'year', 'during', 'happy', 'little', 'pill', 'and', 'now', 'im', 'crying', 'i', 'miss', 'him', 'troyesivan', '']	-2
+2018-en-valence-dev-131	['was', 'one', 'moron', '', 'driving', 'his', 'oversize', 'tonka', 'truck', 'with', 'the', 'big', 'flag', 'in', 'the', 'bed', 'back', 'and', 'forth', 'blaring', 'country', 'music', '', '#disappointment']	-3
+2018-en-valence-dev-132	['that', 'you', 'have', 'banished', 'your', 'own', 'sadness', 'the', 'way', 'i', 'am', '#somber']	0
+2018-en-valence-dev-133	['#lesson', 'from', 'kevinhart4real', '#book', 'ill', 'apply', '', 'in', '#life', 'u', 'always', 'have', 'a', 'choice', '', 'kev', 'had', 'grimey', 'things', 'happen', 'amp', 'he', '#chose', '#optimism']	0
+2018-en-valence-dev-134	['difficulties', 'by', 'bracing', 'the', 'mind', 'to', 'overcome', 'them', 'assist', 'cheerfulness', 'as', 'exercise', 'assists', 'digestionnchristian', 'nestell', 'bovee', '#quotes']	0
+2018-en-valence-dev-135	['simon', 'bell', 'disappointed', 'in', 'who', 'thats', 'a', 'big', 'call', 'from', 'the', 'affirmative', 'team', '#sarcasm', '#pharmed17']	0
+2018-en-valence-dev-136	['went', 'to', 'bed', 'a', '130', 'fell', 'asleep', 'after', 'my', 'niece', 'started', 'crying', 'at', '4', 'im', 'dying', '']	-3
+2018-en-valence-dev-137	['hasegawasona', 'big', 'toothy', 'smile', 'as', 'she', 'wiggles', 'about']	1
+2018-en-valence-dev-138	['3', 'and', 'a', 'half', 'hour', 'more', '', '#exo']	-2
+2018-en-valence-dev-139	['', 'thechicmystique', '', '—', 'hurting', 'badly', 'and', 'that', 'he', 'cant', 'just', 'leave', 'him', 'like', 'that', 'angry', 'and', 'heartless', 'nni', 'promise', 'you', 'that', 'ill', 'be', 'back', '—']	-3
+2018-en-valence-dev-140	['omgsh', 'alexis', 'is', 'sooooo', 'freaking', 'funny', 'on', '#bachelorinparadise', '', 'that', 'pizza', 'segment', 'plus', 'i', 'love', 'her', 'and', 'jazzys', 'friendship', '']	3
+2018-en-valence-dev-141	['bernadetteally', 'cute', 'smile']	1
+2018-en-valence-dev-142	['do', 'people', 'notice', 'that', 'only', 'saying', 'youre', 'so', 'pretty', 'when', 'i', 'have', 'makeup', 'on', 'is', 'offense', 'namp', 'i', 'take', 'note', 'that', 'they', 'never', 'say', 'it', 'when', 'i', 'dont']	-2
+2018-en-valence-dev-143	['i', 'feel', 'bad', 'for', 'meatball', 'not', 'really', 'but', 'you', 'know', 'what', 'i', 'mean', '#vetoad', '#ironic', '#bb19']	-1
+2018-en-valence-dev-144	['brown', 'envelopes', 'can', 'induce', 'panic', '#posttruth']	-1
+2018-en-valence-dev-145	['the', 'greatest', 'happiness', 'is', 'seeing', 'someone', 'you', 'like', 'stay', 'happy', '', 'daidouji', 'tomoyo', 'cardcaptor', 'sakura', '']	3
+2018-en-valence-dev-146	['wrapped', 'in', 'this', 'burrito', 'gotta', 'sweat', 'this', 'all', 'out', '']	-2
+2018-en-valence-dev-147	['i', 'feel', 'intimidated']	-2
+2018-en-valence-dev-148	['one', 'of', 'the', 'greathorrible', 'moments', 'as', 'a', 'professor', 'is', 'seeing', 'a', 'wonderful', 'student', 'leaving', 'your', 'university', 'to', 'pursue', 'hisher', 'true', 'passion']	-2
+2018-en-valence-dev-149	['damn', 'im', 'tired', 'as', 'hell', 'i', 'never', 'get', 'a', 'off', 'day', 'during', 'the', 'week', 'anymore', '', 'i', 'wanna', 'call', 'in', 'so', 'bad', 'but', 'these', 'lil', '60', 'hrs', 'sounds', 'so', 'good']	-2
+2018-en-valence-dev-150	['tonights', 'run', '#restless']	-1
+2018-en-valence-dev-151	['russia', 'story', 'will', 'infuriate', 'trump', 'today', 'media', 'otherwise', 'would', 'be', 'giving', 'him', 'tongue', 'bath', 'for', 'fall', 'of', 'isis', 'in', 'mosul', '', 'albaghdadi', 'death']	0
+2018-en-valence-dev-152	['its', 'a', 'beautiful', 'pout', 'c']	2
+2018-en-valence-dev-153	['cant', 'wait', 'to', 'perform', '2nite', 'at', 'crashtestcomedy', 'at', '#verns', '#yyc', '#calgary', '5', '#comedy', '#comedian', '#yyccomedy', '#calgarycomedy', '#fun', '#laughs', '#live']	3
+2018-en-valence-dev-154	['omg', 'so', 'grateful', 'to', 'have', 'an', 'education', 'but', 'ive', 'been', 'back', 'at', 'school', 'for', '2', 'two', 'days', 'and', 'my', 'back', 'hurts', 'im', 'exhausted', 'and', 'breaking', 'out', 'already', '']	1
+2018-en-valence-dev-155	['#ai', '#revolation', 'soon', 'is', 'possiblen#fearless', '#fearful', '', '#good', '#goodness']	2
+2018-en-valence-dev-156	['maritzabuys666', 'looks', 'wonderful', '', 'wish', 'it', 'was', 'my', 'cock', 'tho', '', '']	2
+2018-en-valence-dev-157	['wengzyjb', 'i', 'dont', 'even', 'know', 'na', 'naa', 'koy', 'beautiful', 'nightmare', 'hahahaha', 'oks']	1
+2018-en-valence-dev-158	['quite', 'possibly', 'the', 'worst', 'anthems', 'ive', 'ever', 'heard', 'in', 'pro', 'sports', 'by', 'both', 'singers', 'i', 'wish', 'i', 'was', 'deaf', '#asg2017', '#mlb', '#mlballstargame', '']	-3
+2018-en-valence-dev-159	['wdapunisher', 'sgtdangercow', 'battlefield', 'i', 'think', 'so', 'too', 'ncasual', 'audience', 'was', 'particularly', 'unhappy', 'with', 'server', 'admins', 'and', 'server', 'rules']	-3
+2018-en-valence-dev-160	['coulda', 'sworn', 'it', 'was', 'interview', 'with', 'a', 'vampire', 'hmmmmandela', 'effect', 'anyone', 'n#interviewwithavampire', '#annerice', '#books', '#horror', '#ilovevamps']	0
+2018-en-valence-dev-161	['never', 'been', 'so', 'relived', '']	3
+2018-en-valence-dev-162	['dangermclovin', 'well', 'done', '', 'your', 'twins', 'charlii', 'and', 'cadance']	3
+2018-en-valence-dev-163	['are', 'u', '#depressed', '#hypo', '#manic', '#lonely', '#bored', '#nofriends', '#needfreinds', '#friend', 'i', 'feel', 'chatty', 'i', 'wanna', 'help', 'ppl', 'or', 'just', '#makefriend', 's', '#dm', '#moms']	-2
+2018-en-valence-dev-164	['im', 'doing', 'all', 'this', 'to', 'make', 'sure', 'you', 'smiling', 'down', 'on', 'me', 'bro']	1
+2018-en-valence-dev-165	['the', 'moon', 'tonight', '', '#beautiful']	1
+2018-en-valence-dev-166	['amandaholden', 'lovely', 'photo', 'amanda', '#summerhols', '#carefree']	2
+2018-en-valence-dev-167	['iaindale', 'lbc', 'the', 'only', 'word', 'worse', 'than', 'moist', 'in', 'my', 'opinion', 'is', 'scrape', '#ugh', '#shudder']	-2
+2018-en-valence-dev-168	['silverstein', '13th', 'time', 'seeing', 'you', 'guys', 'today', 'and', 'you', 'cancel', 'the', 'meet', 'and', 'greet', 'because', 'of', 'the', 'storm', 'were', 'all', 'soaked', '', '#dissapointed']	-3
+2018-en-valence-dev-169	['tipofthedaydo', 'not', 'be', 'distracted', 'by', 'the', 'ones', 'who', 'accuse', 'you', 'for', 'doing', 'what', 'is', 'right', 'for', 'his', 'mission', 'for', 'youcontinue', 'living', 'and', 'pleasing', 'him']	0
+2018-en-valence-dev-170	['imagine', 'how', 'many', 'ksones', 'are', 'crying', 'right', 'now', 'for', 'not', 'getting', 'tickets', '', 'meanwhile', 'isones', 'dont', 'even', 'get', 'a', 'chance', 'to', 'go', 'on', 'war', 'for', 'tickets', '']	-2
+2018-en-valence-dev-171	['dont', 'fucking', 'tag', 'me', 'in', 'pictures', 'as', 'family', 'first', 'when', 'you', 'cut', 'me', 'out', '5', 'years', 'ago', 'youre', 'no', 'one', 'to', 'me', '']	-3
+2018-en-valence-dev-172	['bbcworld', 'course', 'he', 'didnt', '#sarcasm']	-2
+2018-en-valence-dev-173	['bbcbreaking', 'i', 'have', 'some', 'mistrust', 'of', 'the', 'medical', 'profession', '', 'the', 'cover', 'up', 'was', 'more', 'important', 'than', 'the', 'patients']	-2
+2018-en-valence-dev-174	['oteraw', 'unhappy', 'and', 'unfulfilled', '']	-2
+2018-en-valence-dev-175	['i', 'am', 'shy', 'at', 'firstit', 'usually', 'takes', 'me', 'a', 'few', 'minutes', 'to', 'assess', 'the', 'jaw', 'of', 'the', 'people', 'i', 'am', 'hanging', 'out', 'with', 'and', 'then', 'i', 'will', 'act', 'according\u200d️']	0
+2018-en-valence-dev-176	['wtf', 'shawty', 'ass', 'on', '']	-3
+2018-en-valence-dev-177	['softytwt', 'hi', 'today', 'was', 'okay', 'i', 'emailed', 'design', 'firms', 'for', 'my', 'internship', 'and', 'now', 'im', 'nervous', 'u', 'hows', 'your', 'day', 'd']	-2
+2018-en-valence-dev-178	['god', 'this', 'match', 'is', 'dull', '#wimbledon']	-3
+2018-en-valence-dev-179	['threaten', 'to', 'leave', 'your', 'girl', 'shaking', 'in', 'a', 'wet', 'spot', '']	0
+2018-en-valence-dev-180	['happy', 'birthday', 'to', 'the', 'panderific', 'panda', 'iktheorionsound', 'i', 'hope', 'you', 'have', 'an', 'amazing', 'day', 'oli', 'i', 'love', 'u', 'so', 'much', 'and', 'i', '️ur', 'vids', 'they', 'make', 'me', '']	3
+2018-en-valence-dev-181	['granlundaarne', 'suicide', 'would', 'also', 'help', '#sarcasm']	-2
+2018-en-valence-dev-182	['realdonaldtrump', 'so', 'hard', 'to', 'believe', 'after', 'youve', 'worked', '#bigly', 'hard', 'to', 'bring', 'the', 'country', 'together', '#sarcasm', '#impeachtrump', '#25amendmentnow']	0
+2018-en-valence-dev-183	['thomassanders', 'this', 'was', 'great', 'looking', 'forward', 'to', 'next', 'part', '']	3
+2018-en-valence-dev-184	['failure', 'is', 'a', 'part', 'of', 'success', 'you', 'cant', 'experience', 'the', 'joy', 'of', 'success', 'with', 'also', 'experiencing', 'failure', '#bethehero', '#success', '#failure', '#joy']	1
+2018-en-valence-dev-185	['#depressed', 'today', 'was', 'bitter', 'sweet', 'watching', 'all', 'the', 'kids', 'go', 'back', 'to', 'school', 'made', 'me', 'really', 'miss', 'my', 'babies', 'im', 'so', 'broke', '#backtoschool2017']	-3
+2018-en-valence-dev-186	['definitely', 'something', 'happening', 'today', '#solareclipse2017', '#weird', '#annoyed']	-3
+2018-en-valence-dev-187	['this', 'is', 'kind', 'of', 'fucked', 'up', 'but', 'my', 'brother', 'is', 'about', 'to', 'join', 'the', 'police', 'academyand', 'im', 'not', 'happy', 'about', 'and', 'im', 'not', 'the', 'only', 'one']	-3
+2018-en-valence-dev-188	['jewleree', 'gameofthrones', 'lmao', 'night', 'king', 'smiles', '']	3
+2018-en-valence-dev-189	['im', 'so', '#glad', 'my', '#baby', 'cant', 'hear', 'what', 'im', '#thinking']	2
+2018-en-valence-dev-190	['yes', 'joe', 'buck', 'just', 'how', 'i', 'wanna', 'spend', 'my', 'evening', 'im', 'so', 'glad', 'i', 'get', 'to', 'hear', 'his', 'sweet', 'voice', 'for', 'the', 'next', '23', 'hours', '#allstargame', '#sarcasm']	1
+2018-en-valence-dev-191	['i', 'mean', 'not', 'that', 'i', 'wanted', 'goats', 'to', 'faint', 'but', 'i', 'wanted', 'to', 'see', 'the', 'goats', 'faint', '', '#eclipse']	-2
+2018-en-valence-dev-192	['never', 'heard', 'of', '#caracaraoranges', 'until', 'today', 'very', '#tasty', 'i', 'highly', 'recommend', 'them', '#delicious', '#goodforyou', '#fruits', '', '#oranges']	3
+2018-en-valence-dev-193	['#jesus', '#truth', 'psalms', '3211', 'you', 'that', 'are', 'righteous', 'be', 'glad', 'and', 'rejoice', 'because', 'of', 'what', 'the', 'lord', 'has', 'done', 'you', 'that', 'obey', 'him', 'shout', 'for', 'joy']	3
+2018-en-valence-dev-194	['literally', 'work', 'almost', 'everyday', 'cant', 'wait', 'to', 'start', 'my', 'pt', '#blessed', '']	3
+2018-en-valence-dev-195	['im', '#happy', 'as', 'f', 'to', 'be', 'accepted', 'with', 'my', '#chromesthesia', 'by', 'my', '#cbt', 'doctress', 'never', 'called', 'crazy', 'for', 'my', '#colors', '']	3
+2018-en-valence-dev-196	['steadilady', 'youre', 'eating', 'skin', 'that', 'could', 'have', 'been', 'sent', 'to', 'a', 'tannery', 'for', 'leather', 'processing', '']	3
+2018-en-valence-dev-197	['nigga', 'write', 'me', 'talking', 'i', 'dreamt', 'about', 'you', 'cool', 'i', 'hope', 'i', 'was', 'haunting', 'you', 'in', 'a', 'nightmare']	-2
+2018-en-valence-dev-198	['i', 'love', 'anxiety', '#sarcasm']	0
+2018-en-valence-dev-199	['mashable', 'for', 'some', 'reason', 'this', 'has', 'filled', 'me', 'with', 'delight', 'see', 'auntie', 'laugh']	2
+2018-en-valence-dev-200	['laurenwils0n', 'happy', 'birthday', 'gorg', 'have', 'a', 'good', 'one', '', 'x']	2

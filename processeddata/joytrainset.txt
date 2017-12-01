@@ -1614,3 +1614,203 @@
 31613	['hard', 'stifle', 'laughter', 'overheard', 'comment', 'really', 'amazing', 'worst', 'ways']	2
 31614	['walking', 'little', 'boy', 'red', 'shirt56', 'years', 'age', 'shouting', 'distance', '3', 'meters', 'jovial', 'manner', 'saying']	2
 31615	['asked', 'one', 'thing', 'guys', 'tonight', 'got', '#happy', '#proud', '#disappointed', '', 'football', '#timetoclimbthetable']	2
+2018-en-joy-dev-1	['baek0ff', 'byunglows', 'philippines', '']	1
+2018-en-joy-dev-2	['new', 'favourite', '#film', 'shadow', 'doubt', '#okja', '#beautifull', '#funny', '#sad', '#emotional', '#real', '#netflix', '#mustwatch', '#now']	2
+2018-en-joy-dev-3	['enter', 'code', '10', 'free', 'lyfts', 'parx', '#isnt', 'great', 'save', 'money', 'shop', '#blissful', '#freecab']	1
+2018-en-joy-dev-4	['let', 'longer', 'languish', '#pain', 'look', 'forward', '#joy', 'gifted', 'achieve', 'life', '', '#eleesha', 'ღ', '#quote']	1
+2018-en-joy-dev-5	['cubewatermelon', 'jonkimbel', 'hilarious', 'legit', 'milkshake', 'duck', 'apologizers', 'yes', 'just', 'hypothetic', 'milkshake', 'duck']	1
+2018-en-joy-dev-6	['datphan', 'much', 'fun', 'interviewed', 'supremely', 'talented', 'funny', '#datphan', '#comedy', '#laughter', '#soup']	2
+2018-en-joy-dev-7	['god', 'favors', 'men', 'women', 'delight', 'made', 'worthy', 'happiness', 'happiness']	1
+2018-en-joy-dev-8	['hit', 'blessed', '']	1
+2018-en-joy-dev-9	['#smile', 'always', 'make', 'easy', 'possible', 'get', 'best', 'orthodontic', 'care', 'matter', 'need']	1
+2018-en-joy-dev-10	['also', '45', 'billion', 'opiod', 'crisis', 'pennies', 'complete', 'joke', 'almost', 'hilarious', '65', 'billion', 'high', 'risk', 'pools', 'itll', '#dryupquick']	0
+2018-en-joy-dev-11	['sheenkl', 'assume', 'manga', '#good']	0
+2018-en-joy-dev-12	['caseydellacqua', 'ashbar96', 'will', 'cheering', 'go', 'caseydellacqua', 'ashbar96']	1
+2018-en-joy-dev-13	['kevinhearne', 'oh', 'actually', 'first', 'guess', 'thought', 'dark', 'irish', 'man', 'bce', 'thanks', 'clearing', 'd']	1
+2018-en-joy-dev-14	['coming', 'shortly', '#wetindeyhappen', '#satire', '#laughs', '#local', '#pidgin', 'cc', 'mctalkindrum', 'funnyudeme', '#staytuned', '#premiumtalkstation']	1
+2018-en-joy-dev-15	['just', 'watched', 'joenbc', 'colbertlateshow', '', 'amp', 'say', 'awe', 'hair', 'products', 'using', 'greggutfeld', '', '#beautiful', '#jealous']	1
+2018-en-joy-dev-16	['thought', 'bad', 'driver', 'went', 'college', '#relieved']	1
+2018-en-joy-dev-17	['ubiqsmart', '', 'looking', 'like', 'good', 'buy', 'price', 'great', 'platform', 'dev', 'team', 'future', 'looks', '#bright']	2
+2018-en-joy-dev-18	['cut', 'hair', 'can', 'fucc', 'hoes', 'durag', '#glee', '#sg']	1
+2018-en-joy-dev-19	['success', 'just', 'accomplish', 'life', 'inspire', 'others', '#inspiration', '', '#inspire']	1
+2018-en-joy-dev-20	['khaojimmy', 'okay', 'awak', '']	1
+2018-en-joy-dev-21	['movies', 'towatch', 'list', 'spiderman', 'homecoming', 'war', 'planet', 'apes', '', '#excited', '#movies']	3
+2018-en-joy-dev-22	['smile', '#happy', '#smile']	3
+2018-en-joy-dev-23	['finally', 'finished', 'terms', 'class', 'book', 'sky', 'hawk', 'gilllewis', 'kids', 'tears', 'actually', 'cheering', 'end', '#good', 'read']	2
+2018-en-joy-dev-24	['smiling', 'like', 'mf']	3
+2018-en-joy-dev-25	['#teacher', 'attempting', 'teach', 'without', '#inspiring', '#pupil', '#desire', 'learn', 'hammering', 'cold', 'iron', '#horacemann']	0
+2018-en-joy-dev-26	['taking', 'time', 'busy', 'catch', '#great', '#american', '#eclipse', 'really', 'incredible', 'see', 'even', 'partial', 'view', 'view']	1
+2018-en-joy-dev-27	['finally', 'left', 'dark', 'room', 'crying', 'amp', 'instead', 'getting', 'sun', 'translucent', 'skin', 'got', '6000', 'mosquito', 'bites', '#blessed']	0
+2018-en-joy-dev-28	['halfway', '#madeforlove', 'alissanutting', 'utterly', '#brilliant', '#reading', 'laughing', 'loud']	3
+2018-en-joy-dev-29	['add', 'snap', 'whoajay', '', '#snap', '#streaks', '#snapchat', '#story', '#friends', '#add', '#follow', '#love', '#traveling', '#photography', '#funny']	2
+2018-en-joy-dev-30	['feed', 'die', 'starvation', 'said', 'slightly', 'smiling', 'frowned', 'panira', 'kainis']	0
+2018-en-joy-dev-31	['happy', 'birthday', 'zanele', 'ni', 'hope', 'wonderful', 'day', 'xanradebe', 'n']	2
+2018-en-joy-dev-32	['thinking', 'fergies', 'music', 'milf', 'seriously', 'mother', 'someday', 'milf', '', '#lmao', '#empowerment', '#adorable']	2
+2018-en-joy-dev-33	['last', 'sunday', 'youtube', 'glitch', 'making', 'lose', '20', 'subs', 'heartbreaking', 'channel', 'size', 'nearly', '1k', 'though', '#1ksubs', '#youtube', 'soon', '']	0
+2018-en-joy-dev-34	['already', '3', 'nico', 'urs', 'really', 'need', 'smile', 'ur', '', 'confused']	0
+2018-en-joy-dev-35	['whenever', 'turn', 'radio', 'hear', 'bob', 'dylans', 'knocking', 'heavens', 'door', 'played', 'assume', 'died', '#relieved', '#notyet', '#someday']	0
+2018-en-joy-dev-36	['mayusteapot', 'ok', 'better', '']	1
+2018-en-joy-dev-37	['tootaehyung', 'omggg', 'bloated', '', 'wonderful', 'idea', 'start', 'tomorrow']	1
+2018-en-joy-dev-38	['nisalocally', 'cocacolagb', 'thanks', 'love', 'share', 'coke', 'holiday', 'family', '', '#smile', 'chance', '#win', '']	2
+2018-en-joy-dev-39	['boys', 'awful', 'also', 'amazing', 'right']	1
+2018-en-joy-dev-40	['mabisson', 'aroundtherings', 'la2024', 'felt', 'soul', 'hilarious']	2
+2018-en-joy-dev-41	['jesskardashian', 'trevschan2', 'awesome', '', 'people', 'missing', 'watching', 'fear']	1
+2018-en-joy-dev-42	['nancypelosi', 'mean', 'bushno', 'trumpno', 'bush', '#giggles', '#hipocrite', '#liar', '#troublemaker', '#antifasupporter']	0
+2018-en-joy-dev-43	['eclipse', '', 'angelic', '', '#blessing']	2
+2018-en-joy-dev-44	['jonlovett', 'said', 'hilarious', 'smart', 'lovett', 'leave', 'brilliant', 'please', 'come', 'live', 'show', 'florida']	2
+2018-en-joy-dev-45	['kind', 'fucked', 'brother', 'join', 'police', 'academyand', 'happy', 'one']	0
+2018-en-joy-dev-46	['#redvelvet', '#wendy', '#seulgi', '#irene', '#yeri', '#joy', 'n1', 'member', 'can', 'drink', 'sparkling', 'water', '']	0
+2018-en-joy-dev-47	['conflicting', 'scents', 'house', 'cinnamon', 'sponge', 'cooling', 'tamarillo', 'chutney', 'cooking', '#sweet', '#spicy', '#homemade', '#delicious']	1
+2018-en-joy-dev-48	['learn', 'live', 'life', 'regardless', 'circumstances', 'amp', 'let', 'life', 'leave', 'n#purpose', '#growth', '', '#process', '#confident', '#happy', '#joy']	1
+2018-en-joy-dev-49	['finding', 'store', 'closing', 'sad', '#awesome', '50', 'everything', 'get', 'now', 'bag', 'nothing', '#redbull', 'amp', 'aloe', 'water']	1
+2018-en-joy-dev-50	['peplamb', 'stevenfurtick', '#comfort', '#mourn', 'console', '#mourn', '#zion', 'give', '#beauty', '#ashes', '#oil', '#joy', 'for…']	0
+2018-en-joy-dev-51	['just', 'got', 'gift', 'via', 'cool', 'virtual', 'assistant', 'tryevabot', 'wanna', 'experience', 'let', 'know', 'can', 'send', 'gift', '', '#magical', '#delightful', '']	2
+2018-en-joy-dev-52	['loss', 'aint', 'loss', 'lesson', '#smile']	0
+2018-en-joy-dev-53	['beautinasuit', 'need', 'thank', 'just', 'telling', 'like', '', 'hope', 'great', 'day', '']	2
+2018-en-joy-dev-54	['itejasmehta', 'qtalker', 'pleasure', '']	2
+2018-en-joy-dev-55	['greatest', 'happiness', 'seeing', 'someone', 'like', 'stay', 'happy', '', 'daidouji', 'tomoyo', 'cardcaptor', 'sakura', '']	3
+2018-en-joy-dev-56	['waking', '#scent', '#coffee', '#pleasure', 'nn#morning', '#carliforniadreaming', '#writers']	3
+2018-en-joy-dev-57	['ruthharvey', 'happy', 'bday', 'ruth', 'hope', 'amazing', 'day', 'x']	3
+2018-en-joy-dev-58	['domconlon', 'it’s', 'amazing', 'isn’t', 'i’m', 'big', 'fan', 'bampw', 'life', 'restorations', 'give', 'photographs', 'awe', 'inspiring']	2
+2018-en-joy-dev-59	['shoe0nhead', 'obscuredleg', 'hi', 'just', 'wanted', 'wish', 'two', 'happy', 'tuesday']	2
+2018-en-joy-dev-60	['oxandcartuk', 'jamieoliver', 'made', '', '#quickandeasyfood']	1
+2018-en-joy-dev-61	['actornithiin', 'happy', 'birthday', 'manisharma', 'sirr', 'great', 'year', 'head']	1
+2018-en-joy-dev-62	['lose', 'ever', 'lost', 'best', 'friend', 'soul', 'mate', 'smile', 'laugh', 'everything']	0
+2018-en-joy-dev-63	['#badday', 'went', '#youtube', 'watched', 'domoandcrissy', 'reaction', 'old', 'pics', '#thanks', '#ladies', '#laughs']	2
+2018-en-joy-dev-64	['', 'locked', 'loop', 'daily', 'treasure', 'hunt', '', '#optimism']	0
+2018-en-joy-dev-65	['elegantlywasted', 'chelseaclinton', 'new', 'kennedys', 'american', 'politics', 'sadly', 'mom', 'daughter', 'charming', 'toe', 'nail']	0
+2018-en-joy-dev-66	['cookie', '', 'nutella', 'topping', 'kinder', 'buenowhiten#cookie', '#muffin', '#nutella', '#food', '#delicious', '#foodporn', '#happy', '#dessert', '#chocolate', '#cake', '#junkfood']	2
+2018-en-joy-dev-67	['hey', 'buddy', 'just', 'came', 'feed', 'venus', 'flytrap', '—sue', 's1e13', '#glee']	1
+2018-en-joy-dev-68	['candycmarketing', 'happens', 'want', 'watch', 'content', 'vote', '']	1
+2018-en-joy-dev-69	['happy', 'everything', 'good', 'can', 'see', 'good', 'side', 'everything', '#optimism']	1
+2018-en-joy-dev-70	['#sad', '#missed', '#gdragon', '#tonight', '#seattlemight', 'awhile', 'back', 'hope', 'everyone', 'attended', '#concert', '#great', '#time']	0
+2018-en-joy-dev-71	['happy', 'birthday', 'd']	2
+2018-en-joy-dev-72	['bloggerlinds', 'wishing', 'joy', 'day', '#joy', '#happiness', '#empowerri']	3
+2018-en-joy-dev-73	['need', 'study', 'celebrities', 'birthdays', 'bc', 'heart', 'almost', 'stopped', 'saw', 'harrison', 'ford', 'trending', '', '#relieved']	0
+2018-en-joy-dev-74	['will', 'ever', 'tired', 'second', 'kid', 'put', 'top', '', '#workmom', '#grateful']	1
+2018-en-joy-dev-75	['airishcloudly', 'aaww', 'iam', 'sending', 'virtual', 'hug', 'eonnie', 'cares', 'cheer', 'study']	2
+2018-en-joy-dev-76	['neobrainless', 'lots', 'pretty', 'coloured', 'blobs', 'sugar', 'mean', 'willing', 'try', 'just', 'sure', 'understand', 'point', '']	1
+2018-en-joy-dev-77	['ash', 'weirdest', 'laughter']	1
+2018-en-joy-dev-78	['thanks', 'following', 'twitter', 'like', 'see', '#funny', '#happy', 'thefactably']	2
+2018-en-joy-dev-79	['0530', 'timebrew', 'toast', 'tv', 'anyone', 'else', 'gets', '', '#earlydoors', '#mumlife', '#lifewithtoddlers']	2
+2018-en-joy-dev-80	['meet', 'interview', 'recognise', 'streets', '', 'even', 'know', 'name', '']	1
+2018-en-joy-dev-81	['ldnoverground', 'train', 'announcing', 'absolutely', 'everything', 'overground', 'station', 'network', '#giggle']	1
+2018-en-joy-dev-82	['dynamicgaby', 'vincescastro', 'get', 'free', 'planner', 'think', '', '', '#csuf', '#mofuckintitans']	0
+2018-en-joy-dev-83	['doranadal', 'janeforrafffa', '#bigsmile', '#great', 'post', '#greatrafa', '#loverafa']	2
+2018-en-joy-dev-84	['sometimes', 'just', 'need', 'eat', 'delicious', 'piece', 'chocolate', 'remind', 'need', 'bitter', 'sweetness', 'redeems']	2
+2018-en-joy-dev-85	['smiling', 'like', 'thatndominos', 'sent', 'coupon', '']	1
+2018-en-joy-dev-86	['sleepy', 'lotion', 'lushcosmetics', 'smells', 'like', 'bouquet', 'lavender', 'bunch', 'toasted', 'marshmallows', 'love', 'child', '#delicious']	2
+2018-en-joy-dev-87	['shibexd', 'happy', 'birthday', 'one', 'favorite', 'content', 'creator', 'hope', 'wonderful', 'birthday']	3
+2018-en-joy-dev-88	['#great', 'start', '#beginners', 'jump', 'auto', '#trading', 'profitable', 'fx', 'ea', 'will', 'give', 'full', 'support', 'manuals', 'amp', 'team', 'viewer', 'support']	1
+2018-en-joy-dev-89	['mywifestyles', 'thank', 'following', 'please', 'read', 'astonishing', 'ebook', '#flightofalifetime', 'you’ll', 'glad', '#happy', '#smiles']	2
+2018-en-joy-dev-90	['#glad', 'four', '#top', 'picks', 'got', '#agt']	2
+2018-en-joy-dev-91	['exciting', 'day', 'aheadlunch', 'panoramic34', 'girls', '#foodie', '#yummy', '#myday', '#friends']	3
+2018-en-joy-dev-92	['sleeping', 'past', 'noon', 'look', 'window', 'see', 'hotel', 'hot', 'tub', '#bliss']	3
+2018-en-joy-dev-93	['mood', '', 'happy', '', '#blessing']	3
+2018-en-joy-dev-94	['raymondpryce1', 'yes', 'happening', 'u', 'welding', 'shield', 'u', 'can', 'get', 'first', 'hand', 'view', '']	1
+2018-en-joy-dev-95	['badhombrenps', 'secretaryperry', 'make', 'angry', 'laughing', 'tweet']	0
+2018-en-joy-dev-96	['hatzepueh', 'call', 'creepy', 'handsome', 'adorable', 'nicest', 'shark', 'ever', '', 'ok', 'zora', 'buuuuuut', 'looks', 'like', 'shark']	1
+2018-en-joy-dev-97	['rickhoffman', 'grateful', 'perseverance', 'happy', 'anniversary', 'twin']	3
+2018-en-joy-dev-98	['lizyank', 'comparison', 'makes', 'happy', '#flattered', '#engl678mu']	3
+2018-en-joy-dev-99	['kyliespearsxo', 'happy', 'birthday', '#beautiful', 'kylie', '']	3
+2018-en-joy-dev-100	['swish41', 'offense', 'mavs', '2nd', 'favorite', 'part', 'dallas', '1#', 'barbecue', '#delicious']	1
+2018-en-joy-dev-101	['rksallycat82', 'planning', 'september', '']	1
+2018-en-joy-dev-102	['step', '#brilliance', '#womeninbiz', '#womeninbusiness', '#successs', '#femaleleaders', '#femaleentrepeneurs']	2
+2018-en-joy-dev-103	['us', 'varied', '#talents', '#gifts', 'amp', '#abilities', '#all', '#work', '#together', '#we', 'can', '#help', '#make', '#world', '#better', 'amp', '#brighter', '#place']	2
+2018-en-joy-dev-104	['delight']	1
+2018-en-joy-dev-105	['charming', 'smile', 'can', 'really', 'make', 'smile', 'believe']	2
+2018-en-joy-dev-106	['jamessssss', '', 'good', 'bye', 'dear', 'pleasure']	0
+2018-en-joy-dev-107	['best', 'thing', 'cooking', 'eggs', 'even', 'original', 'idea', 'work', 'still', 'got', 'scrambled', 'eggs', '#optimism']	1
+2018-en-joy-dev-108	['bonless', 'sirlion', 'tipsmixed', 'veggies', 'browngravy', 'amp', 'homemade', 'mashed', 'potatoes', '#inthekitchen', '', '#latenightmunchies', '#yummy', '#getuagirlthatcancook']	1
+2018-en-joy-dev-109	['long', 'connor9mcintyre', '', '#phelan', '#brilliance']	0
+2018-en-joy-dev-110	['wow', 'brocklesnar', '#awesome', 'man', '#fatalsway', '#summerslam', '#wwe', '#wrestling', '#champ']	2
+2018-en-joy-dev-111	['bathe', 'pool', '#stars', '#sun', '', 'wash', 'away', 'assumptions', 'rejoin', '#joyful', 'noise', 'bliss', '#love', '', '#loveoverhate', '#resistinbeauty']	3
+2018-en-joy-dev-112	['rickysnecklace', 'proud', 'mils', 'keep', 'smiling', '️']	3
+2018-en-joy-dev-113	['dirtyducko', 'funder', 'wish', 'like', 'twice', '#hilarious']	2
+2018-en-joy-dev-114	['point', 'living', 'optimist', 'foolish', 'enough', 'believe', 'best', 'yet', 'come', '', 'peter', 'ustinov', '#optimism', '#quote']	0
+2018-en-joy-dev-115	['walk', 'door', 'cuppa', '', '#bliss']	3
+2018-en-joy-dev-116	['golden', 'temple', 'beautiful', '']	3
+2018-en-joy-dev-117	['edit', 'photos', '#spnfamily', '#samwinchester', '#jaredpadalecki', '', '#lips', '#tease']	0
+2018-en-joy-dev-118	['guys', 'want', 'super', 'inhealthy', 'delicious', 'snack', 'cheezit', 'dipped', 'cream', 'cheese', 'way', 'go', '', '#delicious', '#preggocravings']	2
+2018-en-joy-dev-119	['unchallenged', 'present', 'creates', 'complacent', 'future', '#tuesdaythought', '#selfimprovement', '#success', '#excitement']	1
+2018-en-joy-dev-120	['duarteamanda', 'theseantcollins', 'lmao', 'lack', 'self', 'awareness', 'last', 'tweet', 'genuinely', 'awe', 'inspiring']	1
+2018-en-joy-dev-121	['imkbrshanthnu', 'happy', 'birthday', 'buddy', 'wishing', 'u', 'lots', '#smiles', 'amp', '#success', '', '#ameen', 'bday', '#3days', '', 'yaayyaaa']	3
+2018-en-joy-dev-122	['see', '#campaignmasterclass', 'friday', 'haystravel', 'excited', 'hope', '', '#emailmarketing']	2
+2018-en-joy-dev-123	['#lol', '#funny', '#comedy', '#sarcasm', 'care', 'nnme', 'one', 'second', 'later', 'starts', 'crying']	1
+2018-en-joy-dev-124	['keranderson', 'maybe', 'evening', 'can', '']	1
+2018-en-joy-dev-125	['addictedspurs', 'cos', 'ok', '#great']	1
+2018-en-joy-dev-126	['ginoceno', 'great', 'prediction', 'bro', 'nice', 'optimism', '#fakefan']	1
+2018-en-joy-dev-127	['nothing', 'makes', 'happier', 'managing', 'depression']	2
+2018-en-joy-dev-128	['#ripbiwott', 'think', 'robert', 'oukos', 'soul', 'can', 'now', 'rejoice', 'rest', 'peace', 'call', 'evil', 'man', 'evil', 'good', 'man', 'good', 'man', 'evil', 'man']	0
+2018-en-joy-dev-129	['jadeodette', 'one', 'wrong', '', 'just', 'want', 'believe', 'hampm', 'haha', '']	1
+2018-en-joy-dev-130	['really', 'flattered', 'happy', 'hear', 'complements', 'blog', 'guys', 'motivates', 'write', 'blog', 'thank', 'sml', '']	3
+2018-en-joy-dev-131	['#intl', 'hey', 'bae', 'ssyhoe', 'happy', '7th', 'month', 'anniversary', '', 'ily']	3
+2018-en-joy-dev-132	['“#woe', 'unto', '#you', '#full', 'ye', 'shall', '#hunger', '#woe', 'unto', '#laugh', 'now', 'ye', 'shall', '#mourn', '#weep”nluke', '625']	0
+2018-en-joy-dev-133	['reason', 'someone', 'smiles', 'today', '#smile', '#happiness']	2
+2018-en-joy-dev-134	['good', 'tuesday', 'morning', 'person', 'makes', 'someone', 'smile', 'just', 'thought', 'younnbe', 'blessed', 'blessing', '', '#bbabab']	2
+2018-en-joy-dev-135	['just', 'received', 'fantastic', 'news', 'next', '9', 'bed', 'sui', 'generis', 'hmo', 'full', 'planning', 'permission', 'build', 'start', '01', 'september', '#excited']	3
+2018-en-joy-dev-136	['stuael', 'ano', 'man', 'stunned', 'one', 'point', 'heads', 'gone', 'scoring', 'will', '#relieved']	1
+2018-en-joy-dev-137	['want', 'diamonds', 'bright', 'future']	2
+2018-en-joy-dev-138	['fuck', 'nigga', 'feelings', 'till', 'find', 'nigga', 'feeling', '']	0
+2018-en-joy-dev-139	['yashah07', 'hahaha', 'got', 'forward', '', 'want', 'find', 'source', 'teach', '']	1
+2018-en-joy-dev-140	['#look', '#those', '#honest', '#good', '#wonderful', '#future', '#awaits', '#love', '#peace']	3
+2018-en-joy-dev-141	['got', 'free', 'drpepper', 'vending', 'machine', '#awesome']	2
+2018-en-joy-dev-142	['love', 'hate', 'cause', '', '#smile']	0
+2018-en-joy-dev-143	['perfectly', '#recall', '#amazing', '#surreal', '#totalsolareclipse', '#fortunate', '#experience', '#europe', '#manyyearsago', '#live', 'n#happy', '4', '#youguys', '#usa', '']	2
+2018-en-joy-dev-144	['morninggloria', 'came', 'damn', 'boy', 'jokes', 'stayed', 'great', 'actual', 'job', '']	1
+2018-en-joy-dev-145	['monikagoswamirk', 'just', 'see', '2', 'episodes', '#dillagi', 'still', 'curious', 'falling', 'hero', '', 'watching', 'soon', '']	1
+2018-en-joy-dev-146	['bruhhhwhy', 'armon', 'cute', 'therealaandt', '', 'just', 'chill', 'ughhhhh', '#attractive', '#whyamisingle', '#houston']	2
+2018-en-joy-dev-147	['jdmhatchg', 'a34bart', 'iointeractive', 'ravenclaww04', 'hitman', 'attitude', 'makes', 'beam', 'delight', 'every', 'time', 'encounter']	2
+2018-en-joy-dev-148	['person', 'excited', 'go', 'yeah', 'excited', 'afraidadapting', 'studying', 'want']	0
+2018-en-joy-dev-149	['wonderful', 'thing', 'able', 'start', 'day', 'laughter']	3
+2018-en-joy-dev-150	['today', 'first', 'time', 'playing', 'ffxii', 'happy', '#zodiacage']	3
+2018-en-joy-dev-151	['talking', 'catfish', 'tinder', '', 'glad', 'use', 'seriously', '']	2
+2018-en-joy-dev-152	['must', 'take', '#excitement', '#solareclipse', '#inspire', '#children', '#love', '#science']	2
+2018-en-joy-dev-153	['sometimes', 'smile', 'pretend', 'everything', 'okay', 'just', 'walk', 'away']	0
+2018-en-joy-dev-154	['kermodemovie', 'shall', 'mooning', 'cheerfully', 'arrives', 'although', 'probably', 'president']	1
+2018-en-joy-dev-155	['time', 'bed', 'real', 'bed', 'four', 'nights', 'camping', '#bliss']	1
+2018-en-joy-dev-156	['happy', 'share', 'new', 'video', 'preview', 'local', 'favsn#compose', '#excitement', 'cbcmusic', 'musicyyc', '', 'cjsw', 'breakoutwest', 'hificlub']	3
+2018-en-joy-dev-157	['hi', 'evmarketus', 'thanku', '#follow', 'nus', '#hairdressers', 'love', 'sharing', '#smiles', 'nits', 'universal', 'languagenhave', 'fab', 'day', '']	2
+2018-en-joy-dev-158	['amber02150', 'good', 'morning', 'happy', 'winter', 'day', '']	2
+2018-en-joy-dev-159	['idk', 'help', 'someone', '', 'smile', 'comes', 'lipsnn#thatisall', '#ieverwant', '#noneeds', '#justyou', '#love', '#peace', '#smiling', '#faces', '#kindness']	3
+2018-en-joy-dev-160	['dying', 'hair', 'extreme', 'color', 'first', 'time', '#excited', '#nervous', '#change', '#notfastenough']	2
+2018-en-joy-dev-161	['soon', 'trailer', 'will', 'likes', 'views', '']	1
+2018-en-joy-dev-162	['roryplays', '', 'busy', 'yesterday', 'forgot', 'wish', 'u', 'happy', 'birthday', 'got', 'happy', 'belated', 'birthday', 'hope', 'u', 'wonderful', 'day']	2
+2018-en-joy-dev-163	['much', 'see', 'world', 'full', 'glee']	2
+2018-en-joy-dev-164	['best', 'girlfriend', 'world', '', '#blessed']	3
+2018-en-joy-dev-165	['don’t', 'let', 'fear', 'losing', 'greater', 'excitement', 'winning', 'robert', 'kiyosakinnalloutdenimfor', 'kissmarc']	1
+2018-en-joy-dev-166	['gracious', 'o', 'godfor', 'soul', 'takes', '#refuge', 'shadow', 'wings', 'will', 'take', '#refuge', 'psalm', '571', '#hope', '#jesus', '#joy']	1
+2018-en-joy-dev-167	['dropped', 'birth', 'control', 'floor', 'find', 'cause', 'blends', 'carpet', '', '#joy']	1
+2018-en-joy-dev-168	['#contentwiththelordsportioneven', 'times', 'scarcity”yet', 'will', '#rejoice', '#lord', 'will', '#joy', 'god', '#salvation”', '#hab', '318']	1
+2018-en-joy-dev-169	['three', 'retweets', 'dumb', 'fox', 'shit', 'one', 'original', 'tweet', 'blatant', 'lie', 'scrotus', 'morningnada', 'wretched', 'offspring', '']	0
+2018-en-joy-dev-170	['suddenly', 'dreams', 'mine', 'coming', 'true', '#happy']	3
+2018-en-joy-dev-171	['bedtime', 'full', 'listen', 'lou', 'reeds', 'album', 'transformer', 'full', 'albums', 'underrated', 'days', '#back2back', '#enjoyment', '', '', 'x']	2
+2018-en-joy-dev-172	['day', 'started', 'great', '', 'mocha', 'machine', 'working', '', 'mcdonalds']	0
+2018-en-joy-dev-173	['joysparklebs', 'able', 'sit', 'much', 'solid', 'info', 'others', 'came', 'ready', 'kill', 'true', 'sign', 'strength', '#inspiring']	1
+2018-en-joy-dev-174	['fierzaarbx', 'hi', 'fierzaa', 'hope', 'friend', 'roblox', 'btw', 'love', 'kat', 'usernameusatylerx', '']	2
+2018-en-joy-dev-175	['jjph', 'admin', 'search', 'will', 'start', 'friday', 'excited']	2
+2018-en-joy-dev-176	['just', 'finished', '#thekeeperoflostthings', '', 'incredible', '#charming', '#book', '', 'loved', 'ruthmariehogan', '', 'weave', 'story', 'telling', 'magic', '', 'love']	3
+2018-en-joy-dev-177	['h0lliejburrows', 'congrats', 'beautiful', '']	2
+2018-en-joy-dev-178	['moon', 'tonight', '', '#beautiful']	2
+2018-en-joy-dev-179	['michealarroyo2', 'nope', 'thanks', 'though', 'took', 'yrs', 'find', 'hubby', 'great', '', 'makes', 'life', 'great', '#', 'really', '#awesomeness']	3
+2018-en-joy-dev-180	['pepesgrandma', 'freebeacon', 'thanks', 'early', 'morning', 'laughter', '']	3
+2018-en-joy-dev-181	['yesterday', 'gone', 'old', 'song', 'new', 'song', 'live', '4', 'today', 'get', '#pizza', '#live', '#love', '#laugh', '#wednesdaywisdom', '#follow', 'thelyricalb', '']	1
+2018-en-joy-dev-182	['vesciodiana', 'forgot', '#laughter', '️️️']	1
+2018-en-joy-dev-183	['aksongstress', 'one', 'gh', 'finest', 'energetic', '#dancehall', 'act', '#blessing', 'disguise', '', 'prolific', '']	2
+2018-en-joy-dev-184	['thanks', 'recent', 'follow', 'discoverdelicio', 'johnmilley58', 'orbeaucustomer', 'happy', 'connect', '', 'great', 'tuesday']	2
+2018-en-joy-dev-185	['pale', 'longer', 'wanna', 'laugh', 'smile', 'wanna', 'just', 'fucking', 'cry']	0
+2018-en-joy-dev-186	['different', 'approach', 'today', 'london', 'town', 'amp', 'sharonsatkinson', 'chatted', 'good', 'ol', 'fashioned', 'natter', '#cannotbeatachat', '#talking', '#laughing']	1
+2018-en-joy-dev-187	['never', 'excited', 'start', 'semester']	3
+2018-en-joy-dev-188	['today', '71117', '']	1
+2018-en-joy-dev-189	['#wtf', '#wonderful', 'idea', 'nyouve', 'bought', 'tweets', 'likes', 'pretty', 'pointless', '#bye', '#bye', '#twat']	0
+2018-en-joy-dev-190	['friends', 'sad', 'basically', 'becomes', 'psychiatristnmy', 'friends', 'sad', 'ok', '#funny', '#lol']	0
+2018-en-joy-dev-191	['chasejarvis', 'honestly', 'hearing', 'againits', 'kinda', 'imprinted', 'mind', 'now', 'thanks', '️️', '', '#strategy']	3
+2018-en-joy-dev-192	['uncommon', '#people', 'spend', 'whole', 'life', 'waiting', 'start', 'living', '', 'eckhart', 'tolle', '#happiness', '#live']	1
+2018-en-joy-dev-193	['grinbins', 'force', 'give', 'money', '']	0
+2018-en-joy-dev-194	['olark', 'mashable', 'thanks', 'olark', '#awesome', 'someone', 'suffers', '#anxiety', 'migraines', 'always', 'fear', 'stigma', 'give', 'hope']	1
+2018-en-joy-dev-195	['deeply', 'loved', 'someone', 'gives', 'strength', 'loving', 'someone', 'deeply', 'gives', 'courage', 'lao', 'tzu', '#wedding', '#happy', '#love']	3
+2018-en-joy-dev-196	['popstufs3', 'coffee', 'good', 'view', 'even', 'better', '']	3
+2018-en-joy-dev-197	['really', 'afraid', 'find', 'rather', '#annoying', 'amp', '#amusing', '']	0
+2018-en-joy-dev-198	['seriouslooking', 'folks', 'suffer', 'unused', 'smile', 'muscles', 'nn', '#behappy', '', '#hatersgonnahate']	0
+2018-en-joy-dev-199	['delete', 'facebook', 'much', '']	0
+2018-en-joy-dev-200	['devbostick', 'danielhenshall', 'o', 'beautiful']	2

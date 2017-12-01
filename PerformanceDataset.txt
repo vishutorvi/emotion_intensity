@@ -1,0 +1,419 @@
+Performance Data
+
+Using Ngrams and Count Vectorize Concept using (1,2)
+
+1) SVM on Fear Dataset
+Performing grid search...
+pipeline: ['vect', 'tfidf', 'clf']
+parameters:
+{'clf__alpha': (1e-05, 1e-06),
+ 'clf__n_iter': (10, 50, 80),
+ 'clf__penalty': ('l2', 'elasticnet'),
+ 'tfidf__norm': ('l1', 'l2'),
+ 'tfidf__use_idf': (True, False),
+ 'vect__max_df': (0.5, 0.75, 1.0),
+ 'vect__max_features': (None, 5000, 10000, 50000),
+ 'vect__ngram_range': ((1, 1), (1, 2))}
+Fitting 3 folds for each of 1152 candidates, totalling 3456 fits
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:    5.6s
+[Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:   10.7s
+[Parallel(n_jobs=-1)]: Done 434 tasks      | elapsed:   19.1s
+[Parallel(n_jobs=-1)]: Done 784 tasks      | elapsed:   31.9s
+[Parallel(n_jobs=-1)]: Done 1234 tasks      | elapsed:   52.7s
+[Parallel(n_jobs=-1)]: Done 1784 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=-1)]: Done 2434 tasks      | elapsed:  1.7min
+[Parallel(n_jobs=-1)]: Done 3184 tasks      | elapsed:  2.3min
+[Parallel(n_jobs=-1)]: Done 3456 out of 3456 | elapsed:  2.5min finished
+done in 151.182s
+
+Best score: 0.634
+Best parameters set:
+        clf__alpha: 1e-05
+        clf__n_iter: 10
+        clf__penalty: 'elasticnet'
+        tfidf__norm: 'l2'
+        tfidf__use_idf: True
+        vect__max_df: 0.5
+        vect__max_features: None
+        vect__ngram_range: (1, 2)
+predictions =  42.0
+
+2) SVM on Joy Dataset
+Performing grid search...
+pipeline: ['vect', 'tfidf', 'clf']
+parameters:
+{'clf__alpha': (1e-05, 1e-06),
+ 'clf__n_iter': (10, 50, 80),
+ 'clf__penalty': ('l2', 'elasticnet'),
+ 'tfidf__norm': ('l1', 'l2'),
+ 'tfidf__use_idf': (True, False),
+ 'vect__max_df': (0.5, 0.75, 1.0),
+ 'vect__max_features': (None, 5000, 10000, 50000),
+ 'vect__ngram_range': ((1, 1), (1, 2))}
+Fitting 3 folds for each of 1152 candidates, totalling 3456 fits
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:    4.8s
+[Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:    8.5s
+[Parallel(n_jobs=-1)]: Done 434 tasks      | elapsed:   14.8s
+[Parallel(n_jobs=-1)]: Done 784 tasks      | elapsed:   23.4s
+[Parallel(n_jobs=-1)]: Done 1234 tasks      | elapsed:   37.9s
+[Parallel(n_jobs=-1)]: Done 1784 tasks      | elapsed:   57.7s
+[Parallel(n_jobs=-1)]: Done 2434 tasks      | elapsed:  1.2min
+[Parallel(n_jobs=-1)]: Done 3184 tasks      | elapsed:  1.6min
+[Parallel(n_jobs=-1)]: Done 3456 out of 3456 | elapsed:  1.8min finished
+D:\Anaconda\envs\tensorflow\lib\site-packages\sklearn\linear_model\stochastic_gradient.py:117: DeprecationWarning: n_iter parameter is deprecated in 0.19 and will be removed in 0.21. Use max_iter and tol instead.
+  DeprecationWarning)
+done in 106.704s
+
+Best score: 0.443
+Best parameters set:
+        clf__alpha: 1e-06
+        clf__n_iter: 50
+        clf__penalty: 'elasticnet'
+        tfidf__norm: 'l2'
+        tfidf__use_idf: True
+        vect__max_df: 1.0
+        vect__max_features: 50000
+        vect__ngram_range: (1, 2)
+predictions =  34.0
+
+3) SVM on Anger Dataset
+
+Performing grid search...
+pipeline: ['vect', 'tfidf', 'clf']
+parameters:
+{'clf__alpha': (1e-05, 1e-06),
+ 'clf__max_iter': (10, 50, 80),
+ 'clf__penalty': ('l2', 'elasticnet'),
+ 'tfidf__norm': ('l1', 'l2'),
+ 'tfidf__use_idf': (True, False),
+ 'vect__max_df': (0.5, 0.75, 1.0),
+ 'vect__max_features': (None, 5000, 10000, 50000),
+ 'vect__ngram_range': ((1, 2), (1, 3))}
+Fitting 3 folds for each of 1152 candidates, totalling 3456 fits
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:   12.9s
+[Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:   18.6s
+[Parallel(n_jobs=-1)]: Done 434 tasks      | elapsed:   27.8s
+[Parallel(n_jobs=-1)]: Done 784 tasks      | elapsed:   42.4s
+[Parallel(n_jobs=-1)]: Done 1234 tasks      | elapsed:  1.1min
+[Parallel(n_jobs=-1)]: Done 1784 tasks      | elapsed:  1.6min
+[Parallel(n_jobs=-1)]: Done 2434 tasks      | elapsed:  2.1min
+[Parallel(n_jobs=-1)]: Done 3184 tasks      | elapsed:  2.7min
+[Parallel(n_jobs=-1)]: Done 3456 out of 3456 | elapsed:  3.0min finished
+done in 182.963s
+
+Best score: 0.453
+Best parameters set:
+        clf__alpha: 1e-05
+        clf__max_iter: 10
+        clf__penalty: 'elasticnet'
+        tfidf__norm: 'l1'
+        tfidf__use_idf: True
+        vect__max_df: 1.0
+        vect__max_features: 10000
+        vect__ngram_range: (1, 2)
+predictions =  31.5
+
+
+4) SVM on Sadness Dataset
+	Performing grid search...
+pipeline: ['vect', 'tfidf', 'clf']
+parameters:
+{'clf__alpha': (1e-05, 1e-06),
+ 'clf__n_iter': (10, 50, 80),
+ 'clf__penalty': ('l2', 'elasticnet'),
+ 'tfidf__norm': ('l1', 'l2'),
+ 'tfidf__use_idf': (True, False),
+ 'vect__max_df': (0.5, 0.75, 1.0),
+ 'vect__max_features': (None, 5000, 10000, 50000),
+ 'vect__ngram_range': ((1, 1), (1, 2))}
+Fitting 3 folds for each of 1152 candidates, totalling 3456 fits
+[Parallel(n_jobs=-1)]: Done  34 tasks      | elapsed:    5.3s
+[Parallel(n_jobs=-1)]: Done 184 tasks      | elapsed:    9.1s
+[Parallel(n_jobs=-1)]: Done 434 tasks      | elapsed:   15.8s
+[Parallel(n_jobs=-1)]: Done 784 tasks      | elapsed:   25.6s
+[Parallel(n_jobs=-1)]: Done 1234 tasks      | elapsed:   41.0s
+[Parallel(n_jobs=-1)]: Done 1784 tasks      | elapsed:  1.0min
+[Parallel(n_jobs=-1)]: Done 2434 tasks      | elapsed:  1.3min
+[Parallel(n_jobs=-1)]: Done 3184 tasks      | elapsed:  1.8min
+[Parallel(n_jobs=-1)]: Done 3456 out of 3456 | elapsed:  2.0min finished
+done in 119.063s
+
+Best score: 0.509
+Best parameters set:
+        clf__alpha: 1e-05
+        clf__n_iter: 10
+        clf__penalty: 'elasticnet'
+        tfidf__norm: 'l2'
+        tfidf__use_idf: True
+        vect__max_df: 0.75
+        vect__max_features: None
+        vect__ngram_range: (1, 2)
+predictions =  37.0
+
+
+Performance of SVM using Lexicon Based Approach
+
+1) SVM on Anger Dataset
+
+Using only score feature with values >=0.5
+Actual Accuracy= 0.455
+Accuracy Using mean intensities= 0.415
+
+Using score >= 0.5 and importantwordcount feature 
+Actual Accuracy= 0.445
+Accuracy Using mean intensities= 0.435
+
+2) SVM on Fear Dataset
+
+Using only score feature with values >=0.5
+Actual Accuracy= 0.62
+Accuracy Using mean intensities= 0.575
+
+Using score >= 0.5 and importantwordcount feature 
+Actual Accuracy= 0.605
+Accuracy Using mean intensities= 0.57
+
+3) SVM on Joy Dataset
+
+Using only score feature with values >=0.5
+Actual Accuracy= 0.255
+Accuracy Using mean intensities= 0.285
+
+Using score >= 0.5 and importantwordcount feature 
+Actual Accuracy= 0.28
+Accuracy Using mean intensities= 0.305
+
+4) SVM on Sadness Dataset
+
+Using only score feature with values >=0.5
+Actual Accuracy= 0.445
+Accuracy Using mean intensities= 0.425
+
+Using score >= 0.5 and importantwordcount feature 
+Actual Accuracy= 0.43
+Accuracy Using mean intensities= 0.4
+
+
+RNN Using Word2Vec Pretrained Tweets embedding 
+
+1) For Fear Dataset
+Epoch 1/15
+2000/2000 [==============================] - 59s - loss: 3.5590 - acc: 0.7551        
+Epoch 2/15
+2000/2000 [==============================] - 30s - loss: 1.0194 - acc: 0.8555     
+Epoch 3/15
+2000/2000 [==============================] - 31s - loss: 0.7995 - acc: 0.8764     
+Epoch 4/15
+2000/2000 [==============================] - 30s - loss: 0.8193 - acc: 0.8667     
+Epoch 5/15
+2000/2000 [==============================] - 30s - loss: 0.7393 - acc: 0.8809     
+Epoch 6/15
+2000/2000 [==============================] - 30s - loss: 0.7431 - acc: 0.8377     
+Epoch 7/15
+2000/2000 [==============================] - 30s - loss: 0.7188 - acc: 0.8460     
+Epoch 8/15
+2000/2000 [==============================] - 30s - loss: 0.7276 - acc: 0.8448     
+Epoch 9/15
+2000/2000 [==============================] - 30s - loss: 0.6962 - acc: 0.8736     
+Epoch 10/15
+2000/2000 [==============================] - 30s - loss: 0.6998 - acc: 0.8670     
+Epoch 11/15
+2000/2000 [==============================] - 30s - loss: 0.6938 - acc: 0.8767     
+Test score: 1.07143910825
+Test accuracy: 0.826250010729
+
+2) For Anger Dataset
+Epoch 1/15
+1701/1701 [==============================] - 34s - loss: 2.6459 - acc: 0.7524        
+Epoch 2/15
+1701/1701 [==============================] - 27s - loss: 2.1254 - acc: 0.7712     
+Epoch 3/15
+1701/1701 [==============================] - 26s - loss: 2.1098 - acc: 0.7776     
+Epoch 4/15
+1701/1701 [==============================] - 27s - loss: 2.1332 - acc: 0.7820     
+Epoch 5/15
+1701/1701 [==============================] - 25s - loss: 2.0992 - acc: 0.7935     
+Epoch 6/15
+1701/1701 [==============================] - 25s - loss: 2.0846 - acc: 0.7840     
+Epoch 7/15
+1701/1701 [==============================] - 25s - loss: 1.5781 - acc: 0.7900     
+Epoch 8/15
+1701/1701 [==============================] - 25s - loss: 1.0913 - acc: 0.8203     
+Epoch 9/15
+1701/1701 [==============================] - 25s - loss: 1.1230 - acc: 0.7978     
+Epoch 10/15
+1701/1701 [==============================] - 25s - loss: 1.1405 - acc: 0.7870     
+Epoch 11/15
+1701/1701 [==============================] - 26s - loss: 1.1326 - acc: 0.7938     
+Epoch 12/15
+1701/1701 [==============================] - 28s - loss: 1.1030 - acc: 0.8097     
+Epoch 13/15
+1701/1701 [==============================] - 28s - loss: 1.0891 - acc: 0.8169     
+Epoch 14/15
+1701/1701 [==============================] - 28s - loss: 1.0951 - acc: 0.8048     
+Test score: 1.03325225264
+Test accuracy: 0.768750041723
+
+3) For Joy Dataset
+
+Epoch 1/15
+1616/1616 [==============================] - 32s - loss: 3.3507 - acc: 0.7468        
+Epoch 2/15
+1616/1616 [==============================] - 24s - loss: 2.8914 - acc: 0.7638     
+Epoch 3/15
+1616/1616 [==============================] - 24s - loss: 2.6014 - acc: 0.7693     
+Epoch 4/15
+1616/1616 [==============================] - 24s - loss: 1.7546 - acc: 0.7718     
+Epoch 5/15
+1616/1616 [==============================] - 24s - loss: 1.3017 - acc: 0.7986     
+Epoch 6/15
+1616/1616 [==============================] - 28s - loss: 1.2580 - acc: 0.8055     
+Epoch 7/15
+1616/1616 [==============================] - 28s - loss: 1.2594 - acc: 0.8161     
+Epoch 8/15
+1616/1616 [==============================] - 28s - loss: 1.2238 - acc: 0.8080     
+Epoch 9/15
+1616/1616 [==============================] - 28s - loss: 1.1958 - acc: 0.8212     
+Epoch 10/15
+1616/1616 [==============================] - 28s - loss: 1.2188 - acc: 0.8026     
+Epoch 11/15
+1616/1616 [==============================] - 28s - loss: 1.2190 - acc: 0.8023     
+Epoch 12/15
+1616/1616 [==============================] - 28s - loss: 1.1925 - acc: 0.8103     
+Epoch 13/15
+1616/1616 [==============================] - 27s - loss: 1.1760 - acc: 0.8049     
+Epoch 14/15
+1616/1616 [==============================] - 27s - loss: 1.2147 - acc: 0.8079     
+Epoch 15/15
+1616/1616 [==============================] - 28s - loss: 1.1969 - acc: 0.7888     
+Test score: 1.7554529354
+Test accuracy: 0.708750009537
+
+4) For Sadness Dataset
+
+Epoch 1/15
+1533/1533 [==============================] - 32s - loss: 3.4988 - acc: 0.7500        
+Epoch 2/15
+1533/1533 [==============================] - 24s - loss: 3.6895 - acc: 0.7337     
+Epoch 3/15
+1533/1533 [==============================] - 23s - loss: 3.3717 - acc: 0.7601     
+Epoch 4/15
+1533/1533 [==============================] - 23s - loss: 3.3196 - acc: 0.7652         
+Epoch 5/15
+1533/1533 [==============================] - 23s - loss: 3.3456 - acc: 0.7663         
+Epoch 6/15
+1533/1533 [==============================] - 23s - loss: 3.3667 - acc: 0.7617         
+Epoch 7/15
+1533/1533 [==============================] - 23s - loss: 3.3556 - acc: 0.7630         
+Epoch 8/15
+1533/1533 [==============================] - 24s - loss: 2.7177 - acc: 0.7529         
+Epoch 9/15
+1533/1533 [==============================] - 27s - loss: 2.0137 - acc: 0.7935         
+Epoch 10/15
+1533/1533 [==============================] - 27s - loss: 1.9745 - acc: 0.7903         
+Epoch 11/15
+1533/1533 [==============================] - 27s - loss: 2.0035 - acc: 0.7952         
+Epoch 12/15
+1533/1533 [==============================] - 27s - loss: 1.6294 - acc: 0.7852         
+Epoch 13/15
+1533/1533 [==============================] - 27s - loss: 1.3425 - acc: 0.8174         
+Epoch 14/15
+1533/1533 [==============================] - 27s - loss: 1.2929 - acc: 0.8172         
+Epoch 15/15
+1533/1533 [==============================] - 27s - loss: 1.3338 - acc: 0.8037         
+Test score: 1.22996662557
+Test accuracy: 0.761250022054
+
+
+RNN On Score Lexicon Based Approach
+
+1) Anger Dataset
+Test Accuracy 44.5
+
+2) Fear Dataset
+Test Accuracy 59.5
+
+3) Joy Dataset
+Test Accuracy 38.7
+
+4) Sadness Dataset
+Test Accuracy 41.5
+
+SVM using Word2Vec Pretrained Tweets embedding 
+
+1) Anger Dataset
+Actual Accuracy= 0.46
+
+2) Fear Dataset
+Test Accuracy 59.5
+
+3) Joy Dataset
+Actual Accuracy= 0.33
+
+4) Sadness Dataset
+Actual Accuracy = 0.37
+
+RNN using Score and Important word count features
+
+1) Anger Dataset
+Test accuracy: 0.25
+
+2) Fear Dataset
+Test Accuracy .515
+
+3) Joy Dataset
+Actual Accuracy= 0.33
+
+4) Sadness Dataset
+Actual Accuracy = 0.21
+
+RNN Using Words of N grams
+
+1) Anger Dataset
+Actual Accuracy= 0.46
+
+2) Fear Dataset
+Test Accuracy 59.5
+
+3) Joy Dataset
+Actual Accuracy= 0.33
+
+4) Sadness Dataset
+Actual Accuracy = 0.37
+
+
+
+
+Valence Dataset
+LSTM using Word2Vec
+
+Test accuracy: 0.65
+
+LSTM with single score feature
+
+Test accuracy: 0.22
+
+LSTM with score and importantwordcount features
+
+Test accuracy: 0.275
+
+SVM with single score feature
+Actual Accuracy= 0.215
+
+SVM with score, importantwordcount
+Actual Accuracy = 0.21
+
+SVM with Bag of words
+Best score: 0.302
+Best parameters set:
+        clf__alpha: 1e-05
+        clf__max_iter: 100
+        clf__penalty: 'elasticnet'
+        tfidf__norm: 'l2'
+        tfidf__use_idf: True
+        vect__max_df: 0.75
+        vect__max_features: 5000
+        vect__ngram_range: (1, 2)
+predictions =  27.0
+
+SVM with Word2Vec
