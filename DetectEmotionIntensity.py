@@ -29,14 +29,11 @@ def main():
     argument = argument.replace("'",'')
     argument = argument.replace(' ','')
     arguments = argument.split(',')
-    print(arguments)
     if len(arguments)<4:
         raise ValueError('Minimum number of arguments is:',3)
-        
 
     #First Argument is Emotion    
     emotionText = arguments[1]#0=anger, 1=fear, 2=joy, 3=sadness
-    print(emotionText)
     if emotionText == 'anger':
         emotion = 0
     elif emotionText == 'fear':
@@ -48,7 +45,8 @@ def main():
     else:
         emotion = 4
     
-    print(emotion)
+    print('---------------------------------------------------------------------------')
+    print('---------------------------------------------------------------------------')
     #Step 1: Datapreprocessing
     print('Data Preprocessing Phase')
     print('Starting........')
@@ -57,8 +55,11 @@ def main():
     #testing data
     testpreprocessing(emotion)
     
+    print('---------------------------------------------------------------------------')
+    print('---------------------------------------------------------------------------')
     #Step 2: FeatureExtraction
     #Second Argument Type of Feature Extraction
+    print('\n')
     print('Feature Extraction Process')
     print('Starting.....')
     typeOfFeatureExtraction = arguments[2]
@@ -70,6 +71,9 @@ def main():
         extractingtrain(emotion, 2)
         extractingtest(emotion, 2)
     
+    print('---------------------------------------------------------------------------')
+    print('---------------------------------------------------------------------------')
+    print('\n')
     #Step 3: Classification
     #Type of Classifier to call
     print('Process of classifying')
@@ -95,6 +99,10 @@ def main():
             RNNClassify(emotion, 2)
         else:
             RNNWord2VecClassify(emotion)
+            
+    print('Sentiment Analysis Done!!')
+    print('---------------------------------------------------------------------------')
+    print('---------------------------------------------------------------------------')
 
 if __name__ == "__main__":
     main()

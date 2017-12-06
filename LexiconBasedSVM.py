@@ -8,8 +8,8 @@ import numpy as np
 import pandas as pd
 from sklearn import svm
 
-def classify(emotion,features):
-    if features == 3:
+def classify(emotion,featureCount):
+    if featureCount == 3:
         features = ['id','sentence','intensity']
         if emotion > 3:
             processeddataset = pd.read_csv('./processeddata/valencetrainset.txt',names = features, sep='\t')
@@ -43,8 +43,11 @@ def classify(emotion,features):
         
         angerframetest1 = np.array(angerframetest2)
         angerframe1 = np.array(angerframe2)
-        labeltrain = np.array([processeddataset['intensity']])
-        labeltest = np.array([processedtestset['intensity']])
+        labeltrain = np.array(processeddataset['intensity'])
+        labeltrain = np.array([labeltrain[:len(labeltrain)-200]])#np.array([list(processeddataset['intensity'])])
+        labeltest = np.array([list(processedtestset['intensity'])])
+        #print(len(labeltrain.T))
+        #print(len(angerframe1))
         angerframe1 = np.append(labeltrain.T, angerframe1, axis = 1)
         angerframetest1 = np.append(labeltest.T, angerframetest1, axis = 1)
     else:    
@@ -71,17 +74,17 @@ def classify(emotion,features):
     angerframe1 = np.array(angerframe1[:,1:],dtype='float64')    
     
     clf = svm.SVC()
-    if features == 1:
+    if featureCount == 1:
         X_train = np.array(angerframe1[:,0:1])
         X_test = np.array(angerframetest1[:,0:1])
-    elif features == 2:
+    elif featureCount == 2:
         X_train = np.array(angerframe1[:,0:2])
         X_test = np.array(angerframetest1[:,0:2])
     else:
         X_train = angerframe1
         X_test = angerframetest1
     
-    if features == 1 or features == 2:    
+    if featureCount == 1 or featureCount == 2:    
         Y_train = angerframe1[:,-1]
         Y_test = angerframetest1[:,-1]
     else:

@@ -1,201 +1,201 @@
-id	score	intensity
-2018-en-valence-dev-1	5.0	-2
-2018-en-valence-dev-2	1.452	0
-2018-en-valence-dev-3	0.0	0
-2018-en-valence-dev-4	0.0	0
-2018-en-valence-dev-5	0.0	-3
-2018-en-valence-dev-6	1.2409999999999999	-2
-2018-en-valence-dev-7	0.0	-1
-2018-en-valence-dev-8	0.0	-3
-2018-en-valence-dev-9	0.0	0
-2018-en-valence-dev-10	1.746	0
-2018-en-valence-dev-11	1.495	0
-2018-en-valence-dev-12	2.45	1
-2018-en-valence-dev-13	6.694000000000001	2
-2018-en-valence-dev-14	2.036	0
-2018-en-valence-dev-15	9.302	0
-2018-en-valence-dev-16	2.737	-3
-2018-en-valence-dev-17	4.227	0
-2018-en-valence-dev-18	0.0	-2
-2018-en-valence-dev-19	0.0	-1
-2018-en-valence-dev-20	1.7309999999999999	-3
-2018-en-valence-dev-21	9.068999999999999	1
-2018-en-valence-dev-22	0.0	2
-2018-en-valence-dev-23	0.0	1
-2018-en-valence-dev-24	2.02	-1
-2018-en-valence-dev-25	0.0	0
-2018-en-valence-dev-26	0.0	1
-2018-en-valence-dev-27	5.0	3
-2018-en-valence-dev-28	2.363	2
-2018-en-valence-dev-29	0.0	3
-2018-en-valence-dev-30	0.0	-3
-2018-en-valence-dev-31	0.0	-2
-2018-en-valence-dev-32	2.951	1
-2018-en-valence-dev-33	7.401000000000001	3
-2018-en-valence-dev-34	0.0	-2
-2018-en-valence-dev-35	0.0	0
-2018-en-valence-dev-36	1.0659999999999998	0
-2018-en-valence-dev-37	1.171	0
-2018-en-valence-dev-38	0.0	-1
-2018-en-valence-dev-39	7.27	0
-2018-en-valence-dev-40	1.614	3
-2018-en-valence-dev-41	7.018000000000001	0
-2018-en-valence-dev-42	1.171	1
-2018-en-valence-dev-43	3.4770000000000003	1
-2018-en-valence-dev-44	8.067	2
-2018-en-valence-dev-45	0.0	-1
-2018-en-valence-dev-46	2.237	3
-2018-en-valence-dev-47	1.743	0
-2018-en-valence-dev-48	3.3680000000000003	1
-2018-en-valence-dev-49	0.0	-3
-2018-en-valence-dev-50	0.0	1
-2018-en-valence-dev-51	2.9939999999999998	1
-2018-en-valence-dev-52	0.0	-3
-2018-en-valence-dev-53	3.783	3
-2018-en-valence-dev-54	0.0	-2
-2018-en-valence-dev-55	0.0	2
-2018-en-valence-dev-56	0.0	1
-2018-en-valence-dev-57	1.225	-3
-2018-en-valence-dev-58	0.0	-2
-2018-en-valence-dev-59	0.0	1
-2018-en-valence-dev-60	2.395	-1
-2018-en-valence-dev-61	6.171	3
-2018-en-valence-dev-62	1.203	3
-2018-en-valence-dev-63	5.727	1
-2018-en-valence-dev-64	8.028	3
-2018-en-valence-dev-65	0.0	-3
-2018-en-valence-dev-66	0.0	-2
-2018-en-valence-dev-67	0.0	0
-2018-en-valence-dev-68	0.0	-2
-2018-en-valence-dev-69	0.0	0
-2018-en-valence-dev-70	10.305	-2
-2018-en-valence-dev-71	0.0	3
-2018-en-valence-dev-72	5.727	0
-2018-en-valence-dev-73	1.5	1
-2018-en-valence-dev-74	1.071	-2
-2018-en-valence-dev-75	0.0	-1
-2018-en-valence-dev-76	0.0	-2
-2018-en-valence-dev-77	1.004	1
-2018-en-valence-dev-78	2.12	2
-2018-en-valence-dev-79	3.0639999999999996	-3
-2018-en-valence-dev-80	1.153	-2
-2018-en-valence-dev-81	0.0	-3
-2018-en-valence-dev-82	5.811	3
-2018-en-valence-dev-83	2.342	0
-2018-en-valence-dev-84	2.7729999999999997	-2
-2018-en-valence-dev-85	0.0	0
-2018-en-valence-dev-86	0.0	1
-2018-en-valence-dev-87	8.386000000000001	3
-2018-en-valence-dev-88	0.0	-1
-2018-en-valence-dev-89	0.0	1
-2018-en-valence-dev-90	1.171	1
-2018-en-valence-dev-91	1.126	0
-2018-en-valence-dev-92	0.0	-2
-2018-en-valence-dev-93	12.83	0
-2018-en-valence-dev-94	4.688000000000001	0
-2018-en-valence-dev-95	0.0	0
-2018-en-valence-dev-96	4.506	-2
-2018-en-valence-dev-97	0.0	0
-2018-en-valence-dev-98	1.335	-3
-2018-en-valence-dev-99	3.9690000000000003	3
-2018-en-valence-dev-100	3.161	0
-2018-en-valence-dev-101	3.502	0
-2018-en-valence-dev-102	1.171	-2
-2018-en-valence-dev-103	0.0	3
-2018-en-valence-dev-104	0.0	1
-2018-en-valence-dev-105	2.263	3
-2018-en-valence-dev-106	4.537	0
-2018-en-valence-dev-107	0.0	3
-2018-en-valence-dev-108	0.0	-3
-2018-en-valence-dev-109	0.0	1
-2018-en-valence-dev-110	0.0	2
-2018-en-valence-dev-111	0.0	-2
-2018-en-valence-dev-112	0.0	-3
-2018-en-valence-dev-113	0.0	-1
-2018-en-valence-dev-114	2.675	3
-2018-en-valence-dev-115	5.151	3
-2018-en-valence-dev-116	0.0	1
-2018-en-valence-dev-117	4.855	3
-2018-en-valence-dev-118	1.156	0
-2018-en-valence-dev-119	5.0	-3
-2018-en-valence-dev-120	0.0	0
-2018-en-valence-dev-121	0.0	1
-2018-en-valence-dev-122	0.0	0
-2018-en-valence-dev-123	0.0	0
-2018-en-valence-dev-124	0.0	-3
-2018-en-valence-dev-125	0.0	1
-2018-en-valence-dev-126	1.7309999999999999	-2
-2018-en-valence-dev-127	1.153	2
-2018-en-valence-dev-128	0.0	-1
-2018-en-valence-dev-129	0.0	-3
-2018-en-valence-dev-130	0.0	-2
-2018-en-valence-dev-131	1.411	-3
-2018-en-valence-dev-132	0.0	0
-2018-en-valence-dev-133	7.640000000000001	0
-2018-en-valence-dev-134	4.492	0
-2018-en-valence-dev-135	0.0	0
-2018-en-valence-dev-136	0.0	-3
-2018-en-valence-dev-137	1.443	1
-2018-en-valence-dev-138	5.0	-2
-2018-en-valence-dev-139	5.0	-3
-2018-en-valence-dev-140	2.084	3
-2018-en-valence-dev-141	1.443	1
-2018-en-valence-dev-142	0.0	-2
-2018-en-valence-dev-143	1.944	-1
-2018-en-valence-dev-144	0.0	-1
-2018-en-valence-dev-145	1.6440000000000001	3
-2018-en-valence-dev-146	0.0	-2
-2018-en-valence-dev-147	0.0	-2
-2018-en-valence-dev-148	2.575	-2
-2018-en-valence-dev-149	0.0	-2
-2018-en-valence-dev-150	0.0	-1
-2018-en-valence-dev-151	1.4569999999999999	0
-2018-en-valence-dev-152	2.202	2
-2018-en-valence-dev-153	5.387	3
-2018-en-valence-dev-154	0.0	1
-2018-en-valence-dev-155	4.207	2
-2018-en-valence-dev-156	2.575	2
-2018-en-valence-dev-157	4.066	1
-2018-en-valence-dev-158	1.3530000000000002	-3
-2018-en-valence-dev-159	0.0	-3
-2018-en-valence-dev-160	0.0	0
-2018-en-valence-dev-161	0.0	3
-2018-en-valence-dev-162	0.0	3
-2018-en-valence-dev-163	5.0	-2
-2018-en-valence-dev-164	1.212	1
-2018-en-valence-dev-165	6.955	1
-2018-en-valence-dev-166	1.517	2
-2018-en-valence-dev-167	0.0	-2
-2018-en-valence-dev-168	2.727	-3
-2018-en-valence-dev-169	0.0	0
-2018-en-valence-dev-170	0.0	-2
-2018-en-valence-dev-171	0.0	-3
-2018-en-valence-dev-172	0.0	-2
-2018-en-valence-dev-173	0.0	-2
-2018-en-valence-dev-174	0.0	-2
-2018-en-valence-dev-175	0.0	0
-2018-en-valence-dev-176	0.0	-3
-2018-en-valence-dev-177	0.0	-2
-2018-en-valence-dev-178	0.0	-3
-2018-en-valence-dev-179	0.0	0
-2018-en-valence-dev-180	4.161	3
-2018-en-valence-dev-181	0.0	-2
-2018-en-valence-dev-182	0.0	0
-2018-en-valence-dev-183	1.452	3
-2018-en-valence-dev-184	8.08	1
-2018-en-valence-dev-185	0.0	-3
-2018-en-valence-dev-186	0.0	-3
-2018-en-valence-dev-187	0.0	-3
-2018-en-valence-dev-188	2.7649999999999997	3
-2018-en-valence-dev-189	0.0	2
-2018-en-valence-dev-190	3.0940000000000003	1
-2018-en-valence-dev-191	0.0	-2
-2018-en-valence-dev-192	8.491	3
-2018-en-valence-dev-193	1.126	3
-2018-en-valence-dev-194	1.266	3
-2018-en-valence-dev-195	1.5	3
-2018-en-valence-dev-196	1.864	3
-2018-en-valence-dev-197	0.0	-2
-2018-en-valence-dev-198	1.034	0
-2018-en-valence-dev-199	1.171	2
-2018-en-valence-dev-200	1.107	2
+id	score	importantwordcount	intensity
+2018-en-valence-dev-1	-1.2179999999999995	1.0	-2
+2018-en-valence-dev-2	-1.0840000000000003	1.0	0
+2018-en-valence-dev-3	-4.895	0.0	0
+2018-en-valence-dev-4	-2.7219999999999995	0.0	0
+2018-en-valence-dev-5	-8.379999999999999	0.0	-3
+2018-en-valence-dev-6	0.8219999999999996	1.0	-2
+2018-en-valence-dev-7	-3.5020000000000002	0.0	-1
+2018-en-valence-dev-8	-3.5379999999999994	0.0	-3
+2018-en-valence-dev-9	-8.197000000000001	0.0	0
+2018-en-valence-dev-10	-1.398000000000001	1.0	0
+2018-en-valence-dev-11	0.2550000000000002	1.0	0
+2018-en-valence-dev-12	6.038	1.0	1
+2018-en-valence-dev-13	7.1080000000000005	3.0	2
+2018-en-valence-dev-14	-3.0359999999999996	1.0	0
+2018-en-valence-dev-15	7.675999999999999	4.0	0
+2018-en-valence-dev-16	1.712000000000001	2.0	-3
+2018-en-valence-dev-17	4.649	3.0	0
+2018-en-valence-dev-18	-2.4709999999999996	0.0	-2
+2018-en-valence-dev-19	0.15200000000000014	0.0	-1
+2018-en-valence-dev-20	-0.7870000000000004	1.0	-3
+2018-en-valence-dev-21	6.248000000000001	3.0	1
+2018-en-valence-dev-22	-0.155	0.0	2
+2018-en-valence-dev-23	-0.4690000000000001	0.0	1
+2018-en-valence-dev-24	-0.675	1.0	-1
+2018-en-valence-dev-25	-3.8149999999999995	0.0	0
+2018-en-valence-dev-26	-1.562	0.0	1
+2018-en-valence-dev-27	7.849	1.0	3
+2018-en-valence-dev-28	4.307	2.0	2
+2018-en-valence-dev-29	0.7280000000000002	0.0	3
+2018-en-valence-dev-30	-7.149000000000001	0.0	-3
+2018-en-valence-dev-31	-8.103	0.0	-2
+2018-en-valence-dev-32	2.402	1.0	1
+2018-en-valence-dev-33	4.483999999999999	4.0	3
+2018-en-valence-dev-34	-0.6950000000000002	0.0	-2
+2018-en-valence-dev-35	-3.8489999999999993	0.0	0
+2018-en-valence-dev-36	0.775	1.0	0
+2018-en-valence-dev-37	-0.8789999999999999	1.0	0
+2018-en-valence-dev-38	-8.607	0.0	-1
+2018-en-valence-dev-39	7.285	2.0	0
+2018-en-valence-dev-40	1.064	1.0	3
+2018-en-valence-dev-41	10.293000000000001	2.0	0
+2018-en-valence-dev-42	-4.310999999999999	1.0	1
+2018-en-valence-dev-43	4.934000000000001	2.0	1
+2018-en-valence-dev-44	6.457000000000002	2.0	2
+2018-en-valence-dev-45	-5.047000000000001	0.0	-1
+2018-en-valence-dev-46	2.095999999999999	2.0	3
+2018-en-valence-dev-47	0.772	1.0	0
+2018-en-valence-dev-48	4.313000000000001	1.0	1
+2018-en-valence-dev-49	-3.0620000000000003	0.0	-3
+2018-en-valence-dev-50	1.6560000000000001	0.0	1
+2018-en-valence-dev-51	3.244	2.0	1
+2018-en-valence-dev-52	-7.848000000000001	0.0	-3
+2018-en-valence-dev-53	3.527	2.0	3
+2018-en-valence-dev-54	-3.7099999999999995	0.0	-2
+2018-en-valence-dev-55	1.2680000000000002	0.0	2
+2018-en-valence-dev-56	-7.067	0.0	1
+2018-en-valence-dev-57	-2.163	1.0	-3
+2018-en-valence-dev-58	-6.272	0.0	-2
+2018-en-valence-dev-59	-0.10100000000000003	0.0	1
+2018-en-valence-dev-60	-4.04	1.0	-1
+2018-en-valence-dev-61	4.341	2.0	3
+2018-en-valence-dev-62	1.681	1.0	3
+2018-en-valence-dev-63	1.1540000000000004	1.0	1
+2018-en-valence-dev-64	7.056000000000001	3.0	3
+2018-en-valence-dev-65	-4.221	0.0	-3
+2018-en-valence-dev-66	-3.057	0.0	-2
+2018-en-valence-dev-67	1.1189999999999998	0.0	0
+2018-en-valence-dev-68	-2.76	0.0	-2
+2018-en-valence-dev-69	0.6179999999999999	0.0	0
+2018-en-valence-dev-70	10.383	4.0	-2
+2018-en-valence-dev-71	-0.567	0.0	3
+2018-en-valence-dev-72	-1.0980000000000012	1.0	0
+2018-en-valence-dev-73	-0.6030000000000002	1.0	1
+2018-en-valence-dev-74	0.47899999999999965	1.0	-2
+2018-en-valence-dev-75	-0.32800000000000007	0.0	-1
+2018-en-valence-dev-76	-1.6009999999999995	0.0	-2
+2018-en-valence-dev-77	3.7459999999999996	1.0	1
+2018-en-valence-dev-78	6.739	1.0	2
+2018-en-valence-dev-79	-1.5539999999999994	1.0	-3
+2018-en-valence-dev-80	-2.9000000000000004	1.0	-2
+2018-en-valence-dev-81	0.5249999999999996	0.0	-3
+2018-en-valence-dev-82	6.73	3.0	3
+2018-en-valence-dev-83	0.8630000000000002	2.0	0
+2018-en-valence-dev-84	-6.276000000000001	2.0	-2
+2018-en-valence-dev-85	-1.432	0.0	0
+2018-en-valence-dev-86	0.11999999999999994	0.0	1
+2018-en-valence-dev-87	9.865	3.0	3
+2018-en-valence-dev-88	-0.7710000000000001	0.0	-1
+2018-en-valence-dev-89	-2.3819999999999997	0.0	1
+2018-en-valence-dev-90	2.5810000000000004	1.0	1
+2018-en-valence-dev-91	-0.6490000000000011	1.0	0
+2018-en-valence-dev-92	-5.58	0.0	-2
+2018-en-valence-dev-93	12.673	4.0	0
+2018-en-valence-dev-94	2.7540000000000004	2.0	0
+2018-en-valence-dev-95	-1.256	0.0	0
+2018-en-valence-dev-96	2.7159999999999997	2.0	-2
+2018-en-valence-dev-97	-1.254	0.0	0
+2018-en-valence-dev-98	1.4510000000000005	1.0	-3
+2018-en-valence-dev-99	1.968	2.0	3
+2018-en-valence-dev-100	-0.271	2.0	0
+2018-en-valence-dev-101	-0.07400000000000023	2.0	0
+2018-en-valence-dev-102	0.5840000000000003	1.0	-2
+2018-en-valence-dev-103	1.5870000000000002	0.0	3
+2018-en-valence-dev-104	1.634	0.0	1
+2018-en-valence-dev-105	-1.301	2.0	3
+2018-en-valence-dev-106	2.847	2.0	0
+2018-en-valence-dev-107	1.531	0.0	3
+2018-en-valence-dev-108	-5.867999999999999	0.0	-3
+2018-en-valence-dev-109	1.692	0.0	1
+2018-en-valence-dev-110	0.8170000000000002	0.0	2
+2018-en-valence-dev-111	-1.45	0.0	-2
+2018-en-valence-dev-112	-1.104	0.0	-3
+2018-en-valence-dev-113	0.9959999999999999	0.0	-1
+2018-en-valence-dev-114	5.242	1.0	3
+2018-en-valence-dev-115	2.6819999999999995	2.0	3
+2018-en-valence-dev-116	0.05000000000000002	0.0	1
+2018-en-valence-dev-117	5.04	1.0	3
+2018-en-valence-dev-118	4.036	1.0	0
+2018-en-valence-dev-119	1.096000000000001	1.0	-3
+2018-en-valence-dev-120	1.565	0.0	0
+2018-en-valence-dev-121	0.08700000000000002	0.0	1
+2018-en-valence-dev-122	0.12699999999999978	0.0	0
+2018-en-valence-dev-123	-0.15300000000000014	0.0	0
+2018-en-valence-dev-124	-2.573	0.0	-3
+2018-en-valence-dev-125	-1.9880000000000004	0.0	1
+2018-en-valence-dev-126	-4.146999999999999	1.0	-2
+2018-en-valence-dev-127	-0.621	1.0	2
+2018-en-valence-dev-128	-2.604	0.0	-1
+2018-en-valence-dev-129	-0.7359999999999998	0.0	-3
+2018-en-valence-dev-130	0.6390000000000005	0.0	-2
+2018-en-valence-dev-131	-0.24800000000000022	1.0	-3
+2018-en-valence-dev-132	-1.446	0.0	0
+2018-en-valence-dev-133	1.935000000000001	3.0	0
+2018-en-valence-dev-134	5.184000000000001	2.0	0
+2018-en-valence-dev-135	-1.8290000000000002	0.0	0
+2018-en-valence-dev-136	2.5069999999999997	0.0	-3
+2018-en-valence-dev-137	0.8380000000000001	1.0	1
+2018-en-valence-dev-138	6.189	1.0	-2
+2018-en-valence-dev-139	-1.0359999999999996	1.0	-3
+2018-en-valence-dev-140	0.11600000000000027	2.0	3
+2018-en-valence-dev-141	1.528	1.0	1
+2018-en-valence-dev-142	-9.639000000000003	0.0	-2
+2018-en-valence-dev-143	-3.744	1.0	-1
+2018-en-valence-dev-144	-4.253	0.0	-1
+2018-en-valence-dev-145	2.388	1.0	3
+2018-en-valence-dev-146	1.519	0.0	-2
+2018-en-valence-dev-147	-1.175	0.0	-2
+2018-en-valence-dev-148	4.264	1.0	-2
+2018-en-valence-dev-149	-3.6890000000000005	0.0	-2
+2018-en-valence-dev-150	-1.5740000000000003	0.0	-1
+2018-en-valence-dev-151	-3.3380000000000005	1.0	0
+2018-en-valence-dev-152	0.9939999999999998	1.0	2
+2018-en-valence-dev-153	6.194	3.0	3
+2018-en-valence-dev-154	2.712999999999999	0.0	1
+2018-en-valence-dev-155	4.856999999999999	2.0	2
+2018-en-valence-dev-156	2.0279999999999996	1.0	2
+2018-en-valence-dev-157	0.71	2.0	1
+2018-en-valence-dev-158	-3.6599999999999997	1.0	-3
+2018-en-valence-dev-159	-2.235	0.0	-3
+2018-en-valence-dev-160	-2.1439999999999997	0.0	0
+2018-en-valence-dev-161	-0.554	0.0	3
+2018-en-valence-dev-162	1.101	0.0	3
+2018-en-valence-dev-163	-7.748	1.0	-2
+2018-en-valence-dev-164	0.1799999999999999	1.0	1
+2018-en-valence-dev-165	7.664000000000001	2.0	1
+2018-en-valence-dev-166	2.3	1.0	2
+2018-en-valence-dev-167	-8.583	0.0	-2
+2018-en-valence-dev-168	-0.13900000000000023	2.0	-3
+2018-en-valence-dev-169	-3.2670000000000012	0.0	0
+2018-en-valence-dev-170	-5.04	0.0	-2
+2018-en-valence-dev-171	-4.659	0.0	-3
+2018-en-valence-dev-172	-0.6210000000000001	0.0	-2
+2018-en-valence-dev-173	-6.3999999999999995	0.0	-2
+2018-en-valence-dev-174	0.04799999999999999	0.0	-2
+2018-en-valence-dev-175	-5.76	0.0	0
+2018-en-valence-dev-176	-3.1469999999999994	0.0	-3
+2018-en-valence-dev-177	-3.0929999999999986	0.0	-2
+2018-en-valence-dev-178	0.728	0.0	-3
+2018-en-valence-dev-179	-1.6230000000000002	0.0	0
+2018-en-valence-dev-180	3.6649999999999996	3.0	3
+2018-en-valence-dev-181	-1.2449999999999997	0.0	-2
+2018-en-valence-dev-182	-1.1959999999999997	0.0	0
+2018-en-valence-dev-183	2.326	1.0	3
+2018-en-valence-dev-184	6.291999999999999	5.0	1
+2018-en-valence-dev-185	-3.4490000000000007	0.0	-3
+2018-en-valence-dev-186	-1.606	0.0	-3
+2018-en-valence-dev-187	-1.6200000000000003	0.0	-3
+2018-en-valence-dev-188	2.804	2.0	3
+2018-en-valence-dev-189	0.030999999999999917	0.0	2
+2018-en-valence-dev-190	4.031	2.0	1
+2018-en-valence-dev-191	-3.417000000000001	0.0	-2
+2018-en-valence-dev-192	8.020999999999999	4.0	3
+2018-en-valence-dev-193	-0.53	1.0	3
+2018-en-valence-dev-194	1.912	1.0	3
+2018-en-valence-dev-195	2.3509999999999995	1.0	3
+2018-en-valence-dev-196	1.295	1.0	3
+2018-en-valence-dev-197	-4.864000000000001	0.0	-2
+2018-en-valence-dev-198	1.9330000000000003	1.0	0
+2018-en-valence-dev-199	0.3100000000000001	1.0	2
+2018-en-valence-dev-200	3.7359999999999998	1.0	2

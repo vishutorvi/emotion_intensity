@@ -33,7 +33,7 @@ def get_valence_score(sentimentwordtable,emotion,wordstring):
         return 0.0
 
 #Method to extract features for specific emotions
-def extracting(emotion,features):
+def extracting(emotion,featureCount):
     features = ['id','sentence','intensity']
     #NRC Hashtag Emotion Lexicons
     wordtable=pd.read_table('./NRC-Sentiment-Emotion-Lexicons/Lexicons/NRC-Hashtag-Emotion-Lexicon-v0.2/NRC-Hashtag-Emotion-Lexicon-v0.2.txt',header=None)
@@ -82,17 +82,18 @@ def extracting(emotion,features):
                 row = row.replace('\'','')
                 row = row.replace(' ','')
                 score = 0.0
-                hashtagfinalscore = 0
                 for t in row.split(','):
-                    hashtagscore = 0.0
                     text = t.replace(' ','')
                     if len(text) > 0:
                         wordscore = get_valence_score(sentimentwordtable, emotiontext, text)
                         if(wordscore >= 1):
                             importantwordcount += 1
                         score = score + wordscore
-        
-                h = pd.Series([str(processeddataset['id'][i]), score, str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
+                
+                if featureCount == 1:
+                    h = pd.Series([str(processeddataset['id'][i]),score,str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
+                if featureCount == 2:
+                    h = pd.Series([str(processeddataset['id'][i]), score, importantwordcount, str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
                 angerFeatureFrame = angerFeatureFrame.append(h,ignore_index = True)
                 i = i + 1
     
@@ -109,22 +110,16 @@ def extracting(emotion,features):
                 row = row.replace('\'','')
                 row = row.replace(' ','')
                 score = 0.0
-                hashtagfinalscore = 0
+                h = pd.Series()
                 for text in row.split(','):
                     totalWords += 1
-                    hashtagscore = 0.0
-                    if('#' in text):
-                        hashtagscore = get_score(wordtable, emotiontext, text)
-                        if hashtagscore>=0.5:
-                            hashtagfinalscore += hashtagscore
-                    else:
-                        wordscore = get_score(wordtable, emotiontext, text)
+                    wordscore = get_score(wordtable, emotiontext, text)
                     if(wordscore >= 0.5):
                         importantwordcount += 1
-                    score = score + wordscore + hashtagscore
-                if features == 1:
+                    score = score + wordscore
+                if featureCount == 1:
                     h = pd.Series([str(processeddataset['id'][i]),score,str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
-                if features == 2:
+                if featureCount == 2:
                     h = pd.Series([str(processeddataset['id'][i]),score,importantwordcount,str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
                 angerFeatureFrame = angerFeatureFrame.append(h,ignore_index = True)
                 i = i + 1
@@ -135,3 +130,5 @@ def extracting(emotion,features):
             angerFeatureFrame.to_csv(emotionscores,header=['id','score','importantwordcount','intensity'], index = False, sep='\t')
     
     print('Done with Feature Extraction....Training set')
+
+extracting(4,2)

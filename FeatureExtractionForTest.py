@@ -10,14 +10,14 @@ import numpy as np
 import pandas as pd
 import sys
 from pathlib import Path
-
-argument = str(sys.argv)
-argument = argument.replace('[','')
-argument = argument.replace(']','')
-argument = argument.replace("'",'')
-arguments = argument.split(',')
-if len(arguments)==1:
-    raise ValueError('Minimum number of arguments is:',1)
+#
+#argument = str(sys.argv)
+#argument = argument.replace('[','')
+#argument = argument.replace(']','')
+#argument = argument.replace("'",'')
+#arguments = argument.split(',')
+#if len(arguments)==1:
+#    raise ValueError('Minimum number of arguments is:',1)
  
 #Method to score emotion intensity
 def get_score(wordtable,emotion,wordstring):
@@ -40,7 +40,7 @@ def get_valence_score(sentimentwordtable,wordstring):
     else:
         return 0.0
     
-def extracting(emotion,features):
+def extracting(emotion,featureCount):
     #NRC Hashtag Emotion lexicon
     features = ['id','sentence','intensity']
     wordtable=pd.read_table('./NRC-Sentiment-Emotion-Lexicons/Lexicons/NRC-Hashtag-Emotion-Lexicon-v0.2/NRC-Hashtag-Emotion-Lexicon-v0.2.txt',header=None)
@@ -89,17 +89,18 @@ def extracting(emotion,features):
                 row = row.replace('\'','')
                 row = row.replace(' ','')
                 score = 0.0
-                hashtagfinalscore = 0
                 for t in row.split(','):
-                    hashtagscore = 0.0
                     text = t.replace(' ','')
                     if len(text) > 0:
                         wordscore = get_valence_score(sentimentwordtable, text)
                         if(wordscore >= 1):
                             importantwordcount += 1
-                            score = score + wordscore
-        
-                h = pd.Series([str(processeddataset['id'][i]), score, str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
+                        score = score + wordscore
+                
+                if featureCount == 1:
+                    h = pd.Series([str(processeddataset['id'][i]),score,str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
+                if featureCount == 2:
+                    h = pd.Series([str(processeddataset['id'][i]), score, importantwordcount, str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
                 angerFeatureFrame = angerFeatureFrame.append(h,ignore_index = True)
                 i = i + 1    
     else:
@@ -115,21 +116,16 @@ def extracting(emotion,features):
                 row = row.replace('\'','')
                 row = row.replace(' ','')
                 score = 0.0
-                hashtagfinalscore = 0
+                h = pd.Series()
                 for text in row.split(','):
                     totalWords += 1
-                    hashtagscore = 0.0
-                    if('#' in text):
-                        hashtagscore = get_score(wordtable, emotiontext, text)
-                        if hashtagscore>=0.5:
-                            hashtagfinalscore += hashtagscore
                     wordscore = get_score(wordtable, emotiontext, text)
                     if(wordscore >= 0.5):
                         importantwordcount += 1
-                    score = score + wordscore + hashtagscore
-                if features == 1:
+                    score = score + wordscore 
+                if featureCount == 1:
                     h = pd.Series([str(processeddataset['id'][i]),score,str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
-                if features == 2:
+                if featureCount == 2:
                     h = pd.Series([str(processeddataset['id'][i]),score,importantwordcount,str(processeddataset['intensity'][i])])#importantwordcount#hashtagfinalscore
                 angerFeatureFrame = angerFeatureFrame.append(h,ignore_index = True)
                 i = i + 1 
@@ -140,3 +136,5 @@ def extracting(emotion,features):
             angerFeatureFrame.to_csv(emotionscores,header=['id','score','importantwordcount','intensity'], index = False, sep='\t')
     
     print('Done with Feature Extraction....For Test dataset')
+
+extracting(4,2)
