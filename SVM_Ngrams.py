@@ -70,8 +70,10 @@ for row in processeddataset['sentence']:
         sentencedata += text+' '
     data += [sentencedata]
 
+data = np.array(data)
+data = data[:len(data)-200]
 labels = np.array(processeddataset['intensity'])
-
+labels = labels[:len(labels)-200]
 #test data
 
 datatest = []

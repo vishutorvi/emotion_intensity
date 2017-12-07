@@ -43,12 +43,15 @@ def classify(emotion,featureCount):
         
         angerframetest1 = np.array(angerframetest2)
         angerframe1 = np.array(angerframe2)
-        labeltrain = np.array(processeddataset['intensity'])
-        labeltrain = np.array([labeltrain[:len(labeltrain)-200]])#np.array([list(processeddataset['intensity'])])
+        if emotion == 4:
+            labeltrain = np.array([processeddataset['intensity']])
+        else:
+            labeltrain = np.array([labeltrain[:len(labeltrain)-200]])#np.array([list(processeddataset['intensity'])])
         labeltest = np.array([list(processedtestset['intensity'])])
-        #print(len(labeltrain.T))
-        #print(len(angerframe1))
+#        print(len(labeltrain))
+#        print(len(angerframe1))
         angerframe1 = np.append(labeltrain.T, angerframe1, axis = 1)
+        print(angerframe1)
         angerframetest1 = np.append(labeltest.T, angerframetest1, axis = 1)
     else:    
         if emotion == 0:
