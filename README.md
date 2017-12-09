@@ -16,8 +16,8 @@
     # Step 2: Feature Selection <--Yet to Start-->
 	1) Using NRC Hashtag Emotion Association Lexicon (NRC-Hash-Emo)
 		2 Approach Feature Extraction
-			a) Score Feature Only
-			b) Score Feature and ImportantWordCount 
+		a) Score Feature Only
+		b) Score Feature and ImportantWordCount 
 	2) Bag of N-Grams 
 	3) Using Word2Vec Word Embedding
 		
