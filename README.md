@@ -1,4 +1,10 @@
 # Sentiment Intensity Affects on Twitter Data
+    # System Requirements
+    	RAM = 8 GB Minimum required
+	GPU = Not Neccessary but improves performance
+	Programming Platform: Python 3
+	Libraries Required = Numpy, Pandas, NLTK, Scikit Learn, re, keras with tensorflow backend
+	Processor = Multi core improves performs but not a requirement    	
     
     # Step 1: Data Preprocessing
 	a) Removal of Stem words
